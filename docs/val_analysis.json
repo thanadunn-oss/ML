@@ -1,0 +1,404 @@
+{
+  "20261003-113735-resnet18": {
+    "arch": "resnet18",
+    "val_macro_f1": 0.4218,
+    "per_class": {
+      "nevus": {
+        "P": 0.74,
+        "R": 0.61,
+        "F1": 0.67,
+        "n": 66
+      },
+      "bcc": {
+        "P": 0.45,
+        "R": 0.58,
+        "F1": 0.51,
+        "n": 24
+      },
+      "melanoma": {
+        "P": 0.38,
+        "R": 0.42,
+        "F1": 0.4,
+        "n": 24
+      },
+      "keratosis": {
+        "P": 0.27,
+        "R": 0.37,
+        "F1": 0.31,
+        "n": 19
+      },
+      "scc": {
+        "P": 0.29,
+        "R": 0.18,
+        "F1": 0.22,
+        "n": 11
+      }
+    },
+    "val_cm": [
+      [
+        40,
+        5,
+        13,
+        8,
+        0
+      ],
+      [
+        2,
+        14,
+        1,
+        5,
+        2
+      ],
+      [
+        6,
+        4,
+        10,
+        4,
+        0
+      ],
+      [
+        5,
+        3,
+        1,
+        7,
+        3
+      ],
+      [
+        1,
+        5,
+        1,
+        2,
+        2
+      ]
+    ],
+    "params_M": 11.18,
+    "model_file_MB": 44.8,
+    "cpu_latency_ms_per_image": 29.8,
+    "threshold_sweep": [
+      {
+        "tau": 0.0,
+        "auto_frac": 1.0,
+        "review_frac": 0.0,
+        "auto_acc": 0.507,
+        "melanoma_missed_without_review": 14
+      },
+      {
+        "tau": 0.4,
+        "auto_frac": 0.951,
+        "review_frac": 0.049,
+        "auto_acc": 0.511,
+        "melanoma_missed_without_review": 13
+      },
+      {
+        "tau": 0.5,
+        "auto_frac": 0.833,
+        "review_frac": 0.167,
+        "auto_acc": 0.508,
+        "melanoma_missed_without_review": 11
+      },
+      {
+        "tau": 0.6,
+        "auto_frac": 0.701,
+        "review_frac": 0.299,
+        "auto_acc": 0.554,
+        "melanoma_missed_without_review": 10
+      },
+      {
+        "tau": 0.7,
+        "auto_frac": 0.569,
+        "review_frac": 0.431,
+        "auto_acc": 0.598,
+        "melanoma_missed_without_review": 8
+      },
+      {
+        "tau": 0.8,
+        "auto_frac": 0.424,
+        "review_frac": 0.576,
+        "auto_acc": 0.623,
+        "melanoma_missed_without_review": 5
+      },
+      {
+        "tau": "0.5 + p(mel)>=0.2",
+        "auto_frac": 0.604,
+        "review_frac": 0.396,
+        "auto_acc": 0.54,
+        "melanoma_missed_without_review": 9
+      },
+      {
+        "tau": "0.6 + p(mel)>=0.2",
+        "auto_frac": 0.514,
+        "review_frac": 0.486,
+        "auto_acc": 0.595,
+        "melanoma_missed_without_review": 8
+      }
+    ]
+  },
+  "20261003-123032-efficientnet_b0": {
+    "arch": "efficientnet_b0",
+    "val_macro_f1": 0.408,
+    "per_class": {
+      "nevus": {
+        "P": 0.7,
+        "R": 0.89,
+        "F1": 0.79,
+        "n": 66
+      },
+      "bcc": {
+        "P": 0.5,
+        "R": 0.58,
+        "F1": 0.54,
+        "n": 24
+      },
+      "melanoma": {
+        "P": 0.33,
+        "R": 0.17,
+        "F1": 0.22,
+        "n": 24
+      },
+      "keratosis": {
+        "P": 0.3,
+        "R": 0.16,
+        "F1": 0.21,
+        "n": 19
+      },
+      "scc": {
+        "P": 0.3,
+        "R": 0.27,
+        "F1": 0.29,
+        "n": 11
+      }
+    },
+    "val_cm": [
+      [
+        59,
+        3,
+        4,
+        0,
+        0
+      ],
+      [
+        5,
+        14,
+        1,
+        1,
+        3
+      ],
+      [
+        12,
+        5,
+        4,
+        2,
+        1
+      ],
+      [
+        7,
+        3,
+        3,
+        3,
+        3
+      ],
+      [
+        1,
+        3,
+        0,
+        4,
+        3
+      ]
+    ],
+    "params_M": 4.01,
+    "model_file_MB": 16.3,
+    "cpu_latency_ms_per_image": 20.5,
+    "threshold_sweep": [
+      {
+        "tau": 0.0,
+        "auto_frac": 1.0,
+        "review_frac": 0.0,
+        "auto_acc": 0.576,
+        "melanoma_missed_without_review": 20
+      },
+      {
+        "tau": 0.4,
+        "auto_frac": 0.792,
+        "review_frac": 0.208,
+        "auto_acc": 0.658,
+        "melanoma_missed_without_review": 13
+      },
+      {
+        "tau": 0.5,
+        "auto_frac": 0.611,
+        "review_frac": 0.389,
+        "auto_acc": 0.693,
+        "melanoma_missed_without_review": 11
+      },
+      {
+        "tau": 0.6,
+        "auto_frac": 0.444,
+        "review_frac": 0.556,
+        "auto_acc": 0.75,
+        "melanoma_missed_without_review": 8
+      },
+      {
+        "tau": 0.7,
+        "auto_frac": 0.375,
+        "review_frac": 0.625,
+        "auto_acc": 0.759,
+        "melanoma_missed_without_review": 7
+      },
+      {
+        "tau": 0.8,
+        "auto_frac": 0.264,
+        "review_frac": 0.736,
+        "auto_acc": 0.789,
+        "melanoma_missed_without_review": 5
+      },
+      {
+        "tau": "0.5 + p(mel)>=0.2",
+        "auto_frac": 0.472,
+        "review_frac": 0.528,
+        "auto_acc": 0.706,
+        "melanoma_missed_without_review": 8
+      },
+      {
+        "tau": "0.6 + p(mel)>=0.2",
+        "auto_frac": 0.375,
+        "review_frac": 0.625,
+        "auto_acc": 0.741,
+        "melanoma_missed_without_review": 6
+      }
+    ]
+  },
+  "20261003-132142-efficientnet_b0": {
+    "arch": "efficientnet_b0",
+    "val_macro_f1": 0.4682,
+    "per_class": {
+      "nevus": {
+        "P": 0.78,
+        "R": 0.68,
+        "F1": 0.73,
+        "n": 66
+      },
+      "bcc": {
+        "P": 0.73,
+        "R": 0.33,
+        "F1": 0.46,
+        "n": 24
+      },
+      "melanoma": {
+        "P": 0.26,
+        "R": 0.42,
+        "F1": 0.32,
+        "n": 24
+      },
+      "keratosis": {
+        "P": 0.38,
+        "R": 0.47,
+        "F1": 0.42,
+        "n": 19
+      },
+      "scc": {
+        "P": 0.38,
+        "R": 0.45,
+        "F1": 0.42,
+        "n": 11
+      }
+    },
+    "val_cm": [
+      [
+        45,
+        0,
+        17,
+        2,
+        2
+      ],
+      [
+        2,
+        8,
+        7,
+        4,
+        3
+      ],
+      [
+        7,
+        1,
+        10,
+        5,
+        1
+      ],
+      [
+        3,
+        1,
+        4,
+        9,
+        2
+      ],
+      [
+        1,
+        1,
+        0,
+        4,
+        5
+      ]
+    ],
+    "params_M": 4.01,
+    "model_file_MB": 16.3,
+    "cpu_latency_ms_per_image": 25.1,
+    "threshold_sweep": [
+      {
+        "tau": 0.0,
+        "auto_frac": 1.0,
+        "review_frac": 0.0,
+        "auto_acc": 0.535,
+        "melanoma_missed_without_review": 14
+      },
+      {
+        "tau": 0.4,
+        "auto_frac": 0.951,
+        "review_frac": 0.049,
+        "auto_acc": 0.54,
+        "melanoma_missed_without_review": 13
+      },
+      {
+        "tau": 0.5,
+        "auto_frac": 0.819,
+        "review_frac": 0.181,
+        "auto_acc": 0.576,
+        "melanoma_missed_without_review": 8
+      },
+      {
+        "tau": 0.6,
+        "auto_frac": 0.646,
+        "review_frac": 0.354,
+        "auto_acc": 0.602,
+        "melanoma_missed_without_review": 7
+      },
+      {
+        "tau": 0.7,
+        "auto_frac": 0.465,
+        "review_frac": 0.535,
+        "auto_acc": 0.657,
+        "melanoma_missed_without_review": 5
+      },
+      {
+        "tau": 0.8,
+        "auto_frac": 0.299,
+        "review_frac": 0.701,
+        "auto_acc": 0.674,
+        "melanoma_missed_without_review": 4
+      },
+      {
+        "tau": "0.5 + p(mel)>=0.2",
+        "auto_frac": 0.424,
+        "review_frac": 0.576,
+        "auto_acc": 0.639,
+        "melanoma_missed_without_review": 5
+      },
+      {
+        "tau": "0.6 + p(mel)>=0.2",
+        "auto_frac": 0.382,
+        "review_frac": 0.618,
+        "auto_acc": 0.673,
+        "melanoma_missed_without_review": 5
+      }
+    ]
+  }
+}

@@ -54,7 +54,67 @@ scc        [0, 5, 0, 2, 4]
 - ตามเกณฑ์ val รอบ 3 สูงสุด (0.417) แต่ต่างจากรอบ 1 (0.414) เพียง 0.003 ซึ่งอยู่ในระดับความแกว่งของ val ที่มี 144 ภาพ จึงถือว่าเสมอกัน
 - ไฟล์โมเดลรอบ 2–3 สูญหาย จึง **ส่งรอบ 1 (ResNet18) เป็นโมเดลรุ่นแรกให้ Registry/API** และจะเทรนรอบ 3 ใหม่ด้วย train.py ตัวใหม่ เมื่อเลือกได้ด้วย val แล้วค่อยเปลี่ยนรุ่นผ่าน Registry
 
-## ข้อค้นพบ (Error analysis เบื้องต้น)
+## รันซ้ำบน Colab (ชุดที่ 2) — 3 ต.ค. 2569
+
+รันด้วย train.py เวอร์ชันแรก (ยังพิมพ์ test) บน **CPU** (Colab ไม่ได้จัด GPU ให้, ~180–210 วินาที/epoch) ค่าอื่นเหมือนชุดแรกทุกอย่าง (seed 42)
+ไฟล์โมเดลครบทั้ง 3 รอบ (runs_rerun.zip) — ผลด้านล่างคำนวณซ้ำบน val จาก model.pt ได้ค่าตรงกับ metrics.json
+
+| รอบ | run_id | arch | การเปลี่ยนแปลง | best val Macro F1 | params | ขนาดไฟล์ | CPU latency/ภาพ |
+|---|---|---|---|---|---|---|---|
+| 1 | 20261003-113735-resnet18 | resnet18 | baseline | 0.4218 | 11.2M | 44.8 MB | ~30 ms |
+| 2 | 20261003-123032-efficientnet_b0 | efficientnet_b0 | เปลี่ยนสถาปัตยกรรม | 0.4080 | 4.0M | 16.3 MB | ~21 ms |
+| 3 | 20261003-132142-efficientnet_b0 | efficientnet_b0 | + weighted loss, 25 epochs | **0.4682** | 4.0M | 16.3 MB | ~25 ms |
+
+latency วัดบน CPU 2 cores ภาพเดียว หลัง warm-up เฉลี่ย 30 ครั้ง (ยังไม่รวม preprocessing/HTTP)
+
+### ความแกว่งระหว่างชุดที่ 1 (GPU) กับชุดที่ 2 (CPU) ที่ seed เดียวกัน
+
+| รอบ | val ชุด 1 | val ชุด 2 | ต่าง |
+|---|---|---|---|
+| 1 resnet18 | 0.414 | 0.422 | +0.008 |
+| 2 efficientnet_b0 | 0.389 | 0.408 | +0.019 |
+| 3 efficientnet_b0 + wl | 0.417 | 0.468 | +0.051 |
+
+ผลแกว่งได้ถึง ~0.05 เมื่อเปลี่ยนฮาร์ดแวร์ → ต้องตีความความต่างเล็กๆ ระหว่างรอบด้วยความระมัดระวัง
+
+### Val confusion matrix (rows = จริง, cols = ทาย; nevus, bcc, melanoma, keratosis, scc)
+
+รอบ 1 resnet18
+```
+nevus      [40, 5, 13, 8, 0]
+bcc        [2, 14, 1, 5, 2]
+melanoma   [6, 4, 10, 4, 0]
+keratosis  [5, 3, 1, 7, 3]
+scc        [1, 5, 1, 2, 2]
+```
+รอบ 2 efficientnet_b0
+```
+nevus      [59, 3, 4, 0, 0]
+bcc        [5, 14, 1, 1, 3]
+melanoma   [12, 5, 4, 2, 1]
+keratosis  [7, 3, 3, 3, 3]
+scc        [1, 3, 0, 4, 3]
+```
+รอบ 3 efficientnet_b0 + weighted loss
+```
+nevus      [45, 0, 17, 2, 2]
+bcc        [2, 8, 7, 4, 3]
+melanoma   [7, 1, 10, 5, 1]
+keratosis  [3, 1, 4, 9, 2]
+scc        [1, 1, 0, 4, 5]
+```
+
+ข้อสังเกตจาก val:
+- รอบ 2 (ไม่ถ่วงน้ำหนัก) เอนไปทาง nevus มาก: melanoma ถูกทายเป็น nevus 12/24, melanoma recall 0.17
+- รอบ 3 (weighted loss) melanoma recall ขึ้นเป็น 0.42 และ keratosis/scc ดีขึ้น แต่แลกกับ nevus ถูกทายเป็น melanoma 17/66 (false alarm) และ bcc recall ลดเหลือ 0.33
+- keratosis ↔ scc ยังสับสนกันทุกรอบ สอดคล้องกับประเด็นการรวม actinic keratosis
+
+### การตัดสินใจ (ชุดที่ 2)
+
+ตามเกณฑ์ best val Macro F1: **รอบ 3 (20261003-132142-efficientnet_b0)** — สูงกว่ารอบ 1 อยู่ 0.046 และยังเล็กกว่า (4.0M vs 11.2M params) และเร็วกว่าบน CPU
+เสนอเป็น **model v2** แทน v1 (ResNet18 ชุดแรก) ผ่าน Registry ของคนที่ 4
+
+## ข้อค้นพบ (Error analysis เบื้องต้น — จากชุดที่ 1)
 
 1. melanoma ถูกทายเป็น nevus 11/23 ภาพในรอบ 1 — เป็นรอยโรคเซลล์เม็ดสีทั้งคู่ และ nevus เป็นคลาสใหญ่สุด
 2. weighted loss เพิ่ม recall ของ melanoma (0.17 → 0.30) และ scc (0.36 → 0.45) แต่ nevus recall ลด (0.81 → 0.64)
