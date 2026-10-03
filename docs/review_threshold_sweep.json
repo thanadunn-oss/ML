@@ -1,0 +1,56 @@
+{
+  "run": "runs/20261004-010030-efficientnet_b0",
+  "split": "val",
+  "rule": "max probability < tau → needs_review",
+  "sweep": [
+    {
+      "tau": 0.0,
+      "review_frac": 0.0,
+      "auto_accuracy": 0.832,
+      "melanoma_missed_without_review": 56,
+      "melanoma_total": 159
+    },
+    {
+      "tau": 0.4,
+      "review_frac": 0.008,
+      "auto_accuracy": 0.836,
+      "melanoma_missed_without_review": 53,
+      "melanoma_total": 159
+    },
+    {
+      "tau": 0.5,
+      "review_frac": 0.022,
+      "auto_accuracy": 0.843,
+      "melanoma_missed_without_review": 52,
+      "melanoma_total": 159
+    },
+    {
+      "tau": 0.6,
+      "review_frac": 0.081,
+      "auto_accuracy": 0.855,
+      "melanoma_missed_without_review": 48,
+      "melanoma_total": 159
+    },
+    {
+      "tau": 0.7,
+      "review_frac": 0.131,
+      "auto_accuracy": 0.877,
+      "melanoma_missed_without_review": 39,
+      "melanoma_total": 159
+    },
+    {
+      "tau": 0.8,
+      "review_frac": 0.196,
+      "auto_accuracy": 0.899,
+      "melanoma_missed_without_review": 32,
+      "melanoma_total": 159
+    },
+    {
+      "tau": 0.9,
+      "review_frac": 0.287,
+      "auto_accuracy": 0.927,
+      "melanoma_missed_without_review": 22,
+      "melanoma_total": 159
+    }
+  ]
+}

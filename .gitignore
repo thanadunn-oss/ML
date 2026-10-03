@@ -1,0 +1,21 @@
+# โมเดลและไฟล์ใหญ่ ไม่เก็บใน Git — โมเดลเก็บใน MLflow (คนที่ 4)
+# หมายเหตุ: data/model_images/ (1,068 ภาพ ~4 MB) เก็บใน Git ตั้งใจ เพื่อให้ clone แล้วรันได้ทันที
+*.zip
+*.pt
+*.pth
+runs/
+mlruns/
+FINAL_TEST_USED.txt
+__pycache__/
+.venv/
+.ipynb_checkpoints/
+
+# HAM10000 (~2.5 GB) ไม่เก็บใน Git — ดาวน์โหลดจาก Kaggle ตาม docs/HAM10000_VSCODE_GUIDE.md
+data/ham10000/
+data/data_report.json
+
+# MLflow (ในเครื่อง)
+mlflow.db
+mlartifacts/
+.deploy_tmp/
+API/artifacts/**/model.pt
