@@ -1,0 +1,10 @@
+# ภาพและโมเดลใหญ่ ไม่เก็บใน Git — เก็บใน Drive/MLflow แล้วอ้างอิงตาม README
+*.zip
+*.pt
+*.pth
+runs/
+mlruns/
+FINAL_TEST_USED.txt
+__pycache__/
+.venv/
+.ipynb_checkpoints/

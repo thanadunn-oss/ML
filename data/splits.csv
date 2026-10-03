@@ -1,0 +1,964 @@
+isic_id,iddx_3,label,label_idx,split
+ISIC_0077462,Lichen planus like keratosis,keratosis,3,val
+ISIC_0079802,Nevus,nevus,0,train
+ISIC_0082829,Squamous cell carcinoma in situ,scc,4,train
+ISIC_0085805,Nevus,nevus,0,train
+ISIC_0096034,Basal cell carcinoma,bcc,1,train
+ISIC_0104229,Basal cell carcinoma,bcc,1,test
+ISIC_0118649,Nevus,nevus,0,train
+ISIC_0119495,"Squamous cell carcinoma, Invasive",scc,4,train
+ISIC_0130474,Solar or actinic keratosis,keratosis,3,train
+ISIC_0131772,Nevus,nevus,0,test
+ISIC_0144064,Seborrheic keratosis,keratosis,3,test
+ISIC_0149727,Nevus,nevus,0,train
+ISIC_0157834,Basal cell carcinoma,bcc,1,train
+ISIC_0174034,Nevus,nevus,0,train
+ISIC_0190307,Basal cell carcinoma,bcc,1,test
+ISIC_0204787,Nevus,nevus,0,train
+ISIC_0211092,Basal cell carcinoma,bcc,1,train
+ISIC_0220459,Melanoma in situ,melanoma,2,train
+ISIC_0220736,Nevus,nevus,0,train
+ISIC_0221455,Nevus,nevus,0,train
+ISIC_0235913,Nevus,nevus,0,val
+ISIC_0238218,Basal cell carcinoma,bcc,1,train
+ISIC_0239259,Nevus,nevus,0,train
+ISIC_0275647,Melanoma in situ,melanoma,2,train
+ISIC_0279372,Melanoma in situ,melanoma,2,train
+ISIC_0287900,Basal cell carcinoma,bcc,1,train
+ISIC_0293670,Basal cell carcinoma,bcc,1,train
+ISIC_0304381,Nevus,nevus,0,val
+ISIC_0321944,Melanoma in situ,melanoma,2,test
+ISIC_0330452,Melanoma Invasive,melanoma,2,train
+ISIC_0332355,Basal cell carcinoma,bcc,1,val
+ISIC_0338720,"Melanoma, NOS",melanoma,2,train
+ISIC_0348709,Nevus,nevus,0,val
+ISIC_0373278,Nevus,nevus,0,train
+ISIC_0373748,Nevus,nevus,0,train
+ISIC_0386301,Seborrheic keratosis,keratosis,3,train
+ISIC_0386460,Squamous cell carcinoma in situ,scc,4,train
+ISIC_0392749,Melanoma in situ,melanoma,2,train
+ISIC_0395316,Solar or actinic keratosis,keratosis,3,train
+ISIC_0407556,Solar or actinic keratosis,keratosis,3,val
+ISIC_0429895,"Squamous cell carcinoma, Invasive",scc,4,train
+ISIC_0445144,"Melanoma, NOS",melanoma,2,val
+ISIC_0450251,Nevus,nevus,0,val
+ISIC_0452332,"Squamous cell carcinoma, Invasive",scc,4,train
+ISIC_0467830,Melanoma in situ,melanoma,2,train
+ISIC_0470650,Nevus,nevus,0,train
+ISIC_0521019,Melanoma in situ,melanoma,2,train
+ISIC_0527743,Basal cell carcinoma,bcc,1,train
+ISIC_0528190,Basal cell carcinoma,bcc,1,train
+ISIC_0534579,Nevus,nevus,0,train
+ISIC_0538155,Nevus,nevus,0,test
+ISIC_0542544,Nevus,nevus,0,train
+ISIC_0543168,Nevus,nevus,0,train
+ISIC_0548826,Nevus,nevus,0,train
+ISIC_0554252,Melanoma in situ,melanoma,2,train
+ISIC_0565021,Basal cell carcinoma,bcc,1,train
+ISIC_0605399,Nevus,nevus,0,test
+ISIC_0628007,Nevus,nevus,0,train
+ISIC_0638180,Basal cell carcinoma,bcc,1,train
+ISIC_0643641,Nevus,nevus,0,test
+ISIC_0659676,Lichen planus like keratosis,keratosis,3,train
+ISIC_0664135,Squamous cell carcinoma in situ,scc,4,test
+ISIC_0664841,Melanoma in situ,melanoma,2,train
+ISIC_0674057,Nevus,nevus,0,train
+ISIC_0697700,Nevus,nevus,0,train
+ISIC_0699524,Basal cell carcinoma,bcc,1,val
+ISIC_0704471,Nevus,nevus,0,train
+ISIC_0704481,Basal cell carcinoma,bcc,1,test
+ISIC_0716625,Nevus,nevus,0,train
+ISIC_0719242,Nevus,nevus,0,train
+ISIC_0719839,Basal cell carcinoma,bcc,1,train
+ISIC_0736674,Nevus,nevus,0,train
+ISIC_0760004,Basal cell carcinoma,bcc,1,train
+ISIC_0763691,Basal cell carcinoma,bcc,1,test
+ISIC_0770686,Basal cell carcinoma,bcc,1,train
+ISIC_0777362,Pigmented benign keratosis,keratosis,3,train
+ISIC_0785292,Nevus,nevus,0,train
+ISIC_0793445,Squamous cell carcinoma in situ,scc,4,train
+ISIC_0809176,Nevus,nevus,0,test
+ISIC_0811515,Basal cell carcinoma,bcc,1,train
+ISIC_0812720,Nevus,nevus,0,train
+ISIC_0814829,Basal cell carcinoma,bcc,1,val
+ISIC_0816682,Nevus,nevus,0,val
+ISIC_0848536,Basal cell carcinoma,bcc,1,val
+ISIC_0856635,Nevus,nevus,0,test
+ISIC_0858336,Nevus,nevus,0,val
+ISIC_0889556,Solar lentigo,keratosis,3,test
+ISIC_0909268,Nevus,nevus,0,train
+ISIC_0909612,Nevus,nevus,0,test
+ISIC_0911056,Nevus,nevus,0,train
+ISIC_0918465,Melanoma in situ,melanoma,2,train
+ISIC_0927788,Nevus,nevus,0,train
+ISIC_0928201,Nevus,nevus,0,test
+ISIC_0934108,Nevus,nevus,0,test
+ISIC_0940056,Solar or actinic keratosis,keratosis,3,train
+ISIC_0968965,Basal cell carcinoma,bcc,1,train
+ISIC_1007857,Nevus,nevus,0,val
+ISIC_1016474,Nevus,nevus,0,train
+ISIC_1020240,Basal cell carcinoma,bcc,1,train
+ISIC_1034966,Basal cell carcinoma,bcc,1,train
+ISIC_1051920,Nevus,nevus,0,train
+ISIC_1053401,Nevus,nevus,0,val
+ISIC_1060007,Nevus,nevus,0,train
+ISIC_1063394,Melanoma in situ,melanoma,2,train
+ISIC_1067206,Solar or actinic keratosis,keratosis,3,train
+ISIC_1071408,Basal cell carcinoma,bcc,1,train
+ISIC_1071492,Melanoma Invasive,melanoma,2,train
+ISIC_1080389,Nevus,nevus,0,train
+ISIC_1090495,Nevus,nevus,0,train
+ISIC_1096940,Basal cell carcinoma,bcc,1,train
+ISIC_1105843,Melanoma in situ,melanoma,2,train
+ISIC_1105887,Basal cell carcinoma,bcc,1,train
+ISIC_1110208,Solar lentigo,keratosis,3,train
+ISIC_1111537,Melanoma in situ,melanoma,2,val
+ISIC_1125217,Nevus,nevus,0,train
+ISIC_1135529,Melanoma Invasive,melanoma,2,train
+ISIC_1140741,Nevus,nevus,0,test
+ISIC_1141528,Squamous cell carcinoma in situ,scc,4,test
+ISIC_1144927,Nevus,nevus,0,val
+ISIC_1145601,Basal cell carcinoma,bcc,1,train
+ISIC_1149173,Nevus,nevus,0,train
+ISIC_1164461,Basal cell carcinoma,bcc,1,train
+ISIC_1166433,Nevus,nevus,0,train
+ISIC_1171041,Nevus,nevus,0,train
+ISIC_1186361,Melanoma Invasive,melanoma,2,test
+ISIC_1199348,Seborrheic keratosis,keratosis,3,train
+ISIC_1211710,"Squamous cell carcinoma, Invasive",scc,4,train
+ISIC_1217551,Melanoma Invasive,melanoma,2,train
+ISIC_1232895,Seborrheic keratosis,keratosis,3,train
+ISIC_1246526,Basal cell carcinoma,bcc,1,train
+ISIC_1253804,Nevus,nevus,0,test
+ISIC_1257488,Melanoma in situ,melanoma,2,val
+ISIC_1262710,"Squamous cell carcinoma, Invasive",scc,4,train
+ISIC_1273941,Nevus,nevus,0,train
+ISIC_1275044,Lichen planus like keratosis,keratosis,3,train
+ISIC_1280051,Nevus,nevus,0,train
+ISIC_1305724,Lentigo NOS,keratosis,3,train
+ISIC_1319552,Nevus,nevus,0,train
+ISIC_1327211,Nevus,nevus,0,train
+ISIC_1347125,Lentigo NOS,keratosis,3,train
+ISIC_1350043,Nevus,nevus,0,val
+ISIC_1357366,Basal cell carcinoma,bcc,1,train
+ISIC_1366287,Nevus,nevus,0,train
+ISIC_1372633,Nevus,nevus,0,train
+ISIC_1375096,Nevus,nevus,0,test
+ISIC_1377023,Basal cell carcinoma,bcc,1,train
+ISIC_1377916,Nevus,nevus,0,train
+ISIC_1394459,Nevus,nevus,0,train
+ISIC_1412248,Nevus,nevus,0,train
+ISIC_1424945,Nevus,nevus,0,test
+ISIC_1436101,Nevus,nevus,0,train
+ISIC_1459374,Solar or actinic keratosis,keratosis,3,train
+ISIC_1462899,Seborrheic keratosis,keratosis,3,train
+ISIC_1464154,Nevus,nevus,0,train
+ISIC_1475360,Nevus,nevus,0,train
+ISIC_1480614,Melanoma Invasive,melanoma,2,val
+ISIC_1511550,Nevus,nevus,0,train
+ISIC_1520073,Nevus,nevus,0,train
+ISIC_1535063,Solar or actinic keratosis,keratosis,3,train
+ISIC_1535593,Nevus,nevus,0,val
+ISIC_1540514,Basal cell carcinoma,bcc,1,train
+ISIC_1548228,Nevus,nevus,0,test
+ISIC_1559920,Nevus,nevus,0,train
+ISIC_1560725,Nevus,nevus,0,train
+ISIC_1582333,Nevus,nevus,0,train
+ISIC_1586355,Nevus,nevus,0,train
+ISIC_1587851,Seborrheic keratosis,keratosis,3,train
+ISIC_1606879,Nevus,nevus,0,train
+ISIC_1621074,Melanoma Invasive,melanoma,2,train
+ISIC_1623236,Melanoma in situ,melanoma,2,train
+ISIC_1630763,Nevus,nevus,0,train
+ISIC_1638855,Nevus,nevus,0,train
+ISIC_1640109,Melanoma Invasive,melanoma,2,train
+ISIC_1645097,Basal cell carcinoma,bcc,1,train
+ISIC_1655895,Nevus,nevus,0,val
+ISIC_1662575,Nevus,nevus,0,train
+ISIC_1662809,Melanoma in situ,melanoma,2,train
+ISIC_1677153,Seborrheic keratosis,keratosis,3,train
+ISIC_1694042,Nevus,nevus,0,test
+ISIC_1694963,Squamous cell carcinoma in situ,scc,4,train
+ISIC_1705108,Basal cell carcinoma,bcc,1,train
+ISIC_1718352,Nevus,nevus,0,train
+ISIC_1721956,Basal cell carcinoma,bcc,1,train
+ISIC_1741809,Basal cell carcinoma,bcc,1,val
+ISIC_1753955,Nevus,nevus,0,train
+ISIC_1759831,Nevus,nevus,0,train
+ISIC_1768986,Seborrheic keratosis,keratosis,3,train
+ISIC_1773560,Seborrheic keratosis,keratosis,3,test
+ISIC_1778071,Nevus,nevus,0,test
+ISIC_1785246,Nevus,nevus,0,train
+ISIC_1786961,Basal cell carcinoma,bcc,1,train
+ISIC_1792562,Basal cell carcinoma,bcc,1,train
+ISIC_1803647,Nevus,nevus,0,train
+ISIC_1805261,Melanoma metastasis,melanoma,2,val
+ISIC_1821883,Nevus,nevus,0,val
+ISIC_1825785,Nevus,nevus,0,test
+ISIC_1838482,Solar or actinic keratosis,keratosis,3,train
+ISIC_1855712,Solar lentigo,keratosis,3,train
+ISIC_1885694,"Squamous cell carcinoma, Invasive",scc,4,train
+ISIC_1894331,Nevus,nevus,0,test
+ISIC_1899939,Nevus,nevus,0,test
+ISIC_1926329,Nevus,nevus,0,train
+ISIC_1935364,Seborrheic keratosis,keratosis,3,val
+ISIC_1935648,Solar or actinic keratosis,keratosis,3,val
+ISIC_1935982,Basal cell carcinoma,bcc,1,train
+ISIC_1961992,Nevus,nevus,0,train
+ISIC_1968215,Nevus,nevus,0,test
+ISIC_1987125,Nevus,nevus,0,val
+ISIC_2003733,Seborrheic keratosis,keratosis,3,train
+ISIC_2023222,Squamous cell carcinoma in situ,scc,4,train
+ISIC_2027124,"Melanoma, NOS",melanoma,2,val
+ISIC_2031355,Basal cell carcinoma,bcc,1,train
+ISIC_2043443,Basal cell carcinoma,bcc,1,train
+ISIC_2055754,Nevus,nevus,0,test
+ISIC_2065263,Nevus,nevus,0,train
+ISIC_2066012,Nevus,nevus,0,train
+ISIC_2068746,"Melanoma, NOS",melanoma,2,train
+ISIC_2090145,"Squamous cell carcinoma, NOS",scc,4,train
+ISIC_2090244,Basal cell carcinoma,bcc,1,train
+ISIC_2100481,Nevus,nevus,0,train
+ISIC_2100625,Nevus,nevus,0,test
+ISIC_2105096,Nevus,nevus,0,train
+ISIC_2113934,Nevus,nevus,0,train
+ISIC_2116022,Nevus,nevus,0,train
+ISIC_2122753,Nevus,nevus,0,val
+ISIC_2138706,Melanoma in situ,melanoma,2,test
+ISIC_2143179,Nevus,nevus,0,train
+ISIC_2150673,Nevus,nevus,0,train
+ISIC_2156458,Nevus,nevus,0,train
+ISIC_2167137,Nevus,nevus,0,train
+ISIC_2174953,Solar or actinic keratosis,keratosis,3,val
+ISIC_2182230,Nevus,nevus,0,val
+ISIC_2191344,Nevus,nevus,0,test
+ISIC_2215970,Nevus,nevus,0,train
+ISIC_2235682,Melanoma Invasive,melanoma,2,train
+ISIC_2250738,Nevus,nevus,0,train
+ISIC_2263885,"Melanoma, NOS",melanoma,2,train
+ISIC_2282255,Lichen planus like keratosis,keratosis,3,train
+ISIC_2284894,Seborrheic keratosis,keratosis,3,test
+ISIC_2288382,Seborrheic keratosis,keratosis,3,train
+ISIC_2292832,Nevus,nevus,0,train
+ISIC_2298500,Nevus,nevus,0,train
+ISIC_2299573,Melanoma Invasive,melanoma,2,test
+ISIC_2318247,Squamous cell carcinoma in situ,scc,4,train
+ISIC_2346081,"Melanoma, NOS",melanoma,2,train
+ISIC_2356963,Nevus,nevus,0,train
+ISIC_2364514,Melanoma Invasive,melanoma,2,test
+ISIC_2366997,Nevus,nevus,0,train
+ISIC_2381279,Nevus,nevus,0,train
+ISIC_2386940,Nevus,nevus,0,train
+ISIC_2390328,Nevus,nevus,0,train
+ISIC_2396582,Basal cell carcinoma,bcc,1,train
+ISIC_2427680,Nevus,nevus,0,train
+ISIC_2439617,Melanoma in situ,melanoma,2,train
+ISIC_2480600,Melanoma Invasive,melanoma,2,train
+ISIC_2487324,Nevus,nevus,0,train
+ISIC_2499464,Nevus,nevus,0,train
+ISIC_2504510,Nevus,nevus,0,train
+ISIC_2516455,Seborrheic keratosis,keratosis,3,train
+ISIC_2517746,Nevus,nevus,0,train
+ISIC_2524434,Nevus,nevus,0,train
+ISIC_2538516,Basal cell carcinoma,bcc,1,train
+ISIC_2539588,Nevus,nevus,0,train
+ISIC_2577098,Melanoma in situ,melanoma,2,val
+ISIC_2581432,Basal cell carcinoma,bcc,1,train
+ISIC_2604412,Basal cell carcinoma,bcc,1,train
+ISIC_2619511,Nevus,nevus,0,train
+ISIC_2620684,Melanoma Invasive,melanoma,2,train
+ISIC_2630195,Nevus,nevus,0,train
+ISIC_2648519,Nevus,nevus,0,train
+ISIC_2688576,Nevus,nevus,0,train
+ISIC_2699925,Nevus,nevus,0,train
+ISIC_2710547,Nevus,nevus,0,train
+ISIC_2716182,Nevus,nevus,0,train
+ISIC_2728210,Nevus,nevus,0,train
+ISIC_2738423,Nevus,nevus,0,train
+ISIC_2742835,Melanoma Invasive,melanoma,2,train
+ISIC_2746016,Basal cell carcinoma,bcc,1,val
+ISIC_2756996,Nevus,nevus,0,train
+ISIC_2764227,Basal cell carcinoma,bcc,1,train
+ISIC_2777914,Nevus,nevus,0,train
+ISIC_2787880,Squamous cell carcinoma in situ,scc,4,train
+ISIC_2803427,Seborrheic keratosis,keratosis,3,train
+ISIC_2805599,Nevus,nevus,0,train
+ISIC_2812250,Nevus,nevus,0,test
+ISIC_2824972,Nevus,nevus,0,train
+ISIC_2857123,Basal cell carcinoma,bcc,1,val
+ISIC_2889829,Nevus,nevus,0,train
+ISIC_2917943,Nevus,nevus,0,test
+ISIC_2920305,Seborrheic keratosis,keratosis,3,train
+ISIC_2943219,Basal cell carcinoma,bcc,1,train
+ISIC_2966133,Nevus,nevus,0,train
+ISIC_2967740,Nevus,nevus,0,train
+ISIC_2990668,Solar lentigo,keratosis,3,val
+ISIC_3005303,"Squamous cell carcinoma, Invasive",scc,4,train
+ISIC_3027262,Nevus,nevus,0,train
+ISIC_3039686,Basal cell carcinoma,bcc,1,test
+ISIC_3042619,Nevus,nevus,0,test
+ISIC_3053772,Nevus,nevus,0,test
+ISIC_3091180,Basal cell carcinoma,bcc,1,train
+ISIC_3093714,Basal cell carcinoma,bcc,1,val
+ISIC_3104500,Nevus,nevus,0,train
+ISIC_3121355,"Squamous cell carcinoma, Invasive",scc,4,train
+ISIC_3133016,Nevus,nevus,0,test
+ISIC_3143390,Nevus,nevus,0,train
+ISIC_3156688,Melanoma Invasive,melanoma,2,train
+ISIC_3159503,Nevus,nevus,0,train
+ISIC_3164288,Basal cell carcinoma,bcc,1,train
+ISIC_3167797,Melanoma in situ,melanoma,2,train
+ISIC_3190920,Basal cell carcinoma,bcc,1,train
+ISIC_3191805,Nevus,nevus,0,train
+ISIC_3201295,Basal cell carcinoma,bcc,1,val
+ISIC_3235110,Nevus,nevus,0,train
+ISIC_3243044,Nevus,nevus,0,train
+ISIC_3243179,Nevus,nevus,0,val
+ISIC_3261677,Solar lentigo,keratosis,3,train
+ISIC_3262877,Nevus,nevus,0,train
+ISIC_3266736,Melanoma Invasive,melanoma,2,train
+ISIC_3273822,Nevus,nevus,0,train
+ISIC_3288933,Melanoma in situ,melanoma,2,train
+ISIC_3293968,Nevus,nevus,0,val
+ISIC_3307213,Nevus,nevus,0,val
+ISIC_3324431,Solar or actinic keratosis,keratosis,3,train
+ISIC_3335254,Nevus,nevus,0,train
+ISIC_3335724,Nevus,nevus,0,train
+ISIC_3339199,Nevus,nevus,0,train
+ISIC_3344901,Nevus,nevus,0,val
+ISIC_3373460,Nevus,nevus,0,train
+ISIC_3374114,Melanoma Invasive,melanoma,2,train
+ISIC_3377793,"Melanoma, NOS",melanoma,2,train
+ISIC_3398012,Melanoma in situ,melanoma,2,train
+ISIC_3432892,Nevus,nevus,0,train
+ISIC_3445540,Melanoma Invasive,melanoma,2,test
+ISIC_3450877,Melanoma Invasive,melanoma,2,test
+ISIC_3467026,"Squamous cell carcinoma, Invasive",scc,4,train
+ISIC_3467445,Melanoma in situ,melanoma,2,train
+ISIC_3479811,Nevus,nevus,0,train
+ISIC_3481735,Basal cell carcinoma,bcc,1,test
+ISIC_3498683,Basal cell carcinoma,bcc,1,val
+ISIC_3501835,Basal cell carcinoma,bcc,1,train
+ISIC_3505855,Nevus,nevus,0,train
+ISIC_3506622,Pigmented benign keratosis,keratosis,3,train
+ISIC_3516448,Nevus,nevus,0,train
+ISIC_3521698,Squamous cell carcinoma in situ,scc,4,train
+ISIC_3530806,Nevus,nevus,0,train
+ISIC_3541321,Lichen planus like keratosis,keratosis,3,train
+ISIC_3568004,Solar or actinic keratosis,keratosis,3,train
+ISIC_3574669,Nevus,nevus,0,train
+ISIC_3581982,Melanoma in situ,melanoma,2,test
+ISIC_3585149,"Squamous cell carcinoma, Invasive",scc,4,val
+ISIC_3587121,Nevus,nevus,0,train
+ISIC_3591407,Nevus,nevus,0,test
+ISIC_3594057,Nevus,nevus,0,test
+ISIC_3618954,Nevus,nevus,0,val
+ISIC_3631780,Squamous cell carcinoma in situ,scc,4,test
+ISIC_3637517,Solar lentigo,keratosis,3,train
+ISIC_3640677,Nevus,nevus,0,test
+ISIC_3646371,Basal cell carcinoma,bcc,1,train
+ISIC_3659760,Nevus,nevus,0,val
+ISIC_3682535,Solar or actinic keratosis,keratosis,3,test
+ISIC_3705092,Melanoma in situ,melanoma,2,train
+ISIC_3706331,Seborrheic keratosis,keratosis,3,train
+ISIC_3715482,Nevus,nevus,0,train
+ISIC_3721080,Basal cell carcinoma,bcc,1,train
+ISIC_3727737,Nevus,nevus,0,test
+ISIC_3744161,Melanoma Invasive,melanoma,2,train
+ISIC_3762301,Seborrheic keratosis,keratosis,3,train
+ISIC_3762456,Basal cell carcinoma,bcc,1,val
+ISIC_3780711,Basal cell carcinoma,bcc,1,train
+ISIC_3784255,Nevus,nevus,0,train
+ISIC_3801297,Melanoma Invasive,melanoma,2,test
+ISIC_3807610,Nevus,nevus,0,val
+ISIC_3813551,Basal cell carcinoma,bcc,1,train
+ISIC_3823806,Solar or actinic keratosis,keratosis,3,train
+ISIC_3825991,Basal cell carcinoma,bcc,1,train
+ISIC_3831348,Squamous cell carcinoma in situ,scc,4,train
+ISIC_3832733,Melanoma Invasive,melanoma,2,train
+ISIC_3840884,Nevus,nevus,0,test
+ISIC_3869417,Nevus,nevus,0,val
+ISIC_3877644,Nevus,nevus,0,train
+ISIC_3890780,"Squamous cell carcinoma, Invasive",scc,4,train
+ISIC_3894462,Basal cell carcinoma,bcc,1,train
+ISIC_3921012,Basal cell carcinoma,bcc,1,train
+ISIC_3929736,Squamous cell carcinoma in situ,scc,4,train
+ISIC_3936787,Nevus,nevus,0,train
+ISIC_3951022,Melanoma in situ,melanoma,2,train
+ISIC_3953386,Nevus,nevus,0,test
+ISIC_3955107,Basal cell carcinoma,bcc,1,train
+ISIC_3957869,Melanoma Invasive,melanoma,2,train
+ISIC_3964079,Melanoma in situ,melanoma,2,train
+ISIC_3983516,Solar or actinic keratosis,keratosis,3,train
+ISIC_4000440,Nevus,nevus,0,train
+ISIC_4023678,Melanoma Invasive,melanoma,2,train
+ISIC_4027733,Basal cell carcinoma,bcc,1,train
+ISIC_4059382,Nevus,nevus,0,val
+ISIC_4069947,Nevus,nevus,0,train
+ISIC_4075201,Nevus,nevus,0,train
+ISIC_4079221,Nevus,nevus,0,train
+ISIC_4079957,"Melanoma, NOS",melanoma,2,train
+ISIC_4083562,Seborrheic keratosis,keratosis,3,train
+ISIC_4105969,Solar lentigo,keratosis,3,train
+ISIC_4111517,Nevus,nevus,0,val
+ISIC_4114301,Melanoma in situ,melanoma,2,val
+ISIC_4172986,Nevus,nevus,0,train
+ISIC_4180637,Lichen planus like keratosis,keratosis,3,val
+ISIC_4207742,Nevus,nevus,0,train
+ISIC_4210870,Nevus,nevus,0,train
+ISIC_4215483,Nevus,nevus,0,train
+ISIC_4217775,Basal cell carcinoma,bcc,1,val
+ISIC_4237514,Nevus,nevus,0,train
+ISIC_4252342,Melanoma in situ,melanoma,2,train
+ISIC_4267606,Nevus,nevus,0,train
+ISIC_4269786,Nevus,nevus,0,train
+ISIC_4277603,Nevus,nevus,0,val
+ISIC_4286685,Seborrheic keratosis,keratosis,3,test
+ISIC_4289366,Nevus,nevus,0,train
+ISIC_4305415,Nevus,nevus,0,val
+ISIC_4308153,Melanoma in situ,melanoma,2,train
+ISIC_4320761,Nevus,nevus,0,train
+ISIC_4321107,Nevus,nevus,0,train
+ISIC_4322632,Nevus,nevus,0,train
+ISIC_4325073,Nevus,nevus,0,train
+ISIC_4363101,Basal cell carcinoma,bcc,1,test
+ISIC_4366243,Solar lentigo,keratosis,3,train
+ISIC_4381291,Nevus,nevus,0,train
+ISIC_4384129,"Melanoma, NOS",melanoma,2,val
+ISIC_4396162,Nevus,nevus,0,train
+ISIC_4408251,Solar or actinic keratosis,keratosis,3,train
+ISIC_4416759,Basal cell carcinoma,bcc,1,train
+ISIC_4418569,Nevus,nevus,0,train
+ISIC_4419163,Nevus,nevus,0,train
+ISIC_4425681,"Squamous cell carcinoma, Invasive",scc,4,val
+ISIC_4429042,Nevus,nevus,0,test
+ISIC_4462104,Nevus,nevus,0,train
+ISIC_4495069,Basal cell carcinoma,bcc,1,val
+ISIC_4495429,Basal cell carcinoma,bcc,1,train
+ISIC_4515874,Nevus,nevus,0,test
+ISIC_4516858,Nevus,nevus,0,val
+ISIC_4541348,Nevus,nevus,0,train
+ISIC_4544118,Nevus,nevus,0,val
+ISIC_4547973,Nevus,nevus,0,train
+ISIC_4558229,Squamous cell carcinoma in situ,scc,4,train
+ISIC_4570927,Lentigo NOS,keratosis,3,train
+ISIC_4575316,Nevus,nevus,0,val
+ISIC_4575585,Nevus,nevus,0,val
+ISIC_4586629,Melanoma in situ,melanoma,2,train
+ISIC_4591437,Melanoma Invasive,melanoma,2,train
+ISIC_4595232,Nevus,nevus,0,val
+ISIC_4603466,Squamous cell carcinoma in situ,scc,4,train
+ISIC_4614975,Basal cell carcinoma,bcc,1,train
+ISIC_4615140,Nevus,nevus,0,train
+ISIC_4620217,Basal cell carcinoma,bcc,1,train
+ISIC_4621622,Nevus,nevus,0,train
+ISIC_4629159,Melanoma in situ,melanoma,2,train
+ISIC_4636489,Nevus,nevus,0,test
+ISIC_4646711,Nevus,nevus,0,train
+ISIC_4654372,Melanoma Invasive,melanoma,2,val
+ISIC_4659886,Basal cell carcinoma,bcc,1,train
+ISIC_4674957,Nevus,nevus,0,train
+ISIC_4676617,"Squamous cell carcinoma, Invasive",scc,4,train
+ISIC_4687413,Nevus,nevus,0,train
+ISIC_4700100,"Squamous cell carcinoma, Invasive",scc,4,train
+ISIC_4728455,Nevus,nevus,0,train
+ISIC_4749889,Lichen planus like keratosis,keratosis,3,train
+ISIC_4750368,Squamous cell carcinoma in situ,scc,4,train
+ISIC_4773197,Solar or actinic keratosis,keratosis,3,train
+ISIC_4775944,Nevus,nevus,0,train
+ISIC_4783380,Solar or actinic keratosis,keratosis,3,test
+ISIC_4800036,Nevus,nevus,0,test
+ISIC_4813230,Nevus,nevus,0,train
+ISIC_4814270,Seborrheic keratosis,keratosis,3,test
+ISIC_4820306,Squamous cell carcinoma in situ,scc,4,train
+ISIC_4822710,Nevus,nevus,0,train
+ISIC_4839202,Nevus,nevus,0,train
+ISIC_4843324,Basal cell carcinoma,bcc,1,train
+ISIC_4851249,Basal cell carcinoma,bcc,1,train
+ISIC_4867539,Melanoma in situ,melanoma,2,val
+ISIC_4869741,Nevus,nevus,0,train
+ISIC_4871733,Nevus,nevus,0,test
+ISIC_4872543,Lentigo NOS,keratosis,3,train
+ISIC_4873000,Seborrheic keratosis,keratosis,3,train
+ISIC_4882116,Melanoma Invasive,melanoma,2,train
+ISIC_4883996,Squamous cell carcinoma in situ,scc,4,val
+ISIC_4884182,Nevus,nevus,0,train
+ISIC_4887782,Nevus,nevus,0,train
+ISIC_4907011,Basal cell carcinoma,bcc,1,train
+ISIC_4924870,Melanoma in situ,melanoma,2,train
+ISIC_4927574,Basal cell carcinoma,bcc,1,train
+ISIC_4938448,"Squamous cell carcinoma, NOS",scc,4,test
+ISIC_4953949,Seborrheic keratosis,keratosis,3,test
+ISIC_4954780,Basal cell carcinoma,bcc,1,test
+ISIC_4958614,Seborrheic keratosis,keratosis,3,train
+ISIC_4962997,Nevus,nevus,0,train
+ISIC_4973452,Nevus,nevus,0,val
+ISIC_4974104,Melanoma in situ,melanoma,2,train
+ISIC_5012383,Nevus,nevus,0,train
+ISIC_5014524,Nevus,nevus,0,train
+ISIC_5023172,Lichen planus like keratosis,keratosis,3,train
+ISIC_5033787,Basal cell carcinoma,bcc,1,train
+ISIC_5035525,Melanoma in situ,melanoma,2,train
+ISIC_5039397,Melanoma Invasive,melanoma,2,train
+ISIC_5042859,Melanoma in situ,melanoma,2,train
+ISIC_5043386,Basal cell carcinoma,bcc,1,train
+ISIC_5045013,Nevus,nevus,0,train
+ISIC_5061867,Nevus,nevus,0,test
+ISIC_5068210,Basal cell carcinoma,bcc,1,train
+ISIC_5070377,Nevus,nevus,0,val
+ISIC_5076549,Nevus,nevus,0,train
+ISIC_5076575,Nevus,nevus,0,val
+ISIC_5077618,Basal cell carcinoma,bcc,1,val
+ISIC_5078463,Solar or actinic keratosis,keratosis,3,train
+ISIC_5100331,Nevus,nevus,0,val
+ISIC_5114542,Nevus,nevus,0,train
+ISIC_5116420,Nevus,nevus,0,train
+ISIC_5126119,Nevus,nevus,0,val
+ISIC_5128415,Nevus,nevus,0,val
+ISIC_5143941,Squamous cell carcinoma in situ,scc,4,train
+ISIC_5190198,Basal cell carcinoma,bcc,1,val
+ISIC_5192778,Nevus,nevus,0,train
+ISIC_5193169,Basal cell carcinoma,bcc,1,val
+ISIC_5204454,Melanoma Invasive,melanoma,2,train
+ISIC_5206103,Melanoma Invasive,melanoma,2,train
+ISIC_5213811,Basal cell carcinoma,bcc,1,train
+ISIC_5219994,Nevus,nevus,0,train
+ISIC_5221028,Melanoma in situ,melanoma,2,train
+ISIC_5222471,Solar or actinic keratosis,keratosis,3,train
+ISIC_5225958,Basal cell carcinoma,bcc,1,test
+ISIC_5239370,Nevus,nevus,0,test
+ISIC_5240929,Nevus,nevus,0,test
+ISIC_5247500,Nevus,nevus,0,train
+ISIC_5251330,Nevus,nevus,0,train
+ISIC_5265464,Seborrheic keratosis,keratosis,3,train
+ISIC_5272277,Nevus,nevus,0,train
+ISIC_5297885,Basal cell carcinoma,bcc,1,val
+ISIC_5303524,"Melanoma, NOS",melanoma,2,train
+ISIC_5315889,Lichen planus like keratosis,keratosis,3,train
+ISIC_5328578,Melanoma in situ,melanoma,2,train
+ISIC_5338338,Nevus,nevus,0,train
+ISIC_5347922,Basal cell carcinoma,bcc,1,train
+ISIC_5351708,Nevus,nevus,0,train
+ISIC_5352086,Nevus,nevus,0,test
+ISIC_5353496,Nevus,nevus,0,val
+ISIC_5359616,Basal cell carcinoma,bcc,1,train
+ISIC_5366444,Squamous cell carcinoma in situ,scc,4,train
+ISIC_5397740,Nevus,nevus,0,train
+ISIC_5400739,Squamous cell carcinoma in situ,scc,4,val
+ISIC_5419141,Melanoma Invasive,melanoma,2,train
+ISIC_5432927,Nevus,nevus,0,train
+ISIC_5468631,Nevus,nevus,0,test
+ISIC_5471868,Nevus,nevus,0,train
+ISIC_5473320,Solar lentigo,keratosis,3,train
+ISIC_5475654,Squamous cell carcinoma in situ,scc,4,train
+ISIC_5489626,Melanoma Invasive,melanoma,2,val
+ISIC_5492417,Nevus,nevus,0,train
+ISIC_5498814,Melanoma in situ,melanoma,2,train
+ISIC_5500255,Solar or actinic keratosis,keratosis,3,test
+ISIC_5501130,Nevus,nevus,0,train
+ISIC_5536448,Basal cell carcinoma,bcc,1,train
+ISIC_5542071,Basal cell carcinoma,bcc,1,train
+ISIC_5547481,Nevus,nevus,0,train
+ISIC_5571401,Nevus,nevus,0,val
+ISIC_5576479,Nevus,nevus,0,train
+ISIC_5583714,Melanoma in situ,melanoma,2,test
+ISIC_5585260,Nevus,nevus,0,train
+ISIC_5587241,Nevus,nevus,0,train
+ISIC_5609822,Basal cell carcinoma,bcc,1,train
+ISIC_5620845,Nevus,nevus,0,val
+ISIC_5624290,Melanoma in situ,melanoma,2,train
+ISIC_5627945,Nevus,nevus,0,val
+ISIC_5643847,Melanoma in situ,melanoma,2,train
+ISIC_5661573,Melanoma in situ,melanoma,2,train
+ISIC_5668270,Basal cell carcinoma,bcc,1,train
+ISIC_5677120,Melanoma Invasive,melanoma,2,train
+ISIC_5690175,Nevus,nevus,0,val
+ISIC_5704949,Nevus,nevus,0,test
+ISIC_5705351,Solar or actinic keratosis,keratosis,3,train
+ISIC_5717938,Nevus,nevus,0,train
+ISIC_5754810,Nevus,nevus,0,train
+ISIC_5757798,Squamous cell carcinoma in situ,scc,4,train
+ISIC_5762031,Squamous cell carcinoma in situ,scc,4,test
+ISIC_5766149,Nevus,nevus,0,train
+ISIC_5783485,Squamous cell carcinoma in situ,scc,4,val
+ISIC_5814779,Basal cell carcinoma,bcc,1,test
+ISIC_5820851,Nevus,nevus,0,val
+ISIC_5828209,Solar or actinic keratosis,keratosis,3,test
+ISIC_5832006,Melanoma in situ,melanoma,2,train
+ISIC_5863515,Nevus,nevus,0,val
+ISIC_5875571,Melanoma in situ,melanoma,2,train
+ISIC_5879031,Basal cell carcinoma,bcc,1,train
+ISIC_5890396,Seborrheic keratosis,keratosis,3,train
+ISIC_5896831,Seborrheic keratosis,keratosis,3,train
+ISIC_5920256,Nevus,nevus,0,val
+ISIC_5956582,Melanoma in situ,melanoma,2,train
+ISIC_5974229,Nevus,nevus,0,train
+ISIC_5981634,Nevus,nevus,0,train
+ISIC_5985180,Melanoma Invasive,melanoma,2,train
+ISIC_5985734,Nevus,nevus,0,val
+ISIC_5987936,Melanoma in situ,melanoma,2,val
+ISIC_5990594,Basal cell carcinoma,bcc,1,train
+ISIC_5999336,Basal cell carcinoma,bcc,1,test
+ISIC_6001603,"Melanoma, NOS",melanoma,2,train
+ISIC_6016458,Melanoma Invasive,melanoma,2,train
+ISIC_6020598,Nevus,nevus,0,test
+ISIC_6025411,Basal cell carcinoma,bcc,1,val
+ISIC_6047214,Nevus,nevus,0,train
+ISIC_6059625,Seborrheic keratosis,keratosis,3,val
+ISIC_6068699,Melanoma in situ,melanoma,2,train
+ISIC_6069650,Nevus,nevus,0,train
+ISIC_6074294,Nevus,nevus,0,train
+ISIC_6095295,Melanoma in situ,melanoma,2,val
+ISIC_6117810,Nevus,nevus,0,train
+ISIC_6130426,Nevus,nevus,0,train
+ISIC_6142085,Nevus,nevus,0,train
+ISIC_6149388,Basal cell carcinoma,bcc,1,train
+ISIC_6149487,Nevus,nevus,0,train
+ISIC_6166598,Melanoma in situ,melanoma,2,test
+ISIC_6177157,Melanoma Invasive,melanoma,2,test
+ISIC_6184108,Melanoma Invasive,melanoma,2,train
+ISIC_6198125,Nevus,nevus,0,train
+ISIC_6209722,Nevus,nevus,0,train
+ISIC_6218923,Squamous cell carcinoma in situ,scc,4,val
+ISIC_6231129,Solar or actinic keratosis,keratosis,3,train
+ISIC_6242031,Squamous cell carcinoma in situ,scc,4,train
+ISIC_6246414,Squamous cell carcinoma in situ,scc,4,train
+ISIC_6249729,Basal cell carcinoma,bcc,1,train
+ISIC_6253760,Nevus,nevus,0,train
+ISIC_6255931,Basal cell carcinoma,bcc,1,test
+ISIC_6269100,Squamous cell carcinoma in situ,scc,4,test
+ISIC_6294286,Basal cell carcinoma,bcc,1,test
+ISIC_6302481,Melanoma in situ,melanoma,2,train
+ISIC_6307649,Squamous cell carcinoma in situ,scc,4,train
+ISIC_6327679,Nevus,nevus,0,train
+ISIC_6334282,Basal cell carcinoma,bcc,1,train
+ISIC_6344749,Nevus,nevus,0,test
+ISIC_6350749,Nevus,nevus,0,train
+ISIC_6364186,Nevus,nevus,0,train
+ISIC_6367358,Melanoma Invasive,melanoma,2,train
+ISIC_6382027,Squamous cell carcinoma in situ,scc,4,train
+ISIC_6389331,Nevus,nevus,0,train
+ISIC_6393140,Nevus,nevus,0,train
+ISIC_6395169,Melanoma Invasive,melanoma,2,train
+ISIC_6396067,Melanoma in situ,melanoma,2,test
+ISIC_6397037,Melanoma Invasive,melanoma,2,train
+ISIC_6399573,Basal cell carcinoma,bcc,1,train
+ISIC_6424909,Basal cell carcinoma,bcc,1,test
+ISIC_6429128,Basal cell carcinoma,bcc,1,train
+ISIC_6450277,Nevus,nevus,0,train
+ISIC_6451461,Seborrheic keratosis,keratosis,3,val
+ISIC_6459369,Nevus,nevus,0,train
+ISIC_6460254,Nevus,nevus,0,train
+ISIC_6463396,Nevus,nevus,0,train
+ISIC_6465391,"Squamous cell carcinoma, Invasive",scc,4,train
+ISIC_6467803,Nevus,nevus,0,train
+ISIC_6472704,Seborrheic keratosis,keratosis,3,train
+ISIC_6476107,Nevus,nevus,0,train
+ISIC_6485675,Nevus,nevus,0,train
+ISIC_6503328,Seborrheic keratosis,keratosis,3,test
+ISIC_6507199,Melanoma in situ,melanoma,2,train
+ISIC_6507987,Seborrheic keratosis,keratosis,3,train
+ISIC_6514680,Nevus,nevus,0,val
+ISIC_6526733,Melanoma in situ,melanoma,2,train
+ISIC_6535605,Nevus,nevus,0,train
+ISIC_6535720,Nevus,nevus,0,train
+ISIC_6545784,Basal cell carcinoma,bcc,1,train
+ISIC_6553846,"Squamous cell carcinoma, Invasive",scc,4,train
+ISIC_6560648,Nevus,nevus,0,train
+ISIC_6561814,Melanoma Invasive,melanoma,2,train
+ISIC_6562129,Solar or actinic keratosis,keratosis,3,train
+ISIC_6566963,Nevus,nevus,0,train
+ISIC_6573318,Nevus,nevus,0,train
+ISIC_6608075,Basal cell carcinoma,bcc,1,test
+ISIC_6613721,Nevus,nevus,0,train
+ISIC_6621626,Melanoma Invasive,melanoma,2,val
+ISIC_6621666,Nevus,nevus,0,train
+ISIC_6621818,Basal cell carcinoma,bcc,1,train
+ISIC_6658007,Nevus,nevus,0,train
+ISIC_6664467,Nevus,nevus,0,test
+ISIC_6665759,Squamous cell carcinoma in situ,scc,4,train
+ISIC_6674494,Nevus,nevus,0,train
+ISIC_6679625,Nevus,nevus,0,val
+ISIC_6690296,Solar or actinic keratosis,keratosis,3,train
+ISIC_6700072,Nevus,nevus,0,train
+ISIC_6730251,Nevus,nevus,0,train
+ISIC_6730784,Melanoma Invasive,melanoma,2,test
+ISIC_6746452,Nevus,nevus,0,train
+ISIC_6776067,Basal cell carcinoma,bcc,1,train
+ISIC_6784337,Melanoma in situ,melanoma,2,test
+ISIC_6785607,Seborrheic keratosis,keratosis,3,train
+ISIC_6798316,Melanoma Invasive,melanoma,2,test
+ISIC_6798815,Squamous cell carcinoma in situ,scc,4,train
+ISIC_6800695,Solar or actinic keratosis,keratosis,3,test
+ISIC_6855233,Melanoma Invasive,melanoma,2,train
+ISIC_6886214,Nevus,nevus,0,train
+ISIC_6898600,Seborrheic keratosis,keratosis,3,train
+ISIC_6920419,Nevus,nevus,0,val
+ISIC_6928736,Nevus,nevus,0,train
+ISIC_6931419,Nevus,nevus,0,train
+ISIC_6956511,Lentigo NOS,keratosis,3,train
+ISIC_6971668,Nevus,nevus,0,train
+ISIC_6972269,Nevus,nevus,0,train
+ISIC_6987228,Nevus,nevus,0,train
+ISIC_7007453,Nevus,nevus,0,test
+ISIC_7020319,Nevus,nevus,0,val
+ISIC_7026299,Squamous cell carcinoma in situ,scc,4,test
+ISIC_7031844,Basal cell carcinoma,bcc,1,test
+ISIC_7052130,Melanoma Invasive,melanoma,2,train
+ISIC_7054085,Melanoma Invasive,melanoma,2,test
+ISIC_7055840,Solar or actinic keratosis,keratosis,3,train
+ISIC_7065457,Nevus,nevus,0,train
+ISIC_7073762,Nevus,nevus,0,train
+ISIC_7074027,Squamous cell carcinoma in situ,scc,4,test
+ISIC_7075581,Solar or actinic keratosis,keratosis,3,val
+ISIC_7104824,Seborrheic keratosis,keratosis,3,val
+ISIC_7105211,Basal cell carcinoma,bcc,1,train
+ISIC_7112594,Solar or actinic keratosis,keratosis,3,train
+ISIC_7134306,Seborrheic keratosis,keratosis,3,train
+ISIC_7160427,Melanoma in situ,melanoma,2,train
+ISIC_7169631,Nevus,nevus,0,val
+ISIC_7171837,Nevus,nevus,0,val
+ISIC_7178963,Nevus,nevus,0,train
+ISIC_7188117,Squamous cell carcinoma in situ,scc,4,train
+ISIC_7203136,Basal cell carcinoma,bcc,1,train
+ISIC_7231436,Melanoma in situ,melanoma,2,train
+ISIC_7235721,Basal cell carcinoma,bcc,1,train
+ISIC_7266517,Seborrheic keratosis,keratosis,3,val
+ISIC_7285904,Melanoma Invasive,melanoma,2,train
+ISIC_7294678,Melanoma in situ,melanoma,2,test
+ISIC_7307297,Squamous cell carcinoma in situ,scc,4,train
+ISIC_7310426,Nevus,nevus,0,train
+ISIC_7314073,Basal cell carcinoma,bcc,1,train
+ISIC_7316504,Melanoma Invasive,melanoma,2,train
+ISIC_7323467,Basal cell carcinoma,bcc,1,val
+ISIC_7324912,Melanoma Invasive,melanoma,2,test
+ISIC_7346872,Pigmented benign keratosis,keratosis,3,train
+ISIC_7354695,Nevus,nevus,0,train
+ISIC_7373227,Melanoma Invasive,melanoma,2,train
+ISIC_7379567,Basal cell carcinoma,bcc,1,train
+ISIC_7382224,Nevus,nevus,0,train
+ISIC_7400037,Basal cell carcinoma,bcc,1,train
+ISIC_7413005,Squamous cell carcinoma in situ,scc,4,val
+ISIC_7417402,Basal cell carcinoma,bcc,1,train
+ISIC_7420584,Melanoma Invasive,melanoma,2,train
+ISIC_7423156,Nevus,nevus,0,train
+ISIC_7435688,Nevus,nevus,0,train
+ISIC_7442350,Seborrheic keratosis,keratosis,3,train
+ISIC_7445958,Basal cell carcinoma,bcc,1,test
+ISIC_7450066,Basal cell carcinoma,bcc,1,train
+ISIC_7464445,Melanoma in situ,melanoma,2,val
+ISIC_7476326,Nevus,nevus,0,test
+ISIC_7483189,Nevus,nevus,0,test
+ISIC_7491017,Basal cell carcinoma,bcc,1,train
+ISIC_7499766,Squamous cell carcinoma in situ,scc,4,val
+ISIC_7516887,Nevus,nevus,0,train
+ISIC_7524567,Seborrheic keratosis,keratosis,3,train
+ISIC_7538059,Melanoma in situ,melanoma,2,train
+ISIC_7559331,Nevus,nevus,0,train
+ISIC_7569530,Nevus,nevus,0,test
+ISIC_7571949,Nevus,nevus,0,val
+ISIC_7575093,Basal cell carcinoma,bcc,1,train
+ISIC_7583570,Basal cell carcinoma,bcc,1,val
+ISIC_7590216,Solar or actinic keratosis,keratosis,3,train
+ISIC_7605910,Seborrheic keratosis,keratosis,3,test
+ISIC_7606683,Squamous cell carcinoma in situ,scc,4,train
+ISIC_7620648,Nevus,nevus,0,train
+ISIC_7647494,Basal cell carcinoma,bcc,1,test
+ISIC_7651505,Nevus,nevus,0,train
+ISIC_7655277,Melanoma in situ,melanoma,2,train
+ISIC_7665681,Seborrheic keratosis,keratosis,3,train
+ISIC_7665958,Nevus,nevus,0,train
+ISIC_7672350,Seborrheic keratosis,keratosis,3,train
+ISIC_7676691,Squamous cell carcinoma in situ,scc,4,test
+ISIC_7703236,Melanoma in situ,melanoma,2,train
+ISIC_7733594,Melanoma in situ,melanoma,2,test
+ISIC_7745168,Melanoma in situ,melanoma,2,val
+ISIC_7748442,Basal cell carcinoma,bcc,1,train
+ISIC_7757179,Nevus,nevus,0,val
+ISIC_7757958,Seborrheic keratosis,keratosis,3,train
+ISIC_7770173,Basal cell carcinoma,bcc,1,train
+ISIC_7770368,Nevus,nevus,0,train
+ISIC_7792743,Nevus,nevus,0,test
+ISIC_7800702,Squamous cell carcinoma in situ,scc,4,train
+ISIC_7806992,Nevus,nevus,0,train
+ISIC_7828303,Nevus,nevus,0,train
+ISIC_7834218,Melanoma in situ,melanoma,2,train
+ISIC_7835812,Basal cell carcinoma,bcc,1,train
+ISIC_7836717,Squamous cell carcinoma in situ,scc,4,val
+ISIC_7904293,Nevus,nevus,0,train
+ISIC_7904729,Nevus,nevus,0,train
+ISIC_7928246,Melanoma Invasive,melanoma,2,train
+ISIC_7952885,Solar or actinic keratosis,keratosis,3,train
+ISIC_7955955,Nevus,nevus,0,train
+ISIC_7957078,Nevus,nevus,0,train
+ISIC_7964390,Basal cell carcinoma,bcc,1,train
+ISIC_7989726,Melanoma in situ,melanoma,2,train
+ISIC_8000110,Nevus,nevus,0,train
+ISIC_8003932,Nevus,nevus,0,train
+ISIC_8016858,Nevus,nevus,0,train
+ISIC_8033569,Nevus,nevus,0,val
+ISIC_8045584,Nevus,nevus,0,train
+ISIC_8051704,Nevus,nevus,0,train
+ISIC_8068485,Nevus,nevus,0,train
+ISIC_8068646,Nevus,nevus,0,train
+ISIC_8078515,Melanoma Invasive,melanoma,2,train
+ISIC_8080250,Melanoma Invasive,melanoma,2,train
+ISIC_8083792,Nevus,nevus,0,train
+ISIC_8092780,Nevus,nevus,0,train
+ISIC_8110460,Squamous cell carcinoma in situ,scc,4,train
+ISIC_8137894,Basal cell carcinoma,bcc,1,train
+ISIC_8142477,Nevus,nevus,0,train
+ISIC_8145520,Solar or actinic keratosis,keratosis,3,test
+ISIC_8152470,Nevus,nevus,0,train
+ISIC_8153765,Melanoma Invasive,melanoma,2,test
+ISIC_8183370,Nevus,nevus,0,train
+ISIC_8195275,Basal cell carcinoma,bcc,1,test
+ISIC_8197894,Nevus,nevus,0,train
+ISIC_8248513,Nevus,nevus,0,test
+ISIC_8262776,Nevus,nevus,0,train
+ISIC_8269383,Basal cell carcinoma,bcc,1,train
+ISIC_8274114,Nevus,nevus,0,train
+ISIC_8277996,Nevus,nevus,0,train
+ISIC_8286200,Seborrheic keratosis,keratosis,3,val
+ISIC_8297496,Solar or actinic keratosis,keratosis,3,train
+ISIC_8310505,Basal cell carcinoma,bcc,1,train
+ISIC_8326053,Seborrheic keratosis,keratosis,3,val
+ISIC_8333431,"Melanoma, NOS",melanoma,2,val
+ISIC_8336318,Melanoma Invasive,melanoma,2,train
+ISIC_8363981,Melanoma Invasive,melanoma,2,train
+ISIC_8370313,Basal cell carcinoma,bcc,1,train
+ISIC_8386743,Squamous cell carcinoma in situ,scc,4,test
+ISIC_8404669,"Squamous cell carcinoma, Invasive",scc,4,test
+ISIC_8412135,Squamous cell carcinoma in situ,scc,4,train
+ISIC_8440077,"Squamous cell carcinoma, Invasive",scc,4,train
+ISIC_8460937,Basal cell carcinoma,bcc,1,val
+ISIC_8487444,Melanoma in situ,melanoma,2,train
+ISIC_8491708,"Squamous cell carcinoma, Invasive",scc,4,train
+ISIC_8511587,Nevus,nevus,0,val
+ISIC_8512129,Squamous cell carcinoma in situ,scc,4,val
+ISIC_8515412,Nevus,nevus,0,val
+ISIC_8520464,Basal cell carcinoma,bcc,1,train
+ISIC_8521796,Melanoma in situ,melanoma,2,train
+ISIC_8546843,Melanoma in situ,melanoma,2,val
+ISIC_8556048,Nevus,nevus,0,train
+ISIC_8567265,Nevus,nevus,0,train
+ISIC_8569576,Basal cell carcinoma,bcc,1,train
+ISIC_8598460,Seborrheic keratosis,keratosis,3,train
+ISIC_8598960,Nevus,nevus,0,train
+ISIC_8607419,Nevus,nevus,0,train
+ISIC_8614100,Basal cell carcinoma,bcc,1,test
+ISIC_8651165,Solar or actinic keratosis,keratosis,3,train
+ISIC_8662001,Melanoma in situ,melanoma,2,val
+ISIC_8695576,Nevus,nevus,0,train
+ISIC_8717913,Basal cell carcinoma,bcc,1,train
+ISIC_8725462,Nevus,nevus,0,train
+ISIC_8731383,Basal cell carcinoma,bcc,1,train
+ISIC_8751003,Nevus,nevus,0,test
+ISIC_8800250,"Squamous cell carcinoma, Invasive",scc,4,train
+ISIC_8832909,Basal cell carcinoma,bcc,1,train
+ISIC_8849663,Nevus,nevus,0,val
+ISIC_8850488,Basal cell carcinoma,bcc,1,test
+ISIC_8852993,Melanoma in situ,melanoma,2,val
+ISIC_8876375,Nevus,nevus,0,test
+ISIC_8882986,Seborrheic keratosis,keratosis,3,val
+ISIC_8889130,Nevus,nevus,0,test
+ISIC_8892501,Nevus,nevus,0,train
+ISIC_8898380,Basal cell carcinoma,bcc,1,test
+ISIC_8899671,Squamous cell carcinoma in situ,scc,4,train
+ISIC_8952587,Basal cell carcinoma,bcc,1,test
+ISIC_8960058,Nevus,nevus,0,train
+ISIC_8963025,Solar or actinic keratosis,keratosis,3,train
+ISIC_8966407,"Squamous cell carcinoma, Invasive",scc,4,train
+ISIC_9001660,Nevus,nevus,0,train
+ISIC_9060519,Basal cell carcinoma,bcc,1,train
+ISIC_9078874,Melanoma in situ,melanoma,2,val
+ISIC_9090322,Basal cell carcinoma,bcc,1,train
+ISIC_9105966,Solar lentigo,keratosis,3,train
+ISIC_9113500,Nevus,nevus,0,train
+ISIC_9118369,Nevus,nevus,0,val
+ISIC_9125499,Nevus,nevus,0,train
+ISIC_9127831,Basal cell carcinoma,bcc,1,train
+ISIC_9140699,Basal cell carcinoma,bcc,1,val
+ISIC_9146872,Seborrheic keratosis,keratosis,3,test
+ISIC_9152373,Basal cell carcinoma,bcc,1,train
+ISIC_9153155,Solar or actinic keratosis,keratosis,3,val
+ISIC_9188287,Basal cell carcinoma,bcc,1,test
+ISIC_9194166,"Squamous cell carcinoma, Invasive",scc,4,train
+ISIC_9202888,Nevus,nevus,0,train
+ISIC_9207822,Basal cell carcinoma,bcc,1,train
+ISIC_9215746,Nevus,nevus,0,train
+ISIC_9244750,Nevus,nevus,0,test
+ISIC_9266851,Melanoma Invasive,melanoma,2,val
+ISIC_9273831,Seborrheic keratosis,keratosis,3,train
+ISIC_9293743,Nevus,nevus,0,train
+ISIC_9298199,Nevus,nevus,0,train
+ISIC_9300643,Nevus,nevus,0,train
+ISIC_9303058,Nevus,nevus,0,test
+ISIC_9317944,Nevus,nevus,0,train
+ISIC_9328004,Nevus,nevus,0,train
+ISIC_9328902,Nevus,nevus,0,test
+ISIC_9334858,Nevus,nevus,0,val
+ISIC_9343794,Seborrheic keratosis,keratosis,3,val
+ISIC_9344338,Nevus,nevus,0,train
+ISIC_9351864,Seborrheic keratosis,keratosis,3,val
+ISIC_9360322,Melanoma in situ,melanoma,2,test
+ISIC_9368831,Seborrheic keratosis,keratosis,3,test
+ISIC_9385142,Nevus,nevus,0,train
+ISIC_9388455,Nevus,nevus,0,test
+ISIC_9389645,Nevus,nevus,0,train
+ISIC_9401984,Nevus,nevus,0,train
+ISIC_9420821,Melanoma in situ,melanoma,2,train
+ISIC_9433685,Solar lentigo,keratosis,3,train
+ISIC_9446000,Nevus,nevus,0,train
+ISIC_9449137,Seborrheic keratosis,keratosis,3,train
+ISIC_9452490,Melanoma in situ,melanoma,2,train
+ISIC_9454701,Melanoma in situ,melanoma,2,train
+ISIC_9493609,Nevus,nevus,0,train
+ISIC_9519622,Nevus,nevus,0,train
+ISIC_9521124,Melanoma in situ,melanoma,2,test
+ISIC_9544804,"Melanoma, NOS",melanoma,2,train
+ISIC_9546066,Nevus,nevus,0,val
+ISIC_9615085,Basal cell carcinoma,bcc,1,test
+ISIC_9615970,Nevus,nevus,0,test
+ISIC_9628315,Nevus,nevus,0,train
+ISIC_9639793,Nevus,nevus,0,train
+ISIC_9660231,Solar lentigo,keratosis,3,train
+ISIC_9664961,Solar or actinic keratosis,keratosis,3,test
+ISIC_9666367,Nevus,nevus,0,train
+ISIC_9677354,Nevus,nevus,0,train
+ISIC_9680590,Nevus,nevus,0,train
+ISIC_9683569,Nevus,nevus,0,train
+ISIC_9690994,Melanoma Invasive,melanoma,2,train
+ISIC_9701960,Seborrheic keratosis,keratosis,3,train
+ISIC_9726753,Basal cell carcinoma,bcc,1,train
+ISIC_9727854,Nevus,nevus,0,train
+ISIC_9733547,Nevus,nevus,0,test
+ISIC_9735344,Melanoma Invasive,melanoma,2,val
+ISIC_9749120,Lichen planus like keratosis,keratosis,3,train
+ISIC_9762220,Basal cell carcinoma,bcc,1,train
+ISIC_9771048,Nevus,nevus,0,train
+ISIC_9777602,Nevus,nevus,0,test
+ISIC_9796445,Solar or actinic keratosis,keratosis,3,val
+ISIC_9802297,Nevus,nevus,0,train
+ISIC_9805656,Melanoma Invasive,melanoma,2,train
+ISIC_9821013,Melanoma in situ,melanoma,2,train
+ISIC_9825055,Seborrheic keratosis,keratosis,3,train
+ISIC_9828567,Lichen planus like keratosis,keratosis,3,train
+ISIC_9841099,Nevus,nevus,0,train
+ISIC_9849800,Nevus,nevus,0,val
+ISIC_9851058,Nevus,nevus,0,val
+ISIC_9855202,Melanoma in situ,melanoma,2,train
+ISIC_9857371,Nevus,nevus,0,train
+ISIC_9877311,Basal cell carcinoma,bcc,1,val
+ISIC_9922606,Nevus,nevus,0,test
+ISIC_9941636,Basal cell carcinoma,bcc,1,train
+ISIC_9943365,Seborrheic keratosis,keratosis,3,test
+ISIC_9964579,Nevus,nevus,0,test
+ISIC_9965266,Nevus,nevus,0,train
+ISIC_9972350,Nevus,nevus,0,train
+ISIC_9972649,Squamous cell carcinoma in situ,scc,4,val
+ISIC_9972877,Melanoma Invasive,melanoma,2,train
+ISIC_9981754,Nevus,nevus,0,val
+ISIC_9987169,Seborrheic keratosis,keratosis,3,train
+ISIC_9990985,Nevus,nevus,0,test
+ISIC_9996602,Basal cell carcinoma,bcc,1,val

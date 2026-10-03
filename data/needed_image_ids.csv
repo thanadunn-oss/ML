@@ -1,0 +1,1069 @@
+isic_id,lesion_id,iddx_1,iddx_2,iddx_3,iddx_full
+ISIC_0077462,IL_3272524,Benign,Benign epidermal proliferations,Lichen planus like keratosis,Benign::Benign epidermal proliferations::Lichen planus like keratosis
+ISIC_0079802,IL_4475532,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, NOS, Junctional"
+ISIC_0082829,IL_7881385,Malignant,Malignant epidermal proliferations,Squamous cell carcinoma in situ,Malignant::Malignant epidermal proliferations::Squamous cell carcinoma in situ
+ISIC_0085805,IL_9699398,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_0096034,IL_5240575,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Nodular"
+ISIC_0104229,IL_1702337,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Nodular"
+ISIC_0118649,IL_2938072,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_0119495,IL_3266850,Malignant,Malignant epidermal proliferations,"Squamous cell carcinoma, Invasive","Malignant::Malignant epidermal proliferations::Squamous cell carcinoma, Invasive"
+ISIC_0130474,IL_4354334,Indeterminate,Indeterminate epidermal proliferations,Solar or actinic keratosis,Indeterminate::Indeterminate epidermal proliferations::Solar or actinic keratosis
+ISIC_0131772,IL_3706853,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_0144064,IL_7465082,Benign,Benign epidermal proliferations,Seborrheic keratosis,Benign::Benign epidermal proliferations::Seborrheic keratosis
+ISIC_0149727,IL_5262136,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_0157834,IL_2429082,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Superficial"
+ISIC_0174034,IL_9726221,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_0190307,IL_3603982,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Nodular"
+ISIC_0199242,IL_0666785,Indeterminate,Indeterminate melanocytic proliferations,Atypical melanocytic neoplasm,Indeterminate::Indeterminate melanocytic proliferations::Atypical melanocytic neoplasm
+ISIC_0204787,IL_2153681,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_0211092,IL_4594949,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Nodular"
+ISIC_0220459,IL_8860946,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma in situ
+ISIC_0220736,IL_2362052,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_0221455,IL_9633433,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_0235913,IL_9474971,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, NOS, Dermal"
+ISIC_0238218,IL_7253381,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Superficial"
+ISIC_0239259,IL_5513286,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_0275647,IL_5004024,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma in situ
+ISIC_0279372,IL_9511637,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,"Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma in situ::Melanoma in situ, Lentigo maligna type"
+ISIC_0287900,IL_4551160,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Nodular"
+ISIC_0292068,IL_0479202,Indeterminate,Indeterminate melanocytic proliferations,Atypical melanocytic neoplasm,Indeterminate::Indeterminate melanocytic proliferations::Atypical melanocytic neoplasm
+ISIC_0293670,IL_6681558,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Nodular"
+ISIC_0304381,IL_5100207,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_0321944,IL_9846321,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma in situ
+ISIC_0327140,IL_4515255,Indeterminate,Indeterminate melanocytic proliferations,Atypical melanocytic neoplasm,Indeterminate::Indeterminate melanocytic proliferations::Atypical melanocytic neoplasm
+ISIC_0330452,IL_8213468,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma Invasive
+ISIC_0332355,IL_9822249,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Superficial"
+ISIC_0338720,IL_5645295,Malignant,Malignant melanocytic proliferations (Melanoma),"Melanoma, NOS","Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma, NOS"
+ISIC_0348709,IL_1835826,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_0373278,IL_7091655,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_0373748,IL_1476298,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_0386301,IL_5824040,Benign,Benign epidermal proliferations,Seborrheic keratosis,Benign::Benign epidermal proliferations::Seborrheic keratosis
+ISIC_0386460,IL_5960406,Malignant,Malignant epidermal proliferations,Squamous cell carcinoma in situ,Malignant::Malignant epidermal proliferations::Squamous cell carcinoma in situ
+ISIC_0392749,IL_6347649,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,"Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma in situ::Melanoma in situ, associated with a nevus"
+ISIC_0395316,IL_0470791,Indeterminate,Indeterminate epidermal proliferations,Solar or actinic keratosis,Indeterminate::Indeterminate epidermal proliferations::Solar or actinic keratosis
+ISIC_0407556,IL_0816597,Indeterminate,Indeterminate epidermal proliferations,Solar or actinic keratosis,Indeterminate::Indeterminate epidermal proliferations::Solar or actinic keratosis
+ISIC_0429895,IL_5423697,Malignant,Malignant epidermal proliferations,"Squamous cell carcinoma, Invasive","Malignant::Malignant epidermal proliferations::Squamous cell carcinoma, Invasive"
+ISIC_0445144,IL_8463400,Malignant,Malignant melanocytic proliferations (Melanoma),"Melanoma, NOS","Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma, NOS"
+ISIC_0450251,IL_7556218,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_0452332,IL_9466800,Malignant,Malignant epidermal proliferations,"Squamous cell carcinoma, Invasive","Malignant::Malignant epidermal proliferations::Squamous cell carcinoma, Invasive"
+ISIC_0457184,IL_5792029,Indeterminate,Indeterminate melanocytic proliferations,Atypical melanocytic neoplasm,Indeterminate::Indeterminate melanocytic proliferations::Atypical melanocytic neoplasm
+ISIC_0467830,IL_3505443,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,"Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma in situ::Melanoma in situ, associated with a nevus"
+ISIC_0470650,IL_3344378,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_0521019,IL_5545645,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma in situ
+ISIC_0527743,IL_1194885,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Nodular"
+ISIC_0528190,IL_9639326,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Nodular"
+ISIC_0534579,IL_4085167,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_0538155,IL_0539175,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_0542544,IL_2013501,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_0543168,IL_6834865,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_0548826,IL_7826820,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_0554252,IL_5221174,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma in situ
+ISIC_0565021,IL_2509569,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Superficial"
+ISIC_0591050,IL_7418772,Indeterminate,Indeterminate melanocytic proliferations,Atypical melanocytic neoplasm,Indeterminate::Indeterminate melanocytic proliferations::Atypical melanocytic neoplasm
+ISIC_0605399,IL_8321798,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_0628007,IL_1627948,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_0638180,IL_5227794,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Nodular"
+ISIC_0643641,IL_2830724,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_0659676,IL_9600591,Benign,Benign epidermal proliferations,Lichen planus like keratosis,Benign::Benign epidermal proliferations::Lichen planus like keratosis
+ISIC_0664135,IL_4885023,Malignant,Malignant epidermal proliferations,Squamous cell carcinoma in situ,Malignant::Malignant epidermal proliferations::Squamous cell carcinoma in situ
+ISIC_0664841,IL_0446882,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma in situ
+ISIC_0674057,IL_0164756,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_0697700,IL_3347133,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_0699524,IL_6140389,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Nodular"
+ISIC_0704471,IL_3943294,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_0704481,IL_8728864,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Infiltrating"
+ISIC_0716625,IL_5176429,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, NOS, Dermal"
+ISIC_0719242,IL_5334649,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_0719839,IL_5768924,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Superficial"
+ISIC_0720024,IL_3361005,Indeterminate,Indeterminate melanocytic proliferations,Atypical melanocytic neoplasm,Indeterminate::Indeterminate melanocytic proliferations::Atypical melanocytic neoplasm
+ISIC_0736674,IL_2844767,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_0760004,IL_7315133,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Superficial"
+ISIC_0763691,IL_1999441,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma
+ISIC_0770686,IL_4459310,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Nodular"
+ISIC_0777362,IL_5759934,Benign,Benign epidermal proliferations,Pigmented benign keratosis,Benign::Benign epidermal proliferations::Pigmented benign keratosis
+ISIC_0785292,IL_1671634,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_0790835,IL_6904515,Indeterminate,Indeterminate melanocytic proliferations,Atypical melanocytic neoplasm,Indeterminate::Indeterminate melanocytic proliferations::Atypical melanocytic neoplasm
+ISIC_0793445,IL_0679416,Malignant,Malignant epidermal proliferations,Squamous cell carcinoma in situ,Malignant::Malignant epidermal proliferations::Squamous cell carcinoma in situ
+ISIC_0809176,IL_7699236,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_0811515,IL_4962898,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Nodular"
+ISIC_0812720,IL_2314295,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_0814829,IL_2126462,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Superficial"
+ISIC_0816682,IL_1034322,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_0848536,IL_6147662,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Nodular"
+ISIC_0856635,IL_7702833,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_0858336,IL_1833216,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_0889556,IL_7393396,Benign,Benign epidermal proliferations,Solar lentigo,Benign::Benign epidermal proliferations::Solar lentigo
+ISIC_0909268,IL_7365882,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_0909612,IL_2112160,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_0911056,IL_3031852,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_0914926,IL_8931050,Benign,Benign soft tissue proliferations - Fibro-histiocytic,Dermatofibroma,Benign::Benign soft tissue proliferations - Fibro-histiocytic::Dermatofibroma
+ISIC_0918465,IL_2285634,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma in situ
+ISIC_0927788,IL_6448338,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_0928201,IL_5389812,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_0934108,IL_0291470,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_0940056,IL_6507760,Indeterminate,Indeterminate epidermal proliferations,Solar or actinic keratosis,"Indeterminate::Indeterminate epidermal proliferations::Solar or actinic keratosis::Actinic keratosis, Bowenoid"
+ISIC_0950640,IL_2455134,Indeterminate,Indeterminate melanocytic proliferations,Atypical intraepithelial melanocytic proliferation,Indeterminate::Indeterminate melanocytic proliferations::Atypical intraepithelial melanocytic proliferation
+ISIC_0968965,IL_0224221,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Nodular"
+ISIC_1007857,IL_8355462,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, NOS, Compound"
+ISIC_1011575,IL_2976621,Benign,Cysts,Trichilemmal or isthmic-catagen or pilar cyst,Benign::Cysts::Trichilemmal or isthmic-catagen or pilar cyst
+ISIC_1016474,IL_2849774,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_1020240,IL_4783573,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Nodular"
+ISIC_1034966,IL_2699445,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Nodular"
+ISIC_1051920,IL_6870973,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_1053401,IL_6070553,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_1060007,IL_9729793,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_1063394,IL_1318109,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma in situ
+ISIC_1067206,IL_4283956,Indeterminate,Indeterminate epidermal proliferations,Solar or actinic keratosis,Indeterminate::Indeterminate epidermal proliferations::Solar or actinic keratosis
+ISIC_1071408,IL_8844859,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Nodular"
+ISIC_1071492,IL_1469610,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma Invasive
+ISIC_1080389,IL_7907749,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_1090495,IL_0311355,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_1096940,IL_7321482,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Nodular"
+ISIC_1105843,IL_5067478,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma in situ
+ISIC_1105887,IL_7318540,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Superficial"
+ISIC_1110208,IL_6759971,Benign,Benign epidermal proliferations,Solar lentigo,Benign::Benign epidermal proliferations::Solar lentigo
+ISIC_1111537,IL_6760832,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,"Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma in situ::Melanoma in situ, Lentigo maligna type"
+ISIC_1125217,IL_7126903,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_1135529,IL_2726474,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,"Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma Invasive::Melanoma Invasive, Superficial spreading"
+ISIC_1140741,IL_4671404,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_1141528,IL_3484620,Malignant,Malignant epidermal proliferations,Squamous cell carcinoma in situ,Malignant::Malignant epidermal proliferations::Squamous cell carcinoma in situ
+ISIC_1144927,IL_4982960,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, NOS, Compound"
+ISIC_1145601,IL_9665304,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Nodular"
+ISIC_1149173,IL_8923869,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_1163954,IL_5075299,Indeterminate,Indeterminate melanocytic proliferations,Atypical melanocytic neoplasm,Indeterminate::Indeterminate melanocytic proliferations::Atypical melanocytic neoplasm
+ISIC_1164461,IL_5150825,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma
+ISIC_1166433,IL_9331618,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_1171041,IL_8117350,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_1186361,IL_4980826,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,"Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma Invasive::Melanoma Invasive, Associated with a nevus"
+ISIC_1191502,IL_2086711,Benign,Benign soft tissue proliferations - Fibro-histiocytic,Angiofibroma,"Benign::Benign soft tissue proliferations - Fibro-histiocytic::Angiofibroma::Angiofibroma, Facial"
+ISIC_1199348,IL_2654162,Benign,Benign epidermal proliferations,Seborrheic keratosis,Benign::Benign epidermal proliferations::Seborrheic keratosis
+ISIC_1211710,IL_7309714,Malignant,Malignant epidermal proliferations,"Squamous cell carcinoma, Invasive","Malignant::Malignant epidermal proliferations::Squamous cell carcinoma, Invasive::Squamous cell carcinoma, Invasive, Keratoacanthoma-type"
+ISIC_1217551,IL_5096102,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,"Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma Invasive::Melanoma Invasive, Associated with a nevus"
+ISIC_1232895,IL_7531469,Benign,Benign epidermal proliferations,Seborrheic keratosis,Benign::Benign epidermal proliferations::Seborrheic keratosis
+ISIC_1246526,IL_0870330,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma
+ISIC_1246703,IL_6276301,Benign,Benign soft tissue proliferations - Fibro-histiocytic,Scar,Benign::Benign soft tissue proliferations - Fibro-histiocytic::Scar
+ISIC_1253804,IL_8288492,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_1257488,IL_0615040,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma in situ
+ISIC_1262710,IL_6691721,Malignant,Malignant epidermal proliferations,"Squamous cell carcinoma, Invasive","Malignant::Malignant epidermal proliferations::Squamous cell carcinoma, Invasive"
+ISIC_1273941,IL_7873039,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_1275044,IL_6384132,Benign,Benign epidermal proliferations,Lichen planus like keratosis,Benign::Benign epidermal proliferations::Lichen planus like keratosis
+ISIC_1280051,IL_0297035,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_1305724,IL_0568115,Benign,Flat melanotic pigmentations - not melanocytic nevus,Lentigo NOS,Benign::Flat melanotic pigmentations - not melanocytic nevus::Lentigo NOS
+ISIC_1319552,IL_3187266,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_1327211,IL_2576436,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_1335771,IL_5456298,Indeterminate,Indeterminate melanocytic proliferations,Atypical melanocytic neoplasm,Indeterminate::Indeterminate melanocytic proliferations::Atypical melanocytic neoplasm
+ISIC_1345438,IL_0805564,Benign,Benign soft tissue proliferations - Fibro-histiocytic,Dermatofibroma,Benign::Benign soft tissue proliferations - Fibro-histiocytic::Dermatofibroma
+ISIC_1347125,IL_7289487,Benign,Flat melanotic pigmentations - not melanocytic nevus,Lentigo NOS,Benign::Flat melanotic pigmentations - not melanocytic nevus::Lentigo NOS
+ISIC_1350043,IL_5720357,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, NOS, Compound"
+ISIC_1353866,IL_5977768,Indeterminate,Indeterminate melanocytic proliferations,Atypical melanocytic neoplasm,Indeterminate::Indeterminate melanocytic proliferations::Atypical melanocytic neoplasm
+ISIC_1357366,IL_8454591,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma
+ISIC_1366287,IL_5047140,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_1372633,IL_7115049,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_1375096,IL_8410916,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_1377023,IL_7419475,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma
+ISIC_1377916,IL_1684453,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_1394459,IL_9287960,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_1412248,IL_9853957,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_1424945,IL_4065122,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_1436101,IL_8588319,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_1459374,IL_8791734,Indeterminate,Indeterminate epidermal proliferations,Solar or actinic keratosis,Indeterminate::Indeterminate epidermal proliferations::Solar or actinic keratosis
+ISIC_1462899,IL_7358702,Benign,Benign epidermal proliferations,Seborrheic keratosis,Benign::Benign epidermal proliferations::Seborrheic keratosis
+ISIC_1464154,IL_1868740,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_1475360,IL_3750839,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_1480614,IL_8206011,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,"Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma Invasive::Melanoma Invasive, Superficial spreading"
+ISIC_1511550,IL_1458457,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_1520073,IL_5373738,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_1535063,IL_8984894,Indeterminate,Indeterminate epidermal proliferations,Solar or actinic keratosis,Indeterminate::Indeterminate epidermal proliferations::Solar or actinic keratosis
+ISIC_1535593,IL_6744681,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_1540514,IL_0241923,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Nodular"
+ISIC_1548228,IL_0403094,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Deep penetrating"
+ISIC_1559920,IL_7014214,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, NOS, Compound"
+ISIC_1560725,IL_0288719,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_1582333,IL_5502727,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Of special anatomic site"
+ISIC_1586355,IL_5514733,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, NOS, Compound"
+ISIC_1587851,IL_2710987,Benign,Benign epidermal proliferations,Seborrheic keratosis,Benign::Benign epidermal proliferations::Seborrheic keratosis
+ISIC_1606879,IL_0727410,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_1621074,IL_5025970,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,"Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma Invasive::Melanoma Invasive, Superficial spreading"
+ISIC_1623236,IL_8045669,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma in situ
+ISIC_1630763,IL_2411723,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_1638855,IL_0660682,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_1640109,IL_8259475,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,"Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma Invasive::Melanoma Invasive, Associated with a nevus"
+ISIC_1645097,IL_8695329,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Superficial"
+ISIC_1655895,IL_5236829,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_1662575,IL_5634950,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, NOS, Dermal"
+ISIC_1662809,IL_2419313,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma in situ
+ISIC_1677153,IL_6915254,Benign,Benign epidermal proliferations,Seborrheic keratosis,Benign::Benign epidermal proliferations::Seborrheic keratosis
+ISIC_1694042,IL_1065332,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_1694963,IL_4579711,Malignant,Malignant epidermal proliferations,Squamous cell carcinoma in situ,Malignant::Malignant epidermal proliferations::Squamous cell carcinoma in situ
+ISIC_1705108,IL_7008082,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Nodular"
+ISIC_1718352,IL_4089639,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_1721956,IL_4346351,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Nodular"
+ISIC_1741809,IL_7278028,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Superficial"
+ISIC_1753955,IL_2115945,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_1759831,IL_3627628,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, NOS, Compound"
+ISIC_1761760,IL_8271019,Indeterminate,Indeterminate melanocytic proliferations,Atypical melanocytic neoplasm,Indeterminate::Indeterminate melanocytic proliferations::Atypical melanocytic neoplasm
+ISIC_1768986,IL_8547353,Benign,Benign epidermal proliferations,Seborrheic keratosis,Benign::Benign epidermal proliferations::Seborrheic keratosis
+ISIC_1773560,IL_8398541,Benign,Benign epidermal proliferations,Seborrheic keratosis,Benign::Benign epidermal proliferations::Seborrheic keratosis
+ISIC_1777618,IL_7958441,Indeterminate,Indeterminate melanocytic proliferations,Atypical intraepithelial melanocytic proliferation,Indeterminate::Indeterminate melanocytic proliferations::Atypical intraepithelial melanocytic proliferation
+ISIC_1778071,IL_4580088,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_1785246,IL_8897795,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_1786961,IL_9565679,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Nodular"
+ISIC_1792562,IL_8037908,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Nodular"
+ISIC_1803647,IL_8124944,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_1805261,IL_8957463,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma metastasis,Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma metastasis
+ISIC_1821883,IL_2620862,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_1825785,IL_2255490,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_1838482,IL_9339087,Indeterminate,Indeterminate epidermal proliferations,Solar or actinic keratosis,Indeterminate::Indeterminate epidermal proliferations::Solar or actinic keratosis
+ISIC_1855712,IL_2542531,Benign,Benign epidermal proliferations,Solar lentigo,Benign::Benign epidermal proliferations::Solar lentigo
+ISIC_1885694,IL_1191251,Malignant,Malignant epidermal proliferations,"Squamous cell carcinoma, Invasive","Malignant::Malignant epidermal proliferations::Squamous cell carcinoma, Invasive"
+ISIC_1894331,IL_9403363,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Spitz"
+ISIC_1899939,IL_3792738,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_1926329,IL_6893306,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_1935364,IL_6612379,Benign,Benign epidermal proliferations,Seborrheic keratosis,Benign::Benign epidermal proliferations::Seborrheic keratosis
+ISIC_1935648,IL_7923611,Indeterminate,Indeterminate epidermal proliferations,Solar or actinic keratosis,Indeterminate::Indeterminate epidermal proliferations::Solar or actinic keratosis
+ISIC_1935982,IL_5319336,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Superficial"
+ISIC_1961992,IL_7392529,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_1964199,IL_2812848,Indeterminate,Indeterminate melanocytic proliferations,Atypical melanocytic neoplasm,Indeterminate::Indeterminate melanocytic proliferations::Atypical melanocytic neoplasm
+ISIC_1968215,IL_2217971,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_1979221,IL_8796508,Indeterminate,Indeterminate melanocytic proliferations,Atypical intraepithelial melanocytic proliferation,Indeterminate::Indeterminate melanocytic proliferations::Atypical intraepithelial melanocytic proliferation
+ISIC_1987125,IL_0115868,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_2003733,IL_3528900,Benign,Benign epidermal proliferations,Seborrheic keratosis,Benign::Benign epidermal proliferations::Seborrheic keratosis
+ISIC_2003785,IL_1545839,Indeterminate,Indeterminate melanocytic proliferations,Atypical melanocytic neoplasm,Indeterminate::Indeterminate melanocytic proliferations::Atypical melanocytic neoplasm
+ISIC_2023222,IL_0199829,Malignant,Malignant epidermal proliferations,Squamous cell carcinoma in situ,"Malignant::Malignant epidermal proliferations::Squamous cell carcinoma in situ::Squamous cell carcinoma in situ, Bowens disease"
+ISIC_2027124,IL_5676419,Malignant,Malignant melanocytic proliferations (Melanoma),"Melanoma, NOS","Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma, NOS"
+ISIC_2031343,IL_7632244,Indeterminate,Indeterminate melanocytic proliferations,Atypical melanocytic neoplasm,Indeterminate::Indeterminate melanocytic proliferations::Atypical melanocytic neoplasm
+ISIC_2031355,IL_8681306,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Nodular"
+ISIC_2036691,IL_4899739,Benign,Inflammatory or infectious diseases,Verruca,Benign::Inflammatory or infectious diseases::Verruca
+ISIC_2043443,IL_2042738,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Nodular"
+ISIC_2055754,IL_2350806,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_2065263,IL_0345581,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_2066012,IL_0439189,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, NOS, Compound"
+ISIC_2068746,IL_9691202,Malignant,Malignant melanocytic proliferations (Melanoma),"Melanoma, NOS","Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma, NOS"
+ISIC_2090145,IL_6679376,Malignant,Malignant epidermal proliferations,"Squamous cell carcinoma, NOS","Malignant::Malignant epidermal proliferations::Squamous cell carcinoma, NOS"
+ISIC_2090244,IL_3939562,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Nodular"
+ISIC_2100481,IL_5880862,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_2100625,IL_3555701,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, NOS, Dermal"
+ISIC_2105096,IL_2950664,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_2113934,IL_8729515,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_2116022,IL_4038157,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_2122753,IL_7860050,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_2138706,IL_3737964,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,"Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma in situ::Melanoma in situ, associated with a nevus"
+ISIC_2143179,IL_9046150,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, NOS, Compound"
+ISIC_2150673,IL_1107142,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Spitz"
+ISIC_2156458,IL_3718046,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_2167137,IL_8886473,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_2174953,IL_5859999,Indeterminate,Indeterminate epidermal proliferations,Solar or actinic keratosis,Indeterminate::Indeterminate epidermal proliferations::Solar or actinic keratosis
+ISIC_2175101,IL_8569212,Benign,Benign soft tissue proliferations - Fibro-histiocytic,Angiofibroma,"Benign::Benign soft tissue proliferations - Fibro-histiocytic::Angiofibroma::Angiofibroma, Facial"
+ISIC_2182230,IL_2586425,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_2191344,IL_6143982,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_2215970,IL_6691293,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_2235682,IL_1914199,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma Invasive
+ISIC_2250738,IL_6377022,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, NOS, Junctional"
+ISIC_2263885,IL_8955946,Malignant,Malignant melanocytic proliferations (Melanoma),"Melanoma, NOS","Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma, NOS"
+ISIC_2282255,IL_2457027,Benign,Benign epidermal proliferations,Lichen planus like keratosis,Benign::Benign epidermal proliferations::Lichen planus like keratosis
+ISIC_2284894,IL_5253959,Benign,Benign epidermal proliferations,Seborrheic keratosis,Benign::Benign epidermal proliferations::Seborrheic keratosis
+ISIC_2288382,IL_1905213,Benign,Benign epidermal proliferations,Seborrheic keratosis,Benign::Benign epidermal proliferations::Seborrheic keratosis
+ISIC_2292832,IL_0128425,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_2298500,IL_9603350,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_2299573,IL_6009276,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,"Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma Invasive::Melanoma Invasive, Superficial spreading"
+ISIC_2299846,IL_4263001,Indeterminate,Indeterminate melanocytic proliferations,Atypical melanocytic neoplasm,Indeterminate::Indeterminate melanocytic proliferations::Atypical melanocytic neoplasm
+ISIC_2318247,IL_4737294,Malignant,Malignant epidermal proliferations,Squamous cell carcinoma in situ,Malignant::Malignant epidermal proliferations::Squamous cell carcinoma in situ
+ISIC_2346081,IL_4474405,Malignant,Malignant melanocytic proliferations (Melanoma),"Melanoma, NOS","Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma, NOS"
+ISIC_2356963,IL_8906551,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_2364514,IL_9072365,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,"Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma Invasive::Melanoma Invasive, Superficial spreading"
+ISIC_2366997,IL_8459867,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, NOS, Compound"
+ISIC_2381279,IL_7997550,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_2386940,IL_3175286,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_2390328,IL_9731793,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_2396582,IL_5719299,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Superficial"
+ISIC_2427680,IL_4522545,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_2439617,IL_9821674,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,"Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma in situ::Melanoma in situ, Lentigo maligna type"
+ISIC_2480600,IL_4847524,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,"Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma Invasive::Melanoma Invasive, Superficial spreading"
+ISIC_2487324,IL_2419539,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_2499464,IL_0248342,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_2504510,IL_7003651,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_2516455,IL_7944761,Benign,Benign epidermal proliferations,Seborrheic keratosis,Benign::Benign epidermal proliferations::Seborrheic keratosis
+ISIC_2517746,IL_0284712,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Combined"
+ISIC_2524434,IL_0864977,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Combined"
+ISIC_2538516,IL_6978133,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Superficial"
+ISIC_2539588,IL_8175532,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_2577098,IL_6601575,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,"Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma in situ::Melanoma in situ, Lentigo maligna type"
+ISIC_2581432,IL_9368060,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Nodular"
+ISIC_2604412,IL_2726630,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Nodular"
+ISIC_2619511,IL_5171819,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_2620684,IL_1428795,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma Invasive
+ISIC_2630195,IL_9596928,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, NOS, Dermal"
+ISIC_2648519,IL_1091310,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, NOS, Compound"
+ISIC_2688576,IL_2329848,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_2699925,IL_1526975,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_2710547,IL_6444737,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_2716182,IL_2652387,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_2728210,IL_8906115,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_2734121,IL_0880789,Indeterminate,Indeterminate melanocytic proliferations,Atypical melanocytic neoplasm,Indeterminate::Indeterminate melanocytic proliferations::Atypical melanocytic neoplasm
+ISIC_2738423,IL_3962383,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_2742835,IL_5332783,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma Invasive
+ISIC_2746016,IL_2039298,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Superficial"
+ISIC_2750420,IL_6338553,Indeterminate,Indeterminate melanocytic proliferations,Atypical melanocytic neoplasm,Indeterminate::Indeterminate melanocytic proliferations::Atypical melanocytic neoplasm
+ISIC_2756996,IL_4812226,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_2764227,IL_2024441,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Nodular"
+ISIC_2777914,IL_6701138,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_2787880,IL_9307419,Malignant,Malignant epidermal proliferations,Squamous cell carcinoma in situ,Malignant::Malignant epidermal proliferations::Squamous cell carcinoma in situ
+ISIC_2803427,IL_2654343,Benign,Benign epidermal proliferations,Seborrheic keratosis,Benign::Benign epidermal proliferations::Seborrheic keratosis
+ISIC_2805599,IL_6409193,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_2812250,IL_4438681,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_2824972,IL_3431891,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_2857123,IL_9500397,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Nodular"
+ISIC_2889829,IL_4887613,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_2917943,IL_8473966,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_2920305,IL_7378868,Benign,Benign epidermal proliferations,Seborrheic keratosis,Benign::Benign epidermal proliferations::Seborrheic keratosis
+ISIC_2928691,IL_7655094,Indeterminate,Indeterminate melanocytic proliferations,Atypical melanocytic neoplasm,Indeterminate::Indeterminate melanocytic proliferations::Atypical melanocytic neoplasm
+ISIC_2943219,IL_6373309,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Nodular"
+ISIC_2966133,IL_7666417,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, NOS, Compound"
+ISIC_2967740,IL_5727557,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_2971275,IL_4800441,Benign,Inflammatory or infectious diseases,Verruca,Benign::Inflammatory or infectious diseases::Verruca
+ISIC_2990668,IL_9353918,Benign,Benign epidermal proliferations,Solar lentigo,Benign::Benign epidermal proliferations::Solar lentigo
+ISIC_3005303,IL_8243587,Malignant,Malignant epidermal proliferations,"Squamous cell carcinoma, Invasive","Malignant::Malignant epidermal proliferations::Squamous cell carcinoma, Invasive"
+ISIC_3027262,IL_1945552,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_3039686,IL_3966783,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Nodular"
+ISIC_3042619,IL_5993500,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_3053772,IL_5476452,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_3091180,IL_5270495,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Nodular"
+ISIC_3093714,IL_6927581,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Superficial"
+ISIC_3104500,IL_8776860,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_3121355,IL_5422677,Malignant,Malignant epidermal proliferations,"Squamous cell carcinoma, Invasive","Malignant::Malignant epidermal proliferations::Squamous cell carcinoma, Invasive"
+ISIC_3133016,IL_5357425,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_3143390,IL_1470716,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_3156688,IL_7149631,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,"Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma Invasive::Melanoma Invasive, Associated with a nevus"
+ISIC_3156710,IL_6305130,Indeterminate,Indeterminate melanocytic proliferations,Atypical melanocytic neoplasm,Indeterminate::Indeterminate melanocytic proliferations::Atypical melanocytic neoplasm
+ISIC_3159503,IL_3588082,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_3164288,IL_1580642,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Superficial"
+ISIC_3167797,IL_3522822,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,"Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma in situ::Melanoma in situ, associated with a nevus"
+ISIC_3190920,IL_5519131,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Superficial"
+ISIC_3191805,IL_2685981,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_3201295,IL_6276883,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Superficial"
+ISIC_3235110,IL_9769334,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, NOS, Dermal"
+ISIC_3243044,IL_9661465,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_3243179,IL_7585139,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_3261677,IL_7694612,Benign,Benign epidermal proliferations,Solar lentigo,Benign::Benign epidermal proliferations::Solar lentigo
+ISIC_3262877,IL_8677321,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_3266736,IL_2099972,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,"Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma Invasive::Melanoma Invasive, Superficial spreading"
+ISIC_3273822,IL_3286337,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Blue nevus::Blue nevus, Cellular"
+ISIC_3288933,IL_2333777,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma in situ
+ISIC_3293968,IL_7840885,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_3301600,IL_4393756,Benign,Benign soft tissue proliferations - Fibro-histiocytic,Dermatofibroma,Benign::Benign soft tissue proliferations - Fibro-histiocytic::Dermatofibroma
+ISIC_3307213,IL_3526956,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_3324431,IL_6937602,Indeterminate,Indeterminate epidermal proliferations,Solar or actinic keratosis,Indeterminate::Indeterminate epidermal proliferations::Solar or actinic keratosis
+ISIC_3335254,IL_9521986,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_3335724,IL_3835160,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_3339199,IL_3983749,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_3344901,IL_4244788,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_3373460,IL_3984156,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_3374114,IL_4663968,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,"Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma Invasive::Melanoma Invasive, Superficial spreading"
+ISIC_3377793,IL_7758606,Malignant,Malignant melanocytic proliferations (Melanoma),"Melanoma, NOS","Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma, NOS"
+ISIC_3398012,IL_7915209,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma in situ
+ISIC_3432892,IL_4522838,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_3445540,IL_8817901,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,"Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma Invasive::Melanoma Invasive, On chronically sun-exposed skin or lentigo maligna melanoma"
+ISIC_3450877,IL_8936785,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,"Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma Invasive::Melanoma Invasive, Superficial spreading"
+ISIC_3467026,IL_3116750,Malignant,Malignant epidermal proliferations,"Squamous cell carcinoma, Invasive","Malignant::Malignant epidermal proliferations::Squamous cell carcinoma, Invasive"
+ISIC_3467445,IL_0149240,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma in situ
+ISIC_3479811,IL_5464285,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_3481735,IL_4197826,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Nodular"
+ISIC_3498683,IL_2487969,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Nodular"
+ISIC_3501835,IL_7000340,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Nodular"
+ISIC_3505855,IL_4345815,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_3506622,IL_5868014,Benign,Benign epidermal proliferations,Pigmented benign keratosis,Benign::Benign epidermal proliferations::Pigmented benign keratosis
+ISIC_3516448,IL_9944629,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_3521698,IL_8100994,Malignant,Malignant epidermal proliferations,Squamous cell carcinoma in situ,Malignant::Malignant epidermal proliferations::Squamous cell carcinoma in situ
+ISIC_3530806,IL_4874055,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_3541321,IL_2220296,Benign,Benign epidermal proliferations,Lichen planus like keratosis,Benign::Benign epidermal proliferations::Lichen planus like keratosis
+ISIC_3568004,IL_2484513,Indeterminate,Indeterminate epidermal proliferations,Solar or actinic keratosis,Indeterminate::Indeterminate epidermal proliferations::Solar or actinic keratosis
+ISIC_3574669,IL_6652067,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, NOS, Compound"
+ISIC_3581982,IL_6436012,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,"Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma in situ::Melanoma in situ, associated with a nevus"
+ISIC_3585149,IL_1453165,Malignant,Malignant epidermal proliferations,"Squamous cell carcinoma, Invasive","Malignant::Malignant epidermal proliferations::Squamous cell carcinoma, Invasive"
+ISIC_3587121,IL_1595865,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, NOS, Dermal"
+ISIC_3591407,IL_3822579,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_3594057,IL_2366606,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, NOS, Compound"
+ISIC_3618954,IL_8504144,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_3620896,IL_7356152,Indeterminate,Indeterminate melanocytic proliferations,Atypical melanocytic neoplasm,Indeterminate::Indeterminate melanocytic proliferations::Atypical melanocytic neoplasm
+ISIC_3631780,IL_2644919,Malignant,Malignant epidermal proliferations,Squamous cell carcinoma in situ,Malignant::Malignant epidermal proliferations::Squamous cell carcinoma in situ
+ISIC_3637517,IL_5630692,Benign,Benign epidermal proliferations,Solar lentigo,Benign::Benign epidermal proliferations::Solar lentigo
+ISIC_3640677,IL_0703192,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_3646371,IL_7663364,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Nodular"
+ISIC_3659760,IL_4866214,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_3682535,IL_1517321,Indeterminate,Indeterminate epidermal proliferations,Solar or actinic keratosis,Indeterminate::Indeterminate epidermal proliferations::Solar or actinic keratosis
+ISIC_3705092,IL_4157905,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma in situ
+ISIC_3706331,IL_0388578,Benign,Benign epidermal proliferations,Seborrheic keratosis,Benign::Benign epidermal proliferations::Seborrheic keratosis
+ISIC_3715482,IL_6639680,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, NOS, Dermal"
+ISIC_3721080,IL_1807031,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Superficial"
+ISIC_3727737,IL_8868584,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_3744161,IL_8142693,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,"Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma Invasive::Melanoma Invasive, Superficial spreading"
+ISIC_3762301,IL_6351980,Benign,Benign epidermal proliferations,Seborrheic keratosis,Benign::Benign epidermal proliferations::Seborrheic keratosis
+ISIC_3762456,IL_2709366,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Infiltrating"
+ISIC_3778043,IL_3667944,Indeterminate,Indeterminate melanocytic proliferations,Atypical melanocytic neoplasm,Indeterminate::Indeterminate melanocytic proliferations::Atypical melanocytic neoplasm
+ISIC_3780711,IL_7847530,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Superficial"
+ISIC_3784255,IL_5728174,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_3801297,IL_8944908,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,"Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma Invasive::Melanoma Invasive, Superficial spreading"
+ISIC_3807610,IL_2793322,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Congenital"
+ISIC_3813551,IL_5668430,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma
+ISIC_3823806,IL_3693758,Indeterminate,Indeterminate epidermal proliferations,Solar or actinic keratosis,Indeterminate::Indeterminate epidermal proliferations::Solar or actinic keratosis
+ISIC_3825991,IL_6715966,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Superficial"
+ISIC_3831348,IL_5161769,Malignant,Malignant epidermal proliferations,Squamous cell carcinoma in situ,Malignant::Malignant epidermal proliferations::Squamous cell carcinoma in situ
+ISIC_3831934,IL_6455788,Indeterminate,Indeterminate melanocytic proliferations,Atypical melanocytic neoplasm,Indeterminate::Indeterminate melanocytic proliferations::Atypical melanocytic neoplasm
+ISIC_3832733,IL_0325434,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,"Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma Invasive::Melanoma Invasive, Superficial spreading"
+ISIC_3840884,IL_1438097,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_3846547,IL_1590635,Benign,Benign soft tissue proliferations - Vascular,Hemangioma,"Benign::Benign soft tissue proliferations - Vascular::Hemangioma::Hemangioma, Cherry"
+ISIC_3867233,IL_3850065,Indeterminate,Indeterminate melanocytic proliferations,Atypical melanocytic neoplasm,Indeterminate::Indeterminate melanocytic proliferations::Atypical melanocytic neoplasm
+ISIC_3869417,IL_5364843,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_3877644,IL_9119133,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_3890561,IL_7245493,Indeterminate,Indeterminate melanocytic proliferations,Atypical melanocytic neoplasm,Indeterminate::Indeterminate melanocytic proliferations::Atypical melanocytic neoplasm
+ISIC_3890780,IL_1705295,Malignant,Malignant epidermal proliferations,"Squamous cell carcinoma, Invasive","Malignant::Malignant epidermal proliferations::Squamous cell carcinoma, Invasive::Squamous cell carcinoma, Invasive, Keratoacanthoma-type"
+ISIC_3894462,IL_0963261,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Nodular"
+ISIC_3921012,IL_0621694,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Superficial"
+ISIC_3929736,IL_0147025,Malignant,Malignant epidermal proliferations,Squamous cell carcinoma in situ,Malignant::Malignant epidermal proliferations::Squamous cell carcinoma in situ
+ISIC_3936787,IL_9871236,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, NOS, Junctional"
+ISIC_3951022,IL_9479694,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,"Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma in situ::Melanoma in situ, Lentigo maligna type"
+ISIC_3953386,IL_0713452,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_3955107,IL_7303854,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Nodular"
+ISIC_3957869,IL_5555975,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,"Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma Invasive::Melanoma Invasive, On chronically sun-exposed skin or lentigo maligna melanoma"
+ISIC_3964079,IL_1234788,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma in situ
+ISIC_3983516,IL_8187337,Indeterminate,Indeterminate epidermal proliferations,Solar or actinic keratosis,Indeterminate::Indeterminate epidermal proliferations::Solar or actinic keratosis
+ISIC_3990524,IL_6208602,Benign,Inflammatory or infectious diseases,Verruca,Benign::Inflammatory or infectious diseases::Verruca
+ISIC_4000440,IL_7518941,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_4023678,IL_2545587,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,"Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma Invasive::Melanoma Invasive, Superficial spreading"
+ISIC_4025578,IL_0793090,Indeterminate,Indeterminate melanocytic proliferations,Atypical intraepithelial melanocytic proliferation,Indeterminate::Indeterminate melanocytic proliferations::Atypical intraepithelial melanocytic proliferation
+ISIC_4027733,IL_5890522,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Superficial"
+ISIC_4041670,IL_7683297,Indeterminate,Indeterminate melanocytic proliferations,Atypical melanocytic neoplasm,Indeterminate::Indeterminate melanocytic proliferations::Atypical melanocytic neoplasm
+ISIC_4059382,IL_3895057,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_4065832,IL_5733628,Indeterminate,Indeterminate melanocytic proliferations,Atypical intraepithelial melanocytic proliferation,Indeterminate::Indeterminate melanocytic proliferations::Atypical intraepithelial melanocytic proliferation
+ISIC_4069947,IL_8884156,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_4075201,IL_0028809,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_4079221,IL_6326026,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_4079957,IL_4199552,Malignant,Malignant melanocytic proliferations (Melanoma),"Melanoma, NOS","Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma, NOS"
+ISIC_4083562,IL_4387761,Benign,Benign epidermal proliferations,Seborrheic keratosis,Benign::Benign epidermal proliferations::Seborrheic keratosis
+ISIC_4105969,IL_9388049,Benign,Benign epidermal proliferations,Solar lentigo,Benign::Benign epidermal proliferations::Solar lentigo
+ISIC_4111517,IL_7630419,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_4114301,IL_0358115,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,"Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma in situ::Melanoma in situ, Superficial spreading"
+ISIC_4130902,IL_3531344,Indeterminate,Indeterminate melanocytic proliferations,Atypical melanocytic neoplasm,Indeterminate::Indeterminate melanocytic proliferations::Atypical melanocytic neoplasm
+ISIC_4133750,IL_2077348,Indeterminate,Indeterminate melanocytic proliferations,Atypical melanocytic neoplasm,Indeterminate::Indeterminate melanocytic proliferations::Atypical melanocytic neoplasm
+ISIC_4172986,IL_1519317,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_4180637,IL_4965295,Benign,Benign epidermal proliferations,Lichen planus like keratosis,Benign::Benign epidermal proliferations::Lichen planus like keratosis
+ISIC_4197856,IL_5629342,Indeterminate,Indeterminate melanocytic proliferations,Atypical intraepithelial melanocytic proliferation,Indeterminate::Indeterminate melanocytic proliferations::Atypical intraepithelial melanocytic proliferation
+ISIC_4207742,IL_9736593,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_4210870,IL_6024132,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_4215483,IL_7368568,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_4217775,IL_5863674,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Superficial"
+ISIC_4237514,IL_5692459,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Congenital"
+ISIC_4252342,IL_6140035,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma in situ
+ISIC_4267606,IL_6430735,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_4269786,IL_4613265,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_4277603,IL_2683345,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_4286685,IL_5399090,Benign,Benign epidermal proliferations,Seborrheic keratosis,Benign::Benign epidermal proliferations::Seborrheic keratosis
+ISIC_4289366,IL_9681064,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_4305415,IL_6036490,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_4308153,IL_1635669,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,"Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma in situ::Melanoma in situ, Lentigo maligna type"
+ISIC_4320761,IL_1475825,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_4321107,IL_8365844,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_4322632,IL_3966692,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_4325073,IL_9952580,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_4331499,IL_9406374,Indeterminate,Indeterminate melanocytic proliferations,Atypical melanocytic neoplasm,Indeterminate::Indeterminate melanocytic proliferations::Atypical melanocytic neoplasm
+ISIC_4363101,IL_3905442,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Superficial"
+ISIC_4366243,IL_0828794,Benign,Benign epidermal proliferations,Solar lentigo,Benign::Benign epidermal proliferations::Solar lentigo
+ISIC_4381291,IL_6388120,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_4384129,IL_8966123,Malignant,Malignant melanocytic proliferations (Melanoma),"Melanoma, NOS","Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma, NOS"
+ISIC_4396162,IL_2761059,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, NOS, Dermal"
+ISIC_4408251,IL_9387043,Indeterminate,Indeterminate epidermal proliferations,Solar or actinic keratosis,Indeterminate::Indeterminate epidermal proliferations::Solar or actinic keratosis
+ISIC_4416759,IL_2317568,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Nodular"
+ISIC_4418569,IL_1415412,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_4419163,IL_0114256,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_4425681,IL_7675498,Malignant,Malignant epidermal proliferations,"Squamous cell carcinoma, Invasive","Malignant::Malignant epidermal proliferations::Squamous cell carcinoma, Invasive"
+ISIC_4429042,IL_6396448,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_4462104,IL_7788874,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_4478688,IL_4180567,Indeterminate,Indeterminate melanocytic proliferations,Atypical melanocytic neoplasm,Indeterminate::Indeterminate melanocytic proliferations::Atypical melanocytic neoplasm
+ISIC_4495069,IL_3110089,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Nodular"
+ISIC_4495429,IL_7185490,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Superficial"
+ISIC_4496734,IL_1668290,Benign,Benign soft tissue proliferations - Fibro-histiocytic,Dermatofibroma,Benign::Benign soft tissue proliferations - Fibro-histiocytic::Dermatofibroma
+ISIC_4515874,IL_9100456,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_4516858,IL_6342183,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_4525577,IL_1461100,Indeterminate,Indeterminate melanocytic proliferations,Atypical melanocytic neoplasm,Indeterminate::Indeterminate melanocytic proliferations::Atypical melanocytic neoplasm
+ISIC_4538362,IL_0830561,Benign,Inflammatory or infectious diseases,Verruca,Benign::Inflammatory or infectious diseases::Verruca
+ISIC_4541348,IL_5329364,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_4544118,IL_7709944,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, NOS, Compound"
+ISIC_4547973,IL_1871895,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_4558229,IL_6357260,Malignant,Malignant epidermal proliferations,Squamous cell carcinoma in situ,Malignant::Malignant epidermal proliferations::Squamous cell carcinoma in situ
+ISIC_4570927,IL_5269374,Benign,Flat melanotic pigmentations - not melanocytic nevus,Lentigo NOS,Benign::Flat melanotic pigmentations - not melanocytic nevus::Lentigo NOS
+ISIC_4575316,IL_2013549,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_4575585,IL_4325861,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_4576129,IL_4537878,Benign,Benign soft tissue proliferations - Fibro-histiocytic,Dermatofibroma,Benign::Benign soft tissue proliferations - Fibro-histiocytic::Dermatofibroma
+ISIC_4586629,IL_1167544,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,"Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma in situ::Melanoma in situ, Superficial spreading"
+ISIC_4591437,IL_8813146,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,"Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma Invasive::Melanoma Invasive, Nodular"
+ISIC_4595232,IL_9810019,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_4603466,IL_3107859,Malignant,Malignant epidermal proliferations,Squamous cell carcinoma in situ,Malignant::Malignant epidermal proliferations::Squamous cell carcinoma in situ
+ISIC_4614975,IL_6419327,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Nodular"
+ISIC_4615140,IL_4429451,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, NOS, Compound"
+ISIC_4620217,IL_9851015,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Superficial"
+ISIC_4621622,IL_9991231,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_4629159,IL_5660308,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma in situ
+ISIC_4636489,IL_1873518,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_4646711,IL_7248123,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_4654372,IL_9853253,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,"Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma Invasive::Melanoma Invasive, Superficial spreading"
+ISIC_4659886,IL_5980226,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Nodular"
+ISIC_4674957,IL_2204752,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_4676617,IL_9786423,Malignant,Malignant epidermal proliferations,"Squamous cell carcinoma, Invasive","Malignant::Malignant epidermal proliferations::Squamous cell carcinoma, Invasive"
+ISIC_4680053,IL_0593055,Indeterminate,Indeterminate melanocytic proliferations,Atypical melanocytic neoplasm,Indeterminate::Indeterminate melanocytic proliferations::Atypical melanocytic neoplasm
+ISIC_4684330,IL_0831238,Indeterminate,Indeterminate melanocytic proliferations,Atypical melanocytic neoplasm,Indeterminate::Indeterminate melanocytic proliferations::Atypical melanocytic neoplasm
+ISIC_4687413,IL_8440543,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_4700100,IL_5549147,Malignant,Malignant epidermal proliferations,"Squamous cell carcinoma, Invasive","Malignant::Malignant epidermal proliferations::Squamous cell carcinoma, Invasive"
+ISIC_4728455,IL_2013390,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, NOS, Compound"
+ISIC_4741592,IL_1123026,Indeterminate,Indeterminate melanocytic proliferations,Atypical melanocytic neoplasm,Indeterminate::Indeterminate melanocytic proliferations::Atypical melanocytic neoplasm
+ISIC_4749889,IL_2469210,Benign,Benign epidermal proliferations,Lichen planus like keratosis,Benign::Benign epidermal proliferations::Lichen planus like keratosis
+ISIC_4750368,IL_2564207,Malignant,Malignant epidermal proliferations,Squamous cell carcinoma in situ,Malignant::Malignant epidermal proliferations::Squamous cell carcinoma in situ
+ISIC_4773197,IL_0206771,Indeterminate,Indeterminate epidermal proliferations,Solar or actinic keratosis,Indeterminate::Indeterminate epidermal proliferations::Solar or actinic keratosis
+ISIC_4775944,IL_8382679,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_4783380,IL_1231139,Indeterminate,Indeterminate epidermal proliferations,Solar or actinic keratosis,Indeterminate::Indeterminate epidermal proliferations::Solar or actinic keratosis
+ISIC_4800036,IL_7047322,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_4813230,IL_4773501,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_4814270,IL_4673099,Benign,Benign epidermal proliferations,Seborrheic keratosis,Benign::Benign epidermal proliferations::Seborrheic keratosis
+ISIC_4820306,IL_8816297,Malignant,Malignant epidermal proliferations,Squamous cell carcinoma in situ,Malignant::Malignant epidermal proliferations::Squamous cell carcinoma in situ
+ISIC_4822710,IL_3338401,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_4839202,IL_3815613,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Deep penetrating"
+ISIC_4843324,IL_9806252,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Nodular"
+ISIC_4851249,IL_3132835,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Infiltrating"
+ISIC_4854571,IL_5387518,Indeterminate,Indeterminate melanocytic proliferations,Atypical melanocytic neoplasm,Indeterminate::Indeterminate melanocytic proliferations::Atypical melanocytic neoplasm
+ISIC_4867539,IL_0583501,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma in situ
+ISIC_4869741,IL_7282351,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_4871733,IL_3674034,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_4872543,IL_5486925,Benign,Flat melanotic pigmentations - not melanocytic nevus,Lentigo NOS,Benign::Flat melanotic pigmentations - not melanocytic nevus::Lentigo NOS
+ISIC_4873000,IL_7897993,Benign,Benign epidermal proliferations,Seborrheic keratosis,Benign::Benign epidermal proliferations::Seborrheic keratosis
+ISIC_4882116,IL_0240732,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma Invasive
+ISIC_4883996,IL_4504677,Malignant,Malignant epidermal proliferations,Squamous cell carcinoma in situ,Malignant::Malignant epidermal proliferations::Squamous cell carcinoma in situ
+ISIC_4884182,IL_3570773,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_4887782,IL_2130211,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_4907011,IL_8611081,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Superficial"
+ISIC_4912381,IL_3618319,Indeterminate,Indeterminate melanocytic proliferations,Atypical melanocytic neoplasm,Indeterminate::Indeterminate melanocytic proliferations::Atypical melanocytic neoplasm
+ISIC_4924870,IL_4439922,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,"Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma in situ::Melanoma in situ, Superficial spreading"
+ISIC_4927574,IL_0108087,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Superficial"
+ISIC_4938448,IL_7736060,Malignant,Malignant epidermal proliferations,"Squamous cell carcinoma, NOS","Malignant::Malignant epidermal proliferations::Squamous cell carcinoma, NOS"
+ISIC_4953949,IL_5656790,Benign,Benign epidermal proliferations,Seborrheic keratosis,Benign::Benign epidermal proliferations::Seborrheic keratosis
+ISIC_4954780,IL_9518518,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Superficial"
+ISIC_4958614,IL_8925488,Benign,Benign epidermal proliferations,Seborrheic keratosis,Benign::Benign epidermal proliferations::Seborrheic keratosis
+ISIC_4962997,IL_8615043,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_4973452,IL_6889364,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_4974104,IL_6696064,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,"Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma in situ::Melanoma in situ, associated with a nevus"
+ISIC_4985391,IL_7279021,Indeterminate,Indeterminate melanocytic proliferations,Atypical melanocytic neoplasm,Indeterminate::Indeterminate melanocytic proliferations::Atypical melanocytic neoplasm
+ISIC_5012383,IL_9793584,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_5014524,IL_7372235,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, NOS, Compound"
+ISIC_5023172,IL_0467723,Benign,Benign epidermal proliferations,Lichen planus like keratosis,Benign::Benign epidermal proliferations::Lichen planus like keratosis
+ISIC_5033787,IL_7490379,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Nodular"
+ISIC_5035525,IL_3913980,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma in situ
+ISIC_5039397,IL_4597137,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,"Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma Invasive::Melanoma Invasive, Superficial spreading"
+ISIC_5042859,IL_4424739,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,"Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma in situ::Melanoma in situ, associated with a nevus"
+ISIC_5043386,IL_2033192,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Nodular"
+ISIC_5045013,IL_2233490,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_5053398,IL_5355779,Indeterminate,Indeterminate melanocytic proliferations,Atypical melanocytic neoplasm,Indeterminate::Indeterminate melanocytic proliferations::Atypical melanocytic neoplasm
+ISIC_5061867,IL_6455061,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_5065175,IL_7703701,Indeterminate,Indeterminate melanocytic proliferations,Atypical melanocytic neoplasm,Indeterminate::Indeterminate melanocytic proliferations::Atypical melanocytic neoplasm
+ISIC_5068210,IL_2661210,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Nodular"
+ISIC_5070377,IL_8057913,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_5076549,IL_6845777,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_5076575,IL_8416672,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_5077618,IL_0608964,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Nodular"
+ISIC_5078463,IL_5200104,Indeterminate,Indeterminate epidermal proliferations,Solar or actinic keratosis,Indeterminate::Indeterminate epidermal proliferations::Solar or actinic keratosis
+ISIC_5090853,IL_7922600,Indeterminate,Indeterminate melanocytic proliferations,Atypical melanocytic neoplasm,Indeterminate::Indeterminate melanocytic proliferations::Atypical melanocytic neoplasm
+ISIC_5094402,IL_1955470,Indeterminate,Indeterminate melanocytic proliferations,Atypical melanocytic neoplasm,Indeterminate::Indeterminate melanocytic proliferations::Atypical melanocytic neoplasm
+ISIC_5100331,IL_2692816,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_5114542,IL_5788893,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_5116420,IL_9941090,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_5126119,IL_7642583,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_5128415,IL_3641541,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, NOS, Junctional"
+ISIC_5143941,IL_1592507,Malignant,Malignant epidermal proliferations,Squamous cell carcinoma in situ,Malignant::Malignant epidermal proliferations::Squamous cell carcinoma in situ
+ISIC_5170761,IL_6419891,Indeterminate,Indeterminate melanocytic proliferations,Atypical melanocytic neoplasm,Indeterminate::Indeterminate melanocytic proliferations::Atypical melanocytic neoplasm
+ISIC_5181678,IL_3543192,Indeterminate,Indeterminate melanocytic proliferations,Atypical melanocytic neoplasm,Indeterminate::Indeterminate melanocytic proliferations::Atypical melanocytic neoplasm
+ISIC_5190198,IL_2199370,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Nodular"
+ISIC_5192778,IL_4271038,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_5193169,IL_1037089,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Superficial"
+ISIC_5204454,IL_7324725,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma Invasive
+ISIC_5206103,IL_6625599,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,"Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma Invasive::Melanoma Invasive, Superficial spreading"
+ISIC_5213811,IL_7708477,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Nodular"
+ISIC_5219994,IL_8584664,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Congenital"
+ISIC_5221028,IL_9173680,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma in situ
+ISIC_5222471,IL_7127537,Indeterminate,Indeterminate epidermal proliferations,Solar or actinic keratosis,Indeterminate::Indeterminate epidermal proliferations::Solar or actinic keratosis
+ISIC_5225958,IL_4387375,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Superficial"
+ISIC_5239370,IL_3592772,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_5240929,IL_9314868,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_5247500,IL_9555883,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_5251330,IL_3588877,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_5265464,IL_5150426,Benign,Benign epidermal proliferations,Seborrheic keratosis,Benign::Benign epidermal proliferations::Seborrheic keratosis
+ISIC_5272277,IL_0393862,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_5297885,IL_2981492,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Nodular"
+ISIC_5303524,IL_7823034,Malignant,Malignant melanocytic proliferations (Melanoma),"Melanoma, NOS","Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma, NOS"
+ISIC_5315889,IL_8797853,Benign,Benign epidermal proliferations,Lichen planus like keratosis,Benign::Benign epidermal proliferations::Lichen planus like keratosis
+ISIC_5328578,IL_8153192,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma in situ
+ISIC_5329940,IL_6749812,Benign,Benign soft tissue proliferations - Fibro-histiocytic,Dermatofibroma,Benign::Benign soft tissue proliferations - Fibro-histiocytic::Dermatofibroma
+ISIC_5338338,IL_3446985,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_5347922,IL_1135124,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Nodular"
+ISIC_5351708,IL_1489993,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_5352086,IL_0858100,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_5353496,IL_6728729,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_5359616,IL_7056796,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Superficial"
+ISIC_5366444,IL_6131563,Malignant,Malignant epidermal proliferations,Squamous cell carcinoma in situ,Malignant::Malignant epidermal proliferations::Squamous cell carcinoma in situ
+ISIC_5397740,IL_6656926,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_5400739,IL_7683829,Malignant,Malignant epidermal proliferations,Squamous cell carcinoma in situ,Malignant::Malignant epidermal proliferations::Squamous cell carcinoma in situ
+ISIC_5419141,IL_7908624,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,"Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma Invasive::Melanoma Invasive, Superficial spreading"
+ISIC_5432927,IL_8704287,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_5468631,IL_2607981,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, NOS, Dermal"
+ISIC_5471868,IL_8283325,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_5473320,IL_0145494,Benign,Benign epidermal proliferations,Solar lentigo,Benign::Benign epidermal proliferations::Solar lentigo
+ISIC_5475654,IL_9199251,Malignant,Malignant epidermal proliferations,Squamous cell carcinoma in situ,Malignant::Malignant epidermal proliferations::Squamous cell carcinoma in situ
+ISIC_5489626,IL_7401636,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,"Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma Invasive::Melanoma Invasive, Superficial spreading"
+ISIC_5492417,IL_8748908,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_5498814,IL_5739461,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma in situ
+ISIC_5500255,IL_7814637,Indeterminate,Indeterminate epidermal proliferations,Solar or actinic keratosis,Indeterminate::Indeterminate epidermal proliferations::Solar or actinic keratosis
+ISIC_5501130,IL_9091585,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_5536448,IL_3143563,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Nodular"
+ISIC_5542071,IL_0587322,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Nodular"
+ISIC_5547481,IL_8689203,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_5571401,IL_8847359,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_5576479,IL_1585342,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_5583714,IL_7384098,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma in situ
+ISIC_5585260,IL_5843392,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_5587241,IL_6379315,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_5609822,IL_3788284,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Nodular"
+ISIC_5620845,IL_2779733,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_5624290,IL_5101190,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,"Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma in situ::Melanoma in situ, Lentigo maligna type"
+ISIC_5627945,IL_2175023,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_5643847,IL_8906159,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma in situ
+ISIC_5661573,IL_7347014,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma in situ
+ISIC_5668270,IL_2469936,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Nodular"
+ISIC_5677120,IL_8257496,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,"Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma Invasive::Melanoma Invasive, Superficial spreading"
+ISIC_5684056,IL_8509000,Indeterminate,Indeterminate melanocytic proliferations,Atypical melanocytic neoplasm,Indeterminate::Indeterminate melanocytic proliferations::Atypical melanocytic neoplasm
+ISIC_5690175,IL_4529099,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, NOS, Compound"
+ISIC_5704949,IL_0165441,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_5705351,IL_9475715,Indeterminate,Indeterminate epidermal proliferations,Solar or actinic keratosis,Indeterminate::Indeterminate epidermal proliferations::Solar or actinic keratosis
+ISIC_5717938,IL_2252954,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Spitz"
+ISIC_5754810,IL_2886282,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_5757798,IL_2639633,Malignant,Malignant epidermal proliferations,Squamous cell carcinoma in situ,Malignant::Malignant epidermal proliferations::Squamous cell carcinoma in situ
+ISIC_5762031,IL_5159736,Malignant,Malignant epidermal proliferations,Squamous cell carcinoma in situ,Malignant::Malignant epidermal proliferations::Squamous cell carcinoma in situ
+ISIC_5766149,IL_3717330,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_5766846,IL_2132959,Benign,Cysts,,Benign::Cysts
+ISIC_5783485,IL_1599001,Malignant,Malignant epidermal proliferations,Squamous cell carcinoma in situ,Malignant::Malignant epidermal proliferations::Squamous cell carcinoma in situ
+ISIC_5800282,IL_4377843,Indeterminate,Indeterminate melanocytic proliferations,Atypical intraepithelial melanocytic proliferation,Indeterminate::Indeterminate melanocytic proliferations::Atypical intraepithelial melanocytic proliferation
+ISIC_5814779,IL_7300878,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Nodular"
+ISIC_5820851,IL_9553313,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_5828209,IL_3607359,Indeterminate,Indeterminate epidermal proliferations,Solar or actinic keratosis,Indeterminate::Indeterminate epidermal proliferations::Solar or actinic keratosis
+ISIC_5832006,IL_9934221,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,"Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma in situ::Melanoma in situ, Superficial spreading"
+ISIC_5863515,IL_7026193,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, NOS, Dermal"
+ISIC_5875571,IL_7145902,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,"Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma in situ::Melanoma in situ, Lentigo maligna type"
+ISIC_5879031,IL_4386336,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Superficial"
+ISIC_5889791,IL_0459905,Indeterminate,Indeterminate melanocytic proliferations,Atypical melanocytic neoplasm,Indeterminate::Indeterminate melanocytic proliferations::Atypical melanocytic neoplasm
+ISIC_5890396,IL_3061589,Benign,Benign epidermal proliferations,Seborrheic keratosis,Benign::Benign epidermal proliferations::Seborrheic keratosis
+ISIC_5896831,IL_4347549,Benign,Benign epidermal proliferations,Seborrheic keratosis,Benign::Benign epidermal proliferations::Seborrheic keratosis
+ISIC_5920256,IL_7179659,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_5940288,IL_0930143,Indeterminate,Indeterminate melanocytic proliferations,Atypical melanocytic neoplasm,Indeterminate::Indeterminate melanocytic proliferations::Atypical melanocytic neoplasm
+ISIC_5950591,IL_9617694,Benign,Benign soft tissue proliferations - Fibro-histiocytic,Dermatofibroma,Benign::Benign soft tissue proliferations - Fibro-histiocytic::Dermatofibroma
+ISIC_5956582,IL_9219967,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,"Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma in situ::Melanoma in situ, Superficial spreading"
+ISIC_5974229,IL_7749994,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_5981634,IL_5950317,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_5985180,IL_9193780,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,"Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma Invasive::Melanoma Invasive, Associated with a nevus"
+ISIC_5985734,IL_0814082,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_5987936,IL_9094061,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,"Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma in situ::Melanoma in situ, associated with a nevus"
+ISIC_5990594,IL_7055522,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Nodular"
+ISIC_5999336,IL_7177506,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Nodular"
+ISIC_6001603,IL_9355073,Malignant,Malignant melanocytic proliferations (Melanoma),"Melanoma, NOS","Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma, NOS"
+ISIC_6016458,IL_4326705,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,"Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma Invasive::Melanoma Invasive, Superficial spreading"
+ISIC_6020598,IL_0561246,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_6025411,IL_2829294,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Nodular"
+ISIC_6047214,IL_2110199,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_6058769,IL_7620655,Benign,Benign adnexal epithelial proliferations - Apocrine or Eccrine,Hidradenoma,Benign::Benign adnexal epithelial proliferations - Apocrine or Eccrine::Hidradenoma
+ISIC_6059625,IL_1876058,Benign,Benign epidermal proliferations,Seborrheic keratosis,Benign::Benign epidermal proliferations::Seborrheic keratosis
+ISIC_6068699,IL_0557425,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma in situ
+ISIC_6069650,IL_7842770,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_6074294,IL_9522613,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_6095295,IL_1325655,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma in situ
+ISIC_6117810,IL_3619418,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_6130426,IL_5111491,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_6142085,IL_5964492,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_6149388,IL_9563473,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Nodular"
+ISIC_6149487,IL_4895894,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_6166598,IL_6164220,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,"Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma in situ::Melanoma in situ, associated with a nevus"
+ISIC_6177157,IL_7897800,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,"Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma Invasive::Melanoma Invasive, On chronically sun-exposed skin or lentigo maligna melanoma"
+ISIC_6184108,IL_7074915,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,"Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma Invasive::Melanoma Invasive, Superficial spreading"
+ISIC_6198125,IL_1276376,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, NOS, Compound"
+ISIC_6209722,IL_8006267,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_6218923,IL_7305267,Malignant,Malignant epidermal proliferations,Squamous cell carcinoma in situ,Malignant::Malignant epidermal proliferations::Squamous cell carcinoma in situ
+ISIC_6231129,IL_5223669,Indeterminate,Indeterminate epidermal proliferations,Solar or actinic keratosis,Indeterminate::Indeterminate epidermal proliferations::Solar or actinic keratosis
+ISIC_6242031,IL_3129542,Malignant,Malignant epidermal proliferations,Squamous cell carcinoma in situ,Malignant::Malignant epidermal proliferations::Squamous cell carcinoma in situ
+ISIC_6246414,IL_2222740,Malignant,Malignant epidermal proliferations,Squamous cell carcinoma in situ,Malignant::Malignant epidermal proliferations::Squamous cell carcinoma in situ
+ISIC_6249729,IL_4077479,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Superficial"
+ISIC_6253760,IL_8608695,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, NOS, Compound"
+ISIC_6255695,IL_1407918,Indeterminate,Indeterminate melanocytic proliferations,Atypical melanocytic neoplasm,Indeterminate::Indeterminate melanocytic proliferations::Atypical melanocytic neoplasm
+ISIC_6255931,IL_1391408,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Superficial"
+ISIC_6269100,IL_4453075,Malignant,Malignant epidermal proliferations,Squamous cell carcinoma in situ,Malignant::Malignant epidermal proliferations::Squamous cell carcinoma in situ
+ISIC_6294286,IL_8063870,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Nodular"
+ISIC_6302481,IL_3288290,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,"Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma in situ::Melanoma in situ, Superficial spreading"
+ISIC_6307649,IL_8082919,Malignant,Malignant epidermal proliferations,Squamous cell carcinoma in situ,Malignant::Malignant epidermal proliferations::Squamous cell carcinoma in situ
+ISIC_6327679,IL_8190887,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_6334282,IL_6347748,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Superficial"
+ISIC_6344749,IL_8362598,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, NOS, Dermal"
+ISIC_6350749,IL_9654971,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_6364186,IL_0949450,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, NOS, Dermal"
+ISIC_6367358,IL_5377830,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,"Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma Invasive::Melanoma Invasive, Superficial spreading"
+ISIC_6372328,IL_6604284,Benign,Benign soft tissue proliferations - Fibro-histiocytic,Dermatofibroma,Benign::Benign soft tissue proliferations - Fibro-histiocytic::Dermatofibroma
+ISIC_6382027,IL_1817426,Malignant,Malignant epidermal proliferations,Squamous cell carcinoma in situ,Malignant::Malignant epidermal proliferations::Squamous cell carcinoma in situ
+ISIC_6389331,IL_1075675,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_6393140,IL_4501230,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_6395169,IL_6949777,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma Invasive
+ISIC_6396067,IL_6744326,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,"Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma in situ::Melanoma in situ, associated with a nevus"
+ISIC_6397037,IL_9129997,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,"Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma Invasive::Melanoma Invasive, Superficial spreading"
+ISIC_6399573,IL_9389656,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Nodular"
+ISIC_6424909,IL_1989652,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Nodular"
+ISIC_6429128,IL_5119105,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Nodular"
+ISIC_6450277,IL_5630694,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_6451461,IL_6520382,Benign,Benign epidermal proliferations,Seborrheic keratosis,Benign::Benign epidermal proliferations::Seborrheic keratosis
+ISIC_6459369,IL_6799352,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_6460254,IL_5217620,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_6463396,IL_2294981,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_6465391,IL_6925525,Malignant,Malignant epidermal proliferations,"Squamous cell carcinoma, Invasive","Malignant::Malignant epidermal proliferations::Squamous cell carcinoma, Invasive"
+ISIC_6467803,IL_9872463,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, NOS, Dermal"
+ISIC_6472704,IL_9258315,Benign,Benign epidermal proliferations,Seborrheic keratosis,Benign::Benign epidermal proliferations::Seborrheic keratosis
+ISIC_6476107,IL_2682412,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_6479083,IL_1744417,Indeterminate,Indeterminate melanocytic proliferations,Atypical melanocytic neoplasm,Indeterminate::Indeterminate melanocytic proliferations::Atypical melanocytic neoplasm
+ISIC_6485675,IL_2026121,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_6503328,IL_1778867,Benign,Benign epidermal proliferations,Seborrheic keratosis,Benign::Benign epidermal proliferations::Seborrheic keratosis
+ISIC_6507199,IL_6456557,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma in situ
+ISIC_6507987,IL_2258748,Benign,Benign epidermal proliferations,Seborrheic keratosis,Benign::Benign epidermal proliferations::Seborrheic keratosis
+ISIC_6514680,IL_4790896,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_6526733,IL_6839255,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,"Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma in situ::Melanoma in situ, Lentigo maligna type"
+ISIC_6535605,IL_4938313,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_6535720,IL_6460506,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_6545784,IL_4046963,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Nodular"
+ISIC_6553846,IL_3511748,Malignant,Malignant epidermal proliferations,"Squamous cell carcinoma, Invasive","Malignant::Malignant epidermal proliferations::Squamous cell carcinoma, Invasive::Squamous cell carcinoma, Invasive, Keratoacanthoma-type"
+ISIC_6560648,IL_4717820,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_6561814,IL_4504432,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,"Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma Invasive::Melanoma Invasive, Superficial spreading"
+ISIC_6562129,IL_0966729,Indeterminate,Indeterminate epidermal proliferations,Solar or actinic keratosis,Indeterminate::Indeterminate epidermal proliferations::Solar or actinic keratosis
+ISIC_6566963,IL_3172584,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_6573318,IL_0350879,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_6575355,IL_8477089,Indeterminate,Indeterminate melanocytic proliferations,Atypical intraepithelial melanocytic proliferation,Indeterminate::Indeterminate melanocytic proliferations::Atypical intraepithelial melanocytic proliferation
+ISIC_6598622,IL_2520384,Indeterminate,Indeterminate melanocytic proliferations,Atypical melanocytic neoplasm,Indeterminate::Indeterminate melanocytic proliferations::Atypical melanocytic neoplasm
+ISIC_6608075,IL_5787306,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Nodular"
+ISIC_6613721,IL_8965354,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, NOS, Compound"
+ISIC_6621626,IL_1262134,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,"Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma Invasive::Melanoma Invasive, Superficial spreading"
+ISIC_6621666,IL_6092830,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_6621818,IL_7460740,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Superficial"
+ISIC_6634748,IL_8549309,Indeterminate,Indeterminate melanocytic proliferations,Atypical intraepithelial melanocytic proliferation,Indeterminate::Indeterminate melanocytic proliferations::Atypical intraepithelial melanocytic proliferation
+ISIC_6658007,IL_6841873,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, NOS, Dermal"
+ISIC_6664467,IL_7949724,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_6665759,IL_4081663,Malignant,Malignant epidermal proliferations,Squamous cell carcinoma in situ,Malignant::Malignant epidermal proliferations::Squamous cell carcinoma in situ
+ISIC_6674494,IL_0465364,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_6679625,IL_2771629,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, NOS, Compound"
+ISIC_6690296,IL_4582321,Indeterminate,Indeterminate epidermal proliferations,Solar or actinic keratosis,Indeterminate::Indeterminate epidermal proliferations::Solar or actinic keratosis
+ISIC_6700072,IL_7290289,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_6730251,IL_0371175,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_6730784,IL_5115265,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma Invasive
+ISIC_6746452,IL_1241483,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_6773249,IL_8094635,Indeterminate,Indeterminate melanocytic proliferations,Atypical melanocytic neoplasm,Indeterminate::Indeterminate melanocytic proliferations::Atypical melanocytic neoplasm
+ISIC_6776067,IL_0283362,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Nodular"
+ISIC_6784337,IL_6183510,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma in situ
+ISIC_6785607,IL_6631135,Benign,Benign epidermal proliferations,Seborrheic keratosis,Benign::Benign epidermal proliferations::Seborrheic keratosis
+ISIC_6798316,IL_9148733,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,"Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma Invasive::Melanoma Invasive, Superficial spreading"
+ISIC_6798815,IL_5374470,Malignant,Malignant epidermal proliferations,Squamous cell carcinoma in situ,Malignant::Malignant epidermal proliferations::Squamous cell carcinoma in situ
+ISIC_6800695,IL_0465503,Indeterminate,Indeterminate epidermal proliferations,Solar or actinic keratosis,Indeterminate::Indeterminate epidermal proliferations::Solar or actinic keratosis
+ISIC_6855233,IL_6844346,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,"Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma Invasive::Melanoma Invasive, On chronically sun-exposed skin or lentigo maligna melanoma"
+ISIC_6886214,IL_8046834,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_6898600,IL_2631314,Benign,Benign epidermal proliferations,Seborrheic keratosis,Benign::Benign epidermal proliferations::Seborrheic keratosis
+ISIC_6920419,IL_6943963,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_6928736,IL_9613856,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_6931419,IL_4104488,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_6956511,IL_2733616,Benign,Flat melanotic pigmentations - not melanocytic nevus,Lentigo NOS,Benign::Flat melanotic pigmentations - not melanocytic nevus::Lentigo NOS
+ISIC_6971668,IL_7023918,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_6972269,IL_5114204,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_6987228,IL_8598433,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, NOS, Compound"
+ISIC_6999041,IL_0349086,Indeterminate,Indeterminate melanocytic proliferations,Atypical melanocytic neoplasm,Indeterminate::Indeterminate melanocytic proliferations::Atypical melanocytic neoplasm
+ISIC_7007453,IL_6190119,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, NOS, Junctional"
+ISIC_7020319,IL_3279833,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_7026299,IL_8208247,Malignant,Malignant epidermal proliferations,Squamous cell carcinoma in situ,Malignant::Malignant epidermal proliferations::Squamous cell carcinoma in situ
+ISIC_7031844,IL_1296635,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Superficial"
+ISIC_7050655,IL_5983223,Benign,Inflammatory or infectious diseases,Verruca,Benign::Inflammatory or infectious diseases::Verruca
+ISIC_7052130,IL_2985749,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,"Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma Invasive::Melanoma Invasive, Superficial spreading"
+ISIC_7054085,IL_3304344,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,"Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma Invasive::Melanoma Invasive, Associated with a nevus"
+ISIC_7055840,IL_3087693,Indeterminate,Indeterminate epidermal proliferations,Solar or actinic keratosis,Indeterminate::Indeterminate epidermal proliferations::Solar or actinic keratosis
+ISIC_7065457,IL_9204202,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_7073762,IL_7265487,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_7074027,IL_8803834,Malignant,Malignant epidermal proliferations,Squamous cell carcinoma in situ,Malignant::Malignant epidermal proliferations::Squamous cell carcinoma in situ
+ISIC_7075581,IL_0595893,Indeterminate,Indeterminate epidermal proliferations,Solar or actinic keratosis,Indeterminate::Indeterminate epidermal proliferations::Solar or actinic keratosis
+ISIC_7095002,IL_5018729,Benign,Benign soft tissue proliferations - Fibro-histiocytic,Fibroepithelial polyp,Benign::Benign soft tissue proliferations - Fibro-histiocytic::Fibroepithelial polyp
+ISIC_7104824,IL_0250658,Benign,Benign epidermal proliferations,Seborrheic keratosis,Benign::Benign epidermal proliferations::Seborrheic keratosis
+ISIC_7105211,IL_2458872,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Nodular"
+ISIC_7112594,IL_3131397,Indeterminate,Indeterminate epidermal proliferations,Solar or actinic keratosis,Indeterminate::Indeterminate epidermal proliferations::Solar or actinic keratosis
+ISIC_7118037,IL_1945423,Indeterminate,Indeterminate melanocytic proliferations,Atypical melanocytic neoplasm,Indeterminate::Indeterminate melanocytic proliferations::Atypical melanocytic neoplasm
+ISIC_7134306,IL_3583284,Benign,Benign epidermal proliferations,Seborrheic keratosis,Benign::Benign epidermal proliferations::Seborrheic keratosis
+ISIC_7160427,IL_9682482,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma in situ
+ISIC_7169631,IL_6043075,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_7171837,IL_1452871,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_7178963,IL_1159142,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_7188117,IL_2667000,Malignant,Malignant epidermal proliferations,Squamous cell carcinoma in situ,Malignant::Malignant epidermal proliferations::Squamous cell carcinoma in situ
+ISIC_7203136,IL_0114103,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Superficial"
+ISIC_7231436,IL_3206110,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma in situ
+ISIC_7235721,IL_5526321,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Superficial"
+ISIC_7249293,IL_3001109,Indeterminate,Indeterminate melanocytic proliferations,Atypical intraepithelial melanocytic proliferation,Indeterminate::Indeterminate melanocytic proliferations::Atypical intraepithelial melanocytic proliferation
+ISIC_7266517,IL_3817940,Benign,Benign epidermal proliferations,Seborrheic keratosis,Benign::Benign epidermal proliferations::Seborrheic keratosis
+ISIC_7285904,IL_9198009,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma Invasive
+ISIC_7294678,IL_9333849,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma in situ
+ISIC_7307297,IL_9406673,Malignant,Malignant epidermal proliferations,Squamous cell carcinoma in situ,Malignant::Malignant epidermal proliferations::Squamous cell carcinoma in situ
+ISIC_7310426,IL_4020189,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_7314073,IL_0630419,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Nodular"
+ISIC_7316504,IL_5454547,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,"Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma Invasive::Melanoma Invasive, Superficial spreading"
+ISIC_7323467,IL_0226718,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma
+ISIC_7324912,IL_3325599,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,"Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma Invasive::Melanoma Invasive, On chronically sun-exposed skin or lentigo maligna melanoma"
+ISIC_7346872,IL_5438654,Benign,Benign epidermal proliferations,Pigmented benign keratosis,Benign::Benign epidermal proliferations::Pigmented benign keratosis
+ISIC_7354695,IL_1573332,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_7373227,IL_0729254,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,"Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma Invasive::Melanoma Invasive, Superficial spreading"
+ISIC_7379567,IL_5108090,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Nodular"
+ISIC_7382224,IL_5429129,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_7400037,IL_9785546,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Nodular"
+ISIC_7413005,IL_0988706,Malignant,Malignant epidermal proliferations,Squamous cell carcinoma in situ,Malignant::Malignant epidermal proliferations::Squamous cell carcinoma in situ
+ISIC_7417402,IL_7715282,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Nodular"
+ISIC_7420584,IL_0137949,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,"Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma Invasive::Melanoma Invasive, Superficial spreading"
+ISIC_7423156,IL_6766283,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_7435688,IL_5643642,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_7442350,IL_3997011,Benign,Benign epidermal proliferations,Seborrheic keratosis,Benign::Benign epidermal proliferations::Seborrheic keratosis
+ISIC_7445958,IL_5913982,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Nodular"
+ISIC_7450066,IL_1962425,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Nodular"
+ISIC_7464445,IL_9201566,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma in situ
+ISIC_7476326,IL_8091911,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_7483189,IL_1182809,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_7488074,IL_2330217,Benign,Benign soft tissue proliferations - Fibro-histiocytic,Dermatofibroma,Benign::Benign soft tissue proliferations - Fibro-histiocytic::Dermatofibroma
+ISIC_7491017,IL_6874998,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Nodular"
+ISIC_7499766,IL_3440998,Malignant,Malignant epidermal proliferations,Squamous cell carcinoma in situ,Malignant::Malignant epidermal proliferations::Squamous cell carcinoma in situ
+ISIC_7516887,IL_6733891,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_7524567,IL_3399653,Benign,Benign epidermal proliferations,Seborrheic keratosis,Benign::Benign epidermal proliferations::Seborrheic keratosis
+ISIC_7538059,IL_9502542,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,"Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma in situ::Melanoma in situ, Superficial spreading"
+ISIC_7559331,IL_2404273,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, NOS, Junctional"
+ISIC_7569530,IL_8179459,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_7571949,IL_8738374,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_7575093,IL_1024278,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Infiltrating"
+ISIC_7583570,IL_5227464,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Nodular"
+ISIC_7590216,IL_5470159,Indeterminate,Indeterminate epidermal proliferations,Solar or actinic keratosis,Indeterminate::Indeterminate epidermal proliferations::Solar or actinic keratosis
+ISIC_7605910,IL_7050887,Benign,Benign epidermal proliferations,Seborrheic keratosis,Benign::Benign epidermal proliferations::Seborrheic keratosis
+ISIC_7606683,IL_8943638,Malignant,Malignant epidermal proliferations,Squamous cell carcinoma in situ,Malignant::Malignant epidermal proliferations::Squamous cell carcinoma in situ
+ISIC_7620648,IL_2013579,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_7647494,IL_0325520,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Nodular"
+ISIC_7651505,IL_8255309,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, NOS, Junctional"
+ISIC_7655277,IL_4176441,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,"Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma in situ::Melanoma in situ, Superficial spreading"
+ISIC_7665681,IL_6904298,Benign,Benign epidermal proliferations,Seborrheic keratosis,Benign::Benign epidermal proliferations::Seborrheic keratosis
+ISIC_7665958,IL_8094173,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, NOS, Compound"
+ISIC_7672350,IL_1255530,Benign,Benign epidermal proliferations,Seborrheic keratosis,Benign::Benign epidermal proliferations::Seborrheic keratosis
+ISIC_7676691,IL_4039710,Malignant,Malignant epidermal proliferations,Squamous cell carcinoma in situ,Malignant::Malignant epidermal proliferations::Squamous cell carcinoma in situ
+ISIC_7703236,IL_6750362,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,"Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma in situ::Melanoma in situ, Lentigo maligna type"
+ISIC_7723351,IL_0414212,Benign,Benign soft tissue proliferations - Vascular,Hemangioma,"Benign::Benign soft tissue proliferations - Vascular::Hemangioma::Hemangioma, Cherry"
+ISIC_7733594,IL_1365720,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,"Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma in situ::Melanoma in situ, Lentigo maligna type"
+ISIC_7745168,IL_2643380,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma in situ
+ISIC_7748442,IL_7839651,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Superficial"
+ISIC_7757179,IL_1718687,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, NOS, Compound"
+ISIC_7757958,IL_6597492,Benign,Benign epidermal proliferations,Seborrheic keratosis,Benign::Benign epidermal proliferations::Seborrheic keratosis
+ISIC_7770173,IL_8595026,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Nodular"
+ISIC_7770368,IL_0114771,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_7777021,IL_7346593,Benign,Benign adnexal epithelial proliferations - Follicular,,Benign::Benign adnexal epithelial proliferations - Follicular
+ISIC_7777364,IL_3734200,Indeterminate,Indeterminate melanocytic proliferations,Atypical melanocytic neoplasm,Indeterminate::Indeterminate melanocytic proliferations::Atypical melanocytic neoplasm
+ISIC_7792743,IL_9689636,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_7795225,IL_3912447,Indeterminate,Indeterminate melanocytic proliferations,Atypical melanocytic neoplasm,Indeterminate::Indeterminate melanocytic proliferations::Atypical melanocytic neoplasm
+ISIC_7800702,IL_3694556,Malignant,Malignant epidermal proliferations,Squamous cell carcinoma in situ,Malignant::Malignant epidermal proliferations::Squamous cell carcinoma in situ
+ISIC_7806992,IL_8674750,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_7828303,IL_7545303,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_7834218,IL_6385112,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma in situ
+ISIC_7835812,IL_6613853,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Nodular"
+ISIC_7836717,IL_4291019,Malignant,Malignant epidermal proliferations,Squamous cell carcinoma in situ,Malignant::Malignant epidermal proliferations::Squamous cell carcinoma in situ
+ISIC_7904293,IL_9353180,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_7904729,IL_8580085,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_7928246,IL_0267976,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,"Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma Invasive::Melanoma Invasive, Superficial spreading"
+ISIC_7948199,IL_4165747,Benign,Inflammatory or infectious diseases,Verruca,Benign::Inflammatory or infectious diseases::Verruca
+ISIC_7952885,IL_1492170,Indeterminate,Indeterminate epidermal proliferations,Solar or actinic keratosis,Indeterminate::Indeterminate epidermal proliferations::Solar or actinic keratosis
+ISIC_7955955,IL_4662614,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_7957078,IL_3802707,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, NOS, Compound"
+ISIC_7964390,IL_2940657,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma
+ISIC_7989726,IL_7032993,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma in situ
+ISIC_8000110,IL_6754691,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_8003932,IL_3135673,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_8016858,IL_5400524,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_8033569,IL_9339757,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_8034155,IL_0404932,Indeterminate,Indeterminate melanocytic proliferations,Atypical melanocytic neoplasm,Indeterminate::Indeterminate melanocytic proliferations::Atypical melanocytic neoplasm
+ISIC_8045584,IL_4287158,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_8051704,IL_6416639,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, NOS, Compound"
+ISIC_8068485,IL_3135537,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_8068646,IL_2734696,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_8078515,IL_0760868,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma Invasive
+ISIC_8080250,IL_1552808,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,"Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma Invasive::Melanoma Invasive, Superficial spreading"
+ISIC_8083792,IL_3848620,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_8092780,IL_6614911,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_8110460,IL_3576245,Malignant,Malignant epidermal proliferations,Squamous cell carcinoma in situ,Malignant::Malignant epidermal proliferations::Squamous cell carcinoma in situ
+ISIC_8135482,IL_5885188,Indeterminate,Indeterminate melanocytic proliferations,Atypical melanocytic neoplasm,Indeterminate::Indeterminate melanocytic proliferations::Atypical melanocytic neoplasm
+ISIC_8137894,IL_2889618,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Nodular"
+ISIC_8142477,IL_5733025,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_8145520,IL_8505027,Indeterminate,Indeterminate epidermal proliferations,Solar or actinic keratosis,Indeterminate::Indeterminate epidermal proliferations::Solar or actinic keratosis
+ISIC_8152470,IL_2404088,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_8153765,IL_8184361,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,"Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma Invasive::Melanoma Invasive, Superficial spreading"
+ISIC_8183370,IL_6066969,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_8195275,IL_7898466,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Nodular"
+ISIC_8197894,IL_0322505,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_8248513,IL_2845816,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, NOS, Dermal"
+ISIC_8262776,IL_3997117,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_8269383,IL_7642088,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Superficial"
+ISIC_8274114,IL_2800996,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_8275832,IL_4654646,Benign,Benign adnexal epithelial proliferations - Follicular,,Benign::Benign adnexal epithelial proliferations - Follicular
+ISIC_8277996,IL_7990682,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_8285910,IL_2533836,Indeterminate,Indeterminate melanocytic proliferations,Atypical melanocytic neoplasm,Indeterminate::Indeterminate melanocytic proliferations::Atypical melanocytic neoplasm
+ISIC_8286200,IL_7302758,Benign,Benign epidermal proliferations,Seborrheic keratosis,Benign::Benign epidermal proliferations::Seborrheic keratosis
+ISIC_8297496,IL_1471158,Indeterminate,Indeterminate epidermal proliferations,Solar or actinic keratosis,Indeterminate::Indeterminate epidermal proliferations::Solar or actinic keratosis
+ISIC_8310505,IL_6937390,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Nodular"
+ISIC_8326053,IL_6659656,Benign,Benign epidermal proliferations,Seborrheic keratosis,"Benign::Benign epidermal proliferations::Seborrheic keratosis::Seborrheic keratosis, Clonal"
+ISIC_8333431,IL_4834283,Malignant,Malignant melanocytic proliferations (Melanoma),"Melanoma, NOS","Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma, NOS"
+ISIC_8336318,IL_5097969,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,"Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma Invasive::Melanoma Invasive, Superficial spreading"
+ISIC_8363981,IL_1535377,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma Invasive
+ISIC_8370313,IL_2546515,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Superficial"
+ISIC_8386743,IL_3100877,Malignant,Malignant epidermal proliferations,Squamous cell carcinoma in situ,Malignant::Malignant epidermal proliferations::Squamous cell carcinoma in situ
+ISIC_8404669,IL_5865051,Malignant,Malignant epidermal proliferations,"Squamous cell carcinoma, Invasive","Malignant::Malignant epidermal proliferations::Squamous cell carcinoma, Invasive"
+ISIC_8412135,IL_1433993,Malignant,Malignant epidermal proliferations,Squamous cell carcinoma in situ,Malignant::Malignant epidermal proliferations::Squamous cell carcinoma in situ
+ISIC_8440077,IL_4051898,Malignant,Malignant epidermal proliferations,"Squamous cell carcinoma, Invasive","Malignant::Malignant epidermal proliferations::Squamous cell carcinoma, Invasive"
+ISIC_8460937,IL_6000663,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Superficial"
+ISIC_8487444,IL_4572818,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,"Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma in situ::Melanoma in situ, Superficial spreading"
+ISIC_8491708,IL_9097741,Malignant,Malignant epidermal proliferations,"Squamous cell carcinoma, Invasive","Malignant::Malignant epidermal proliferations::Squamous cell carcinoma, Invasive"
+ISIC_8511587,IL_7579521,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_8512129,IL_0663520,Malignant,Malignant epidermal proliferations,Squamous cell carcinoma in situ,Malignant::Malignant epidermal proliferations::Squamous cell carcinoma in situ
+ISIC_8515412,IL_5747135,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_8520464,IL_2755989,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Infiltrating"
+ISIC_8521796,IL_2923914,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma in situ
+ISIC_8546843,IL_9460914,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma in situ
+ISIC_8556048,IL_6994795,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_8567265,IL_8668543,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_8569576,IL_8910080,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Superficial"
+ISIC_8598460,IL_5005992,Benign,Benign epidermal proliferations,Seborrheic keratosis,Benign::Benign epidermal proliferations::Seborrheic keratosis
+ISIC_8598960,IL_0624293,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_8607419,IL_0639136,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, NOS, Junctional"
+ISIC_8614100,IL_6286070,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Nodular"
+ISIC_8637215,IL_2233573,Indeterminate,Indeterminate melanocytic proliferations,Atypical melanocytic neoplasm,Indeterminate::Indeterminate melanocytic proliferations::Atypical melanocytic neoplasm
+ISIC_8651165,IL_5475465,Indeterminate,Indeterminate epidermal proliferations,Solar or actinic keratosis,Indeterminate::Indeterminate epidermal proliferations::Solar or actinic keratosis
+ISIC_8659459,IL_5130417,Indeterminate,Indeterminate melanocytic proliferations,Atypical melanocytic neoplasm,Indeterminate::Indeterminate melanocytic proliferations::Atypical melanocytic neoplasm
+ISIC_8662001,IL_8558961,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma in situ
+ISIC_8695576,IL_7362309,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, NOS, Dermal"
+ISIC_8717913,IL_6893686,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Infiltrating"
+ISIC_8725462,IL_8635475,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, NOS, Compound"
+ISIC_8731383,IL_9501924,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Nodular"
+ISIC_8740008,IL_4372325,Benign,Benign soft tissue proliferations - Vascular,Hemangioma,"Benign::Benign soft tissue proliferations - Vascular::Hemangioma::Hemangioma, Cherry"
+ISIC_8751003,IL_1361761,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_8773510,IL_5969921,Indeterminate,Indeterminate melanocytic proliferations,Atypical melanocytic neoplasm,Indeterminate::Indeterminate melanocytic proliferations::Atypical melanocytic neoplasm
+ISIC_8797926,IL_3507993,Benign,Inflammatory or infectious diseases,Verruca,Benign::Inflammatory or infectious diseases::Verruca
+ISIC_8800250,IL_2629349,Malignant,Malignant epidermal proliferations,"Squamous cell carcinoma, Invasive","Malignant::Malignant epidermal proliferations::Squamous cell carcinoma, Invasive::Squamous cell carcinoma, Invasive, Keratoacanthoma-type"
+ISIC_8832909,IL_0637957,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Nodular"
+ISIC_8849663,IL_7590055,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_8850488,IL_5575792,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Superficial"
+ISIC_8852993,IL_1655369,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma in situ
+ISIC_8876375,IL_1943450,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_8882986,IL_2440890,Benign,Benign epidermal proliferations,Seborrheic keratosis,Benign::Benign epidermal proliferations::Seborrheic keratosis
+ISIC_8889130,IL_3454902,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_8892501,IL_7373260,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_8898380,IL_8202206,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Nodular"
+ISIC_8899671,IL_1674017,Malignant,Malignant epidermal proliferations,Squamous cell carcinoma in situ,Malignant::Malignant epidermal proliferations::Squamous cell carcinoma in situ
+ISIC_8902775,IL_8714276,Indeterminate,Indeterminate melanocytic proliferations,Atypical melanocytic neoplasm,Indeterminate::Indeterminate melanocytic proliferations::Atypical melanocytic neoplasm
+ISIC_8915898,IL_1760448,Benign,Benign soft tissue proliferations - Fibro-histiocytic,Dermatofibroma,Benign::Benign soft tissue proliferations - Fibro-histiocytic::Dermatofibroma
+ISIC_8952587,IL_0324837,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Nodular"
+ISIC_8960058,IL_6860758,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_8963025,IL_5783140,Indeterminate,Indeterminate epidermal proliferations,Solar or actinic keratosis,Indeterminate::Indeterminate epidermal proliferations::Solar or actinic keratosis
+ISIC_8966407,IL_3455545,Malignant,Malignant epidermal proliferations,"Squamous cell carcinoma, Invasive","Malignant::Malignant epidermal proliferations::Squamous cell carcinoma, Invasive::Squamous cell carcinoma, Invasive, Keratoacanthoma-type"
+ISIC_9001660,IL_7883345,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_9060519,IL_7464223,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Superficial"
+ISIC_9078874,IL_4012854,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma in situ
+ISIC_9090322,IL_4813107,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Nodular"
+ISIC_9105966,IL_6370320,Benign,Benign epidermal proliferations,Solar lentigo,Benign::Benign epidermal proliferations::Solar lentigo
+ISIC_9113500,IL_1359373,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, NOS, Compound"
+ISIC_9118369,IL_0287969,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_9125499,IL_4946407,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_9127831,IL_5887619,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Nodular"
+ISIC_9140566,IL_0683145,Indeterminate,Indeterminate melanocytic proliferations,Atypical melanocytic neoplasm,Indeterminate::Indeterminate melanocytic proliferations::Atypical melanocytic neoplasm
+ISIC_9140699,IL_3494819,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma
+ISIC_9146872,IL_4454073,Benign,Benign epidermal proliferations,Seborrheic keratosis,Benign::Benign epidermal proliferations::Seborrheic keratosis
+ISIC_9152373,IL_8562444,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Nodular"
+ISIC_9153155,IL_1288955,Indeterminate,Indeterminate epidermal proliferations,Solar or actinic keratosis,Indeterminate::Indeterminate epidermal proliferations::Solar or actinic keratosis
+ISIC_9188287,IL_5661940,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Nodular"
+ISIC_9194166,IL_4983956,Malignant,Malignant epidermal proliferations,"Squamous cell carcinoma, Invasive","Malignant::Malignant epidermal proliferations::Squamous cell carcinoma, Invasive"
+ISIC_9202888,IL_2360500,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, NOS, Dermal"
+ISIC_9207822,IL_2559647,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Nodular"
+ISIC_9215746,IL_8136491,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_9244181,IL_4741067,Indeterminate,Indeterminate melanocytic proliferations,Atypical melanocytic neoplasm,Indeterminate::Indeterminate melanocytic proliferations::Atypical melanocytic neoplasm
+ISIC_9244750,IL_8900982,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_9266851,IL_3479187,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma Invasive
+ISIC_9273831,IL_8997056,Benign,Benign epidermal proliferations,Seborrheic keratosis,Benign::Benign epidermal proliferations::Seborrheic keratosis
+ISIC_9293743,IL_2056661,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_9297282,IL_3993933,Indeterminate,Indeterminate melanocytic proliferations,Atypical intraepithelial melanocytic proliferation,Indeterminate::Indeterminate melanocytic proliferations::Atypical intraepithelial melanocytic proliferation
+ISIC_9298199,IL_3377546,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_9300643,IL_3149459,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_9303058,IL_2072670,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_9317944,IL_9899195,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_9328004,IL_8245440,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_9328902,IL_3535816,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_9334858,IL_1967745,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_9343794,IL_0294036,Benign,Benign epidermal proliferations,Seborrheic keratosis,Benign::Benign epidermal proliferations::Seborrheic keratosis
+ISIC_9344338,IL_9903349,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_9351864,IL_6684986,Benign,Benign epidermal proliferations,Seborrheic keratosis,Benign::Benign epidermal proliferations::Seborrheic keratosis
+ISIC_9360322,IL_4542834,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma in situ
+ISIC_9368831,IL_0644286,Benign,Benign epidermal proliferations,Seborrheic keratosis,Benign::Benign epidermal proliferations::Seborrheic keratosis
+ISIC_9385142,IL_1655999,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_9388455,IL_6833113,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_9389645,IL_3633472,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_9401984,IL_7323022,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_9420821,IL_9676578,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma in situ
+ISIC_9433685,IL_8438439,Benign,Benign epidermal proliferations,Solar lentigo,Benign::Benign epidermal proliferations::Solar lentigo
+ISIC_9446000,IL_3401049,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_9449137,IL_7423536,Benign,Benign epidermal proliferations,Seborrheic keratosis,Benign::Benign epidermal proliferations::Seborrheic keratosis
+ISIC_9452490,IL_7870569,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,"Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma in situ::Melanoma in situ, Lentigo maligna type"
+ISIC_9454701,IL_5305785,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,"Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma in situ::Melanoma in situ, Superficial spreading"
+ISIC_9477378,IL_2218851,Indeterminate,Indeterminate melanocytic proliferations,Atypical melanocytic neoplasm,Indeterminate::Indeterminate melanocytic proliferations::Atypical melanocytic neoplasm
+ISIC_9493609,IL_9565986,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_9519622,IL_2070768,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_9521124,IL_4565368,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma in situ
+ISIC_9544804,IL_1032704,Malignant,Malignant melanocytic proliferations (Melanoma),"Melanoma, NOS","Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma, NOS"
+ISIC_9546066,IL_8255250,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_9615085,IL_2553291,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma
+ISIC_9615970,IL_8013427,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_9628315,IL_8486857,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_9639793,IL_8415729,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_9660231,IL_2254613,Benign,Benign epidermal proliferations,Solar lentigo,Benign::Benign epidermal proliferations::Solar lentigo
+ISIC_9664961,IL_7997064,Indeterminate,Indeterminate epidermal proliferations,Solar or actinic keratosis,Indeterminate::Indeterminate epidermal proliferations::Solar or actinic keratosis
+ISIC_9666367,IL_8193707,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_9677354,IL_6294323,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_9680590,IL_0512195,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_9683569,IL_0917685,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_9690994,IL_2262731,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,"Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma Invasive::Melanoma Invasive, Superficial spreading"
+ISIC_9701960,IL_4651980,Benign,Benign epidermal proliferations,Seborrheic keratosis,Benign::Benign epidermal proliferations::Seborrheic keratosis
+ISIC_9726753,IL_3462404,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Nodular"
+ISIC_9727854,IL_6494073,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, NOS, Dermal"
+ISIC_9733547,IL_1404959,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Of special anatomic site"
+ISIC_9735344,IL_3298285,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,"Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma Invasive::Melanoma Invasive, Superficial spreading"
+ISIC_9749120,IL_2228980,Benign,Benign epidermal proliferations,Lichen planus like keratosis,Benign::Benign epidermal proliferations::Lichen planus like keratosis
+ISIC_9758451,IL_2125279,Indeterminate,Indeterminate melanocytic proliferations,Atypical melanocytic neoplasm,Indeterminate::Indeterminate melanocytic proliferations::Atypical melanocytic neoplasm
+ISIC_9762220,IL_7961446,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Nodular"
+ISIC_9771048,IL_5276916,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, NOS, Junctional"
+ISIC_9777602,IL_2198075,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, NOS, Junctional"
+ISIC_9796445,IL_3479226,Indeterminate,Indeterminate epidermal proliferations,Solar or actinic keratosis,Indeterminate::Indeterminate epidermal proliferations::Solar or actinic keratosis
+ISIC_9802297,IL_3630259,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, NOS, Dermal"
+ISIC_9805656,IL_9435969,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,"Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma Invasive::Melanoma Invasive, Associated with a nevus"
+ISIC_9821013,IL_3295021,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,"Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma in situ::Melanoma in situ, associated with a nevus"
+ISIC_9825055,IL_9343173,Benign,Benign epidermal proliferations,Seborrheic keratosis,Benign::Benign epidermal proliferations::Seborrheic keratosis
+ISIC_9828567,IL_8977109,Benign,Benign epidermal proliferations,Lichen planus like keratosis,Benign::Benign epidermal proliferations::Lichen planus like keratosis
+ISIC_9841099,IL_3603777,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_9849800,IL_7550272,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_9851058,IL_8789452,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_9855202,IL_3289028,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,"Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma in situ::Melanoma in situ, associated with a nevus"
+ISIC_9857371,IL_7751844,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_9877311,IL_8242602,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma
+ISIC_9922606,IL_8042752,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_9933130,IL_7865798,Benign,Benign soft tissue proliferations - Fibro-histiocytic,Dermatofibroma,Benign::Benign soft tissue proliferations - Fibro-histiocytic::Dermatofibroma
+ISIC_9941636,IL_6366837,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Nodular"
+ISIC_9943365,IL_8672010,Benign,Benign epidermal proliferations,Seborrheic keratosis,Benign::Benign epidermal proliferations::Seborrheic keratosis
+ISIC_9964579,IL_2111584,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_9965266,IL_6511142,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Atypical, Dysplastic, or Clark"
+ISIC_9972350,IL_4801400,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, Congenital"
+ISIC_9972649,IL_7739568,Malignant,Malignant epidermal proliferations,Squamous cell carcinoma in situ,Malignant::Malignant epidermal proliferations::Squamous cell carcinoma in situ
+ISIC_9972877,IL_7206529,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,"Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma Invasive::Melanoma Invasive, Superficial spreading"
+ISIC_9981754,IL_8858799,Benign,Benign melanocytic proliferations,Nevus,"Benign::Benign melanocytic proliferations::Nevus::Nevus, NOS, Compound"
+ISIC_9987169,IL_8757277,Benign,Benign epidermal proliferations,Seborrheic keratosis,Benign::Benign epidermal proliferations::Seborrheic keratosis
+ISIC_9990985,IL_0743797,Benign,Benign melanocytic proliferations,Nevus,Benign::Benign melanocytic proliferations::Nevus
+ISIC_9996602,IL_2734444,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Nodular"

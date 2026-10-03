@@ -1,0 +1,29 @@
+{
+  "label_schema_version": "v1-draft",
+  "classes": [
+    "nevus",
+    "bcc",
+    "melanoma",
+    "keratosis",
+    "scc"
+  ],
+  "iddx3_to_class": {
+    "Nevus": "nevus",
+    "Basal cell carcinoma": "bcc",
+    "Melanoma in situ": "melanoma",
+    "Melanoma Invasive": "melanoma",
+    "Melanoma, NOS": "melanoma",
+    "Melanoma metastasis": "melanoma",
+    "Seborrheic keratosis": "keratosis",
+    "Solar or actinic keratosis": "keratosis",
+    "Solar lentigo": "keratosis",
+    "Lichen planus like keratosis": "keratosis",
+    "Lentigo NOS": "keratosis",
+    "Pigmented benign keratosis": "keratosis",
+    "Squamous cell carcinoma in situ": "scc",
+    "Squamous cell carcinoma, Invasive": "scc",
+    "Squamous cell carcinoma, NOS": "scc"
+  },
+  "split_seed": 42,
+  "split_ratio": "70/15/15 stratified, image-level (no patient_id available)"
+}
