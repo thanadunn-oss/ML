@@ -25,6 +25,10 @@
 - artifacts: ทั้ง 4 ไฟล์ข้างบน
 - เสนอเป็นรุ่นถัดจาก v1 → เหมาะใช้สาธิตการเปลี่ยนรุ่น/ย้อนรุ่น (v1 ยังเก็บไว้)
 
+- ตรวจด้วย gate ก่อนเปลี่ยนรุ่น: `python src/models/gate.py --candidate <v2> --active <v1>` → ผล PASSED (ดู docs/gate_evidence.md)
+- metrics.json ในชุด models_for_registry.zip เป็นผลรายคลาสของ val แล้ว (ค่า test เดิมเก็บแยกใน legacy_test_results_not_for_selection)
+- v1 สำหรับ Registry ใช้ ResNet18 ชุดรันซ้ำ (20261003-113735-resnet18, val 0.4218) เพราะมีไฟล์ครบและผ่าน gate แล้ว
+
 ## สำหรับคนที่ 5 (API) — โหลดโมเดล
 
 ```python

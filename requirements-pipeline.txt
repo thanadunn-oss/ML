@@ -1,0 +1,2 @@
+prefect>=3.0
+mlflow-skinny>=3.0

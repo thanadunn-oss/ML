@@ -1,29 +1,24 @@
 {
-  "label_schema_version": "v1-draft",
+  "label_schema_version": "ham10000-v1",
+  "dataset": "HAM10000",
   "classes": [
     "nevus",
-    "bcc",
     "melanoma",
     "keratosis",
-    "scc"
+    "bcc",
+    "akiec",
+    "dermatofibroma",
+    "vascular"
   ],
-  "iddx3_to_class": {
-    "Nevus": "nevus",
-    "Basal cell carcinoma": "bcc",
-    "Melanoma in situ": "melanoma",
-    "Melanoma Invasive": "melanoma",
-    "Melanoma, NOS": "melanoma",
-    "Melanoma metastasis": "melanoma",
-    "Seborrheic keratosis": "keratosis",
-    "Solar or actinic keratosis": "keratosis",
-    "Solar lentigo": "keratosis",
-    "Lichen planus like keratosis": "keratosis",
-    "Lentigo NOS": "keratosis",
-    "Pigmented benign keratosis": "keratosis",
-    "Squamous cell carcinoma in situ": "scc",
-    "Squamous cell carcinoma, Invasive": "scc",
-    "Squamous cell carcinoma, NOS": "scc"
+  "dx_to_class": {
+    "nv": "nevus",
+    "mel": "melanoma",
+    "bkl": "keratosis",
+    "bcc": "bcc",
+    "akiec": "akiec",
+    "df": "dermatofibroma",
+    "vasc": "vascular"
   },
   "split_seed": 42,
-  "split_ratio": "70/15/15 stratified, image-level (no patient_id available)"
+  "split_method": "grouped by lesion_id, stratified by dx (numpy, seed 42), ~71/14/14"
 }

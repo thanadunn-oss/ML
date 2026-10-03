@@ -11,30 +11,22 @@ python -m venv .venv
 pip install -r requirements.txt
 ```
 
-## 2. วางภาพ (ไม่อยู่ใน Git เพราะเป็นไฟล์ข้อมูลขนาดใหญ่)
+## 2. ภาพ
 
-แตก `model_images.zip` (1,068 ภาพ, ~3 MB) ให้ได้โครงนี้:
-
-```
-data/model_images/ISIC_xxxxxxx.jpg
-```
+ภาพ 1,068 ภาพ (~4 MB) อยู่ใน repo แล้วที่ `data/model_images/` — `git clone` แล้วใช้ได้ทันที
 
 ที่มาของภาพ: ISIC 2024 Challenge training images คัดเฉพาะ isic_id ใน `data/needed_image_ids.csv` (สัญญาอนุญาต CC-BY ตาม `attribution` ใน metadata)
 
-ดาวน์โหลด `model_images.zip`: **<ใส่ลิงก์ Google Drive ของกลุ่ม>**
-
-ตรวจว่าได้ไฟล์ถูกต้องก่อนใช้:
+ตรวจว่าได้ข้อมูลชุดเดียวกับในรายงาน:
 
 ```bash
-# Windows PowerShell
-Get-FileHash model_images.zip -Algorithm SHA256
-# Mac/Linux
-sha256sum model_images.zip
+python -c "import os;print(len(os.listdir('data/model_images')))"   # ต้องได้ 1068
+# Windows PowerShell:  Get-FileHash data/splits.csv -Algorithm SHA256
+# Mac/Linux:           sha256sum data/splits.csv
 ```
 
 | ไฟล์ | SHA256 |
 |---|---|
-| model_images.zip | `8dc1140e82d923634e716b3d9221fb4eaaae666cb49a9427c1e5ce3a9c0d9dd9` |
 | data/splits.csv | `34b4852299efee04c5dd4b176677761af9cb5a904c72ee046e98001d392705f8` |
 | configs/class_mapping.json | `9add8cab7877d660e48a5de19f4b8188658eb3d6c33e897db59e1869306ebdd2` |
 
@@ -88,3 +80,19 @@ python src/data/prepare_data.py
 ## 6. ใช้โมเดลที่เทรนแล้วโดยไม่ต้องเทรนเอง
 
 ดาวน์โหลด `model.pt` + `serving_config.json` จาก MLflow Registry ของกลุ่ม (คนที่ 4) แล้วโหลดตามตัวอย่างใน `docs/HANDOFF_model_v1.md`
+
+## 7. ด่านตรวจคุณภาพ (gate) ก่อนอนุมัติโมเดล
+
+```bash
+python src/models/gate.py --candidate runs/<new> --active runs/<current>
+```
+
+- เกณฑ์อยู่ใน `configs/gate_criteria.json` (val Macro F1 ≥ 0.40, ไม่แย่กว่ารุ่นที่ใช้อยู่, ทุกคลาส F1 > 0, ลำดับคลาส/preprocessing ตรงกับ API)
+- exit code 0 = ผ่าน, 1 = ไม่ผ่าน → ใช้เป็นเงื่อนไขใน Prefect DAG ได้ตรงๆ หรือ `from gate import check_gate`
+- ผลบันทึกใน `runs/<run_id>/gate_result.json` ทุกครั้ง (หลักฐาน T09) ตัวอย่างดู `docs/gate_evidence.md`
+
+run ที่สร้างจาก train.py รุ่นแรกไม่มีผลรายคลาสของ val → ประเมินใหม่ก่อนเข้า gate (ไม่ต้องเทรน):
+
+```bash
+python src/models/train.py --eval-val runs/<run_id>
+```

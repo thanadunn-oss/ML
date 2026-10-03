@@ -1,0 +1,27 @@
+{
+  "gate_version": "v2",
+  "agreed_by": "คนที่ 1 (ติว) กำหนดให้แยก optimizing กับ gate และมี 2 gate · ตัวเลขโดยคนที่ 3 จากผล HAM10000 — รอติวยืนยันตัวเลข",
+  "optimizing_metric": {
+    "name": "val_macro_f1",
+    "direction": "maximize",
+    "note": "ใช้จัดอันดับ/เลือกโมเดลที่ผ่าน gate แล้วเท่านั้น ไม่ใช่เกณฑ์ผ่าน-ไม่ผ่าน"
+  },
+  "gates": {
+    "gate1_melanoma_recall_min": 0.5,
+    "gate1_melanoma_precision_min": 0.25,
+    "gate2_cpu_latency_p95_ms_max": 200
+  },
+  "validity_checks": {
+    "expected_classes": [
+      "nevus",
+      "melanoma",
+      "keratosis",
+      "bcc",
+      "akiec",
+      "dermatofibroma",
+      "vascular"
+    ],
+    "expected_preprocessing_version": "v1"
+  },
+  "gates_note": "Gate 1 ต้องผ่านทั้ง recall และ precision ของ melanoma — recall อย่างเดียวโกงได้ด้วยการทายทุกภาพเป็น melanoma (recall = 1.0) · precision 0.25 ≈ 2 เท่าของสัดส่วน melanoma ในข้อมูล (~11%)"
+}

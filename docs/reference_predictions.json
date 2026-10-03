@@ -1,85 +1,127 @@
 {
-  "model_run_id": "20261003-132142-efficientnet_b0",
-  "review_threshold": 0.6,
-  "tolerance": "ค่าความน่าจะเป็นต่างได้ไม่เกิน 0.001 ต่อคลาส (ต่างเครื่อง/ต่างเวอร์ชันไลบรารี)",
+  "model_run_id": "20261004-010030-efficientnet_b0",
+  "tolerance": "ความน่าจะเป็นต่างได้ไม่เกิน 0.001 ต่อคลาส",
+  "note": "needs_review ขึ้นกับเกณฑ์ที่ทีมเลือก ดู docs/review_threshold_sweep.json",
   "cases": [
     {
-      "isic_id": "ISIC_7571949",
+      "isic_id": "ISIC_0029709",
+      "image": "docs/reference_images/ISIC_0029709.jpg",
       "true_label": "nevus",
       "expected_pred": "nevus",
       "expected_probs": {
-        "nevus": 0.9921,
-        "bcc": 0.0004,
-        "melanoma": 0.0012,
-        "keratosis": 0.0061,
-        "scc": 0.0002
-      },
-      "needs_review": false
+        "nevus": 1.0,
+        "melanoma": 0.0,
+        "keratosis": 0.0,
+        "bcc": 0.0,
+        "akiec": 0.0,
+        "dermatofibroma": 0.0,
+        "vascular": 0.0
+      }
     },
     {
-      "isic_id": "ISIC_3762456",
-      "true_label": "bcc",
-      "expected_pred": "bcc",
-      "expected_probs": {
-        "nevus": 0.0214,
-        "bcc": 0.9347,
-        "melanoma": 0.0084,
-        "keratosis": 0.024,
-        "scc": 0.0114
-      },
-      "needs_review": false
-    },
-    {
-      "isic_id": "ISIC_8662001",
+      "isic_id": "ISIC_0024967",
+      "image": "docs/reference_images/ISIC_0024967.jpg",
       "true_label": "melanoma",
       "expected_pred": "melanoma",
       "expected_probs": {
-        "nevus": 0.0887,
-        "bcc": 0.0003,
-        "melanoma": 0.9083,
-        "keratosis": 0.0027,
-        "scc": 0.0001
-      },
-      "needs_review": false
+        "nevus": 0.0,
+        "melanoma": 1.0,
+        "keratosis": 0.0,
+        "bcc": 0.0,
+        "akiec": 0.0,
+        "dermatofibroma": 0.0,
+        "vascular": 0.0
+      }
     },
     {
-      "isic_id": "ISIC_8326053",
+      "isic_id": "ISIC_0031334",
+      "image": "docs/reference_images/ISIC_0031334.jpg",
       "true_label": "keratosis",
       "expected_pred": "keratosis",
       "expected_probs": {
-        "nevus": 0.0232,
-        "bcc": 0.0724,
-        "melanoma": 0.0084,
-        "keratosis": 0.8944,
-        "scc": 0.0017
-      },
-      "needs_review": false
+        "nevus": 0.0,
+        "melanoma": 0.0,
+        "keratosis": 0.9999,
+        "bcc": 0.0,
+        "akiec": 0.0,
+        "dermatofibroma": 0.0,
+        "vascular": 0.0
+      }
     },
     {
-      "isic_id": "ISIC_5400739",
-      "true_label": "scc",
-      "expected_pred": "scc",
+      "isic_id": "ISIC_0030813",
+      "image": "docs/reference_images/ISIC_0030813.jpg",
+      "true_label": "bcc",
+      "expected_pred": "bcc",
       "expected_probs": {
-        "nevus": 0.0039,
-        "bcc": 0.0228,
-        "melanoma": 0.0437,
-        "keratosis": 0.0587,
-        "scc": 0.8708
-      },
-      "needs_review": false
+        "nevus": 0.0,
+        "melanoma": 0.0,
+        "keratosis": 0.0,
+        "bcc": 1.0,
+        "akiec": 0.0,
+        "dermatofibroma": 0.0,
+        "vascular": 0.0
+      }
     },
     {
-      "isic_id": "ISIC_0235913",
-      "true_label": "nevus",
+      "isic_id": "ISIC_0030844",
+      "image": "docs/reference_images/ISIC_0030844.jpg",
+      "true_label": "akiec",
+      "expected_pred": "akiec",
+      "expected_probs": {
+        "nevus": 0.0,
+        "melanoma": 0.0,
+        "keratosis": 0.0,
+        "bcc": 0.0,
+        "akiec": 1.0,
+        "dermatofibroma": 0.0,
+        "vascular": 0.0
+      }
+    },
+    {
+      "isic_id": "ISIC_0024386",
+      "image": "docs/reference_images/ISIC_0024386.jpg",
+      "true_label": "dermatofibroma",
+      "expected_pred": "dermatofibroma",
+      "expected_probs": {
+        "nevus": 0.0,
+        "melanoma": 0.0,
+        "keratosis": 0.0,
+        "bcc": 0.0,
+        "akiec": 0.0,
+        "dermatofibroma": 1.0,
+        "vascular": 0.0
+      }
+    },
+    {
+      "isic_id": "ISIC_0027210",
+      "image": "docs/reference_images/ISIC_0027210.jpg",
+      "true_label": "vascular",
+      "expected_pred": "vascular",
+      "expected_probs": {
+        "nevus": 0.0,
+        "melanoma": 0.0,
+        "keratosis": 0.0,
+        "bcc": 0.0,
+        "akiec": 0.0,
+        "dermatofibroma": 0.0,
+        "vascular": 1.0
+      }
+    },
+    {
+      "isic_id": "ISIC_0029683",
+      "image": "docs/reference_images/ISIC_0029683.jpg",
+      "true_label": "keratosis",
       "expected_pred": "melanoma",
       "expected_probs": {
-        "nevus": 0.1455,
-        "bcc": 0.1256,
-        "melanoma": 0.3775,
-        "keratosis": 0.0367,
-        "scc": 0.3147
-      },
-      "needs_review": true
+        "nevus": 0.0691,
+        "melanoma": 0.5242,
+        "keratosis": 0.4051,
+        "bcc": 0.0005,
+        "akiec": 0.0004,
+        "dermatofibroma": 0.0004,
+        "vascular": 0.0002
+      }
     }
   ]
 }
