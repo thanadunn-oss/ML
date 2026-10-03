@@ -64,15 +64,22 @@ def main():
         if len(idx): picks.append(int(idx[np.argmax(conf[idx])]))
     low = np.where(conf < 0.6)[0]
     if len(low): picks.append(int(low[0]))
+    # ค่าที่คาดหวังต้องคำนวณแบบเดียวกับ API: CPU, ทีละ 1 ภาพ
+    # (GPU/batch ปัดเศษต่างจาก CPU เล็กน้อย ภาพที่โมเดลไม่มั่นใจอาจต่างเกิน 0.001 ได้ทั้งที่ API ถูกต้อง)
+    cpu = build_model(cfg["arch"], len(cls), pretrained=False)
+    cpu.load_state_dict(torch.load(os.path.join(a.run, "model.pt"), map_location="cpu")); cpu.eval()
     cases = []
     for i in picks:
         r = va.iloc[i]; dst = f"docs/reference_images/{r.isic_id}.jpg"
         shutil.copyfile(r.path, dst)
+        with torch.inference_mode():
+            pc = torch.softmax(cpu(tf(Image.open(dst).convert("RGB")).unsqueeze(0)), 1)[0].numpy()
         cases.append({"isic_id": r.isic_id, "image": dst, "true_label": r.label,
-                      "expected_pred": cls[int(pred[i])],
-                      "expected_probs": {c: round(float(p), 4) for c, p in zip(cls, P[i])}})
+                      "expected_pred": cls[int(pc.argmax())],
+                      "expected_probs": {c: round(float(p), 6) for c, p in zip(cls, pc)}})
     json.dump({"model_run_id": os.path.basename(a.run.rstrip("/\\")),
                "tolerance": "ความน่าจะเป็นต่างได้ไม่เกิน 0.001 ต่อคลาส",
+               "computed_on": "CPU, ทีละ 1 ภาพ (เหมือน API)",
                "note": "needs_review ขึ้นกับเกณฑ์ที่ทีมเลือก ดู docs/review_threshold_sweep.json",
                "cases": cases},
               open("docs/reference_predictions.json", "w", encoding="utf-8"), indent=2, ensure_ascii=False)

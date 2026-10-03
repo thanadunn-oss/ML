@@ -1,6 +1,7 @@
 {
   "model_run_id": "20261004-010030-efficientnet_b0",
   "tolerance": "ความน่าจะเป็นต่างได้ไม่เกิน 0.001 ต่อคลาส",
+  "computed_on": "CPU, ทีละ 1 ภาพ (เหมือน API)",
   "note": "needs_review ขึ้นกับเกณฑ์ที่ทีมเลือก ดู docs/review_threshold_sweep.json",
   "cases": [
     {
@@ -24,9 +25,9 @@
       "true_label": "melanoma",
       "expected_pred": "melanoma",
       "expected_probs": {
-        "nevus": 0.0,
-        "melanoma": 1.0,
-        "keratosis": 0.0,
+        "nevus": 1e-05,
+        "melanoma": 0.999984,
+        "keratosis": 6e-06,
         "bcc": 0.0,
         "akiec": 0.0,
         "dermatofibroma": 0.0,
@@ -39,11 +40,11 @@
       "true_label": "keratosis",
       "expected_pred": "keratosis",
       "expected_probs": {
-        "nevus": 0.0,
-        "melanoma": 0.0,
-        "keratosis": 0.9999,
-        "bcc": 0.0,
-        "akiec": 0.0,
+        "nevus": 9e-06,
+        "melanoma": 3.5e-05,
+        "keratosis": 0.999902,
+        "bcc": 9e-06,
+        "akiec": 4.4e-05,
         "dermatofibroma": 0.0,
         "vascular": 0.0
       }
@@ -54,11 +55,11 @@
       "true_label": "bcc",
       "expected_pred": "bcc",
       "expected_probs": {
-        "nevus": 0.0,
-        "melanoma": 0.0,
-        "keratosis": 0.0,
-        "bcc": 1.0,
-        "akiec": 0.0,
+        "nevus": 7e-06,
+        "melanoma": 3e-06,
+        "keratosis": 1e-06,
+        "bcc": 0.999987,
+        "akiec": 1e-06,
         "dermatofibroma": 0.0,
         "vascular": 0.0
       }
@@ -84,12 +85,12 @@
       "true_label": "dermatofibroma",
       "expected_pred": "dermatofibroma",
       "expected_probs": {
-        "nevus": 0.0,
-        "melanoma": 0.0,
+        "nevus": 1e-06,
+        "melanoma": 6e-06,
         "keratosis": 0.0,
-        "bcc": 0.0,
+        "bcc": 1e-06,
         "akiec": 0.0,
-        "dermatofibroma": 1.0,
+        "dermatofibroma": 0.999992,
         "vascular": 0.0
       }
     },
@@ -99,13 +100,13 @@
       "true_label": "vascular",
       "expected_pred": "vascular",
       "expected_probs": {
-        "nevus": 0.0,
-        "melanoma": 0.0,
+        "nevus": 1e-05,
+        "melanoma": 1e-06,
         "keratosis": 0.0,
         "bcc": 0.0,
         "akiec": 0.0,
         "dermatofibroma": 0.0,
-        "vascular": 1.0
+        "vascular": 0.999989
       }
     },
     {
@@ -114,13 +115,13 @@
       "true_label": "keratosis",
       "expected_pred": "melanoma",
       "expected_probs": {
-        "nevus": 0.0691,
-        "melanoma": 0.5242,
-        "keratosis": 0.4051,
-        "bcc": 0.0005,
-        "akiec": 0.0004,
-        "dermatofibroma": 0.0004,
-        "vascular": 0.0002
+        "nevus": 0.069139,
+        "melanoma": 0.525593,
+        "keratosis": 0.40371,
+        "bcc": 0.000505,
+        "akiec": 0.000441,
+        "dermatofibroma": 0.000419,
+        "vascular": 0.000192
       }
     }
   ]
