@@ -23,13 +23,16 @@ from pydantic import BaseModel, Field
 from torchvision import models, transforms
 
 BASE_DIR = Path(__file__).resolve().parent
-MODEL_DIR = Path(os.getenv("MODEL_DIR", BASE_DIR / "artifacts" / "model-v2"))
-CLASS_MAPPING_PATH = Path(os.getenv("CLASS_MAPPING_PATH", BASE_DIR / "artifacts" / "model-v2" / "class_mapping.json"))
+MODEL_DIR = Path(os.getenv("MODEL_DIR", BASE_DIR / "artifacts" / "model-v3"))
+CLASS_MAPPING_PATH = Path(os.getenv("CLASS_MAPPING_PATH", MODEL_DIR / "class_mapping.json"))
 DB_PATH = Path(os.getenv("DB_PATH", BASE_DIR / "data" / "predictions.db"))
 MAX_UPLOAD_BYTES = int(os.getenv("MAX_UPLOAD_BYTES", str(10 * 1024 * 1024)))
-REVIEW_THRESHOLD = float(os.getenv("REVIEW_THRESHOLD", "0.70"))
-# The baseline has poor melanoma recall; keep all melanoma predictions in review.
-ALWAYS_REVIEW_CLASSES = {x.strip() for x in os.getenv("ALWAYS_REVIEW_CLASSES", "melanoma").split(",") if x.strip()}
+# 0.80 chosen by the model owner on the validation set of model v3 (HAM10000): ~20% of images go to review.
+# See docs/MODEL_CARD.md section 4.1 and docs/review_threshold_sweep.json.
+REVIEW_THRESHOLD = float(os.getenv("REVIEW_THRESHOLD", "0.80"))
+# Off by default: "predicted == melanoma -> review" did not reduce missed melanomas on validation
+# (misses are melanomas predicted as another class); it only added review load.
+ALWAYS_REVIEW_CLASSES = {x.strip() for x in os.getenv("ALWAYS_REVIEW_CLASSES", "").split(",") if x.strip()}
 
 app = FastAPI(title="Skin Lesion Classifier", version="1.0.0")
 model: torch.nn.Module | None = None
@@ -61,13 +64,15 @@ def load_model() -> None:
             raise ValueError("Class order in serving_config.json and class_mapping.json differs")
         network = build_model(config["arch"], len(classes))
         # model.pt is supplied by the training team and is treated as a trusted artifact.
-        state = torch.load(MODEL_DIR / "model.pt", map_location="cpu")
+        state = torch.load(MODEL_DIR / "model.pt", map_location="cpu", weights_only=True)
         network.load_state_dict(state)
         network.eval()
         model = network
         model_info = {
             **config,
             "model_version": MODEL_DIR.name,
+            # run_id links this bundle back to the training run / MLflow (T10)
+            "run_id": (MODEL_DIR / "RUN_ID.txt").read_text(encoding="utf-8").strip() if (MODEL_DIR / "RUN_ID.txt").exists() else "unknown",
             "label_schema_version": mapping.get("label_schema_version", "unknown"),
         }
         eval_transform = transforms.Compose([
@@ -130,7 +135,8 @@ def health() -> dict[str, str]:
 def ready() -> dict[str, Any]:
     if model is None:
         raise HTTPException(status_code=503, detail={"ready": False, "error": load_error})
-    return {"ready": True, "model_version": model_info["model_version"], "classes": model_info["classes"]}
+    return {"ready": True, "model_version": model_info["model_version"], "run_id": model_info["run_id"],
+            "classes": model_info["classes"], "review_threshold": REVIEW_THRESHOLD}
 
 
 def require_ready() -> None:
@@ -171,6 +177,7 @@ async def predict(image: UploadFile = File(...)) -> dict[str, Any]:
         "scores": scores,
         "review_required": review_required,
         "model_version": model_info["model_version"],
+        "run_id": model_info["run_id"],
         "preprocessing_version": model_info["preprocessing_version"],
         "processing_ms": elapsed_ms,
     }
@@ -222,7 +229,7 @@ def web() -> str:
 
 
 WEB_PAGE = r'''<!doctype html><html lang="th"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Skin Lesion Classifier</title><style>
-body{font-family:system-ui,sans-serif;max-width:760px;margin:32px auto;padding:0 18px;background:#f7f8fb;color:#18212f}.card{background:white;padding:24px;border-radius:14px;box-shadow:0 2px 12px #14213d18;margin-bottom:18px}button{background:#1769aa;color:white;border:0;padding:11px 16px;border-radius:8px;font-weight:650;cursor:pointer}button:disabled{opacity:.6}input,select,textarea{width:100%;box-sizing:border-box;margin:8px 0 14px;padding:9px}img{max-width:100%;max-height:320px;display:none;margin:12px 0;border-radius:9px}.warning{color:#8a4100;background:#fff1df;padding:12px;border-radius:8px}.score{display:grid;grid-template-columns:130px 1fr 64px;gap:8px;align-items:center;margin:7px 0}.bar{height:11px;background:#e7ebf0;border-radius:9px}.bar i{display:block;height:100%;background:#287bb8;border-radius:9px}small{color:#566170}</style></head><body><h1>Skin Lesion Classifier</h1><p><small>เครื่องมือสาธิตเพื่อการคัดกรองเท่านั้น ไม่ใช่คำวินิจฉัยทางการแพทย์</small></p><section class="card"><h2>อัปโหลดภาพ</h2><input id="image" type="file" accept="image/jpeg,image/png,image/webp"><img id="preview" alt="ตัวอย่างภาพ"><button id="predict">วิเคราะห์ภาพ</button><p id="error" class="warning" hidden></p></section><section class="card" id="result" hidden><h2>ผลการวิเคราะห์</h2><p><b id="label"></b> <span id="confidence"></span></p><div id="review"></div><div id="scores"></div><p><small id="meta"></small></p><hr><h3>ยืนยันหรือแก้ไขผล</h3><select id="confirmed"></select><textarea id="note" placeholder="หมายเหตุ (ไม่บังคับ)"></textarea><button id="sendFeedback">บันทึก feedback</button><span id="feedbackStatus"></span></section><script>
+body{font-family:system-ui,sans-serif;max-width:760px;margin:32px auto;padding:0 18px;background:#f7f8fb;color:#18212f}.card{background:white;padding:24px;border-radius:14px;box-shadow:0 2px 12px #14213d18;margin-bottom:18px}button{background:#1769aa;color:white;border:0;padding:11px 16px;border-radius:8px;font-weight:650;cursor:pointer}button:disabled{opacity:.6}input,select,textarea{width:100%;box-sizing:border-box;margin:8px 0 14px;padding:9px}img{max-width:100%;max-height:320px;display:none;margin:12px 0;border-radius:9px}.warning{color:#8a4100;background:#fff1df;padding:12px;border-radius:8px}.score{display:grid;grid-template-columns:130px 1fr 64px;gap:8px;align-items:center;margin:7px 0}.bar{height:11px;background:#e7ebf0;border-radius:9px}.bar i{display:block;height:100%;background:#287bb8;border-radius:9px}small{color:#566170}</style></head><body><h1>Skin Lesion Classifier</h1><p><small>ต้นแบบเพื่อการศึกษา ใช้กับภาพ dermoscopy เท่านั้น ไม่ใช่คำวินิจฉัยทางการแพทย์</small></p><section class="card"><h2>อัปโหลดภาพ</h2><input id="image" type="file" accept="image/jpeg,image/png,image/webp"><img id="preview" alt="ตัวอย่างภาพ"><button id="predict">วิเคราะห์ภาพ</button><p id="error" class="warning" hidden></p></section><section class="card" id="result" hidden><h2>ผลการวิเคราะห์</h2><p><b id="label"></b> <span id="confidence"></span></p><div id="review"></div><div id="scores"></div><p><small id="meta"></small></p><hr><h3>ยืนยันหรือแก้ไขผล</h3><select id="confirmed"></select><textarea id="note" placeholder="หมายเหตุ (ไม่บังคับ)"></textarea><button id="sendFeedback">บันทึก feedback</button><span id="feedbackStatus"></span></section><script>
 let latest=null; const $=id=>document.getElementById(id); $('image').onchange=e=>{const f=e.target.files[0];$('preview').style.display=f?'block':'none';if(f)$('preview').src=URL.createObjectURL(f)};
 function error(t){$('error').hidden=!t;$('error').textContent=t||''} function pct(x){return (x*100).toFixed(1)+'%'}
 $('predict').onclick=async()=>{const f=$('image').files[0];if(!f)return error('กรุณาเลือกภาพก่อน');error('');$('predict').disabled=true;$('predict').textContent='กำลังวิเคราะห์…';try{const d=new FormData();d.append('image',f);const r=await fetch('/predict',{method:'POST',body:d});const x=await r.json();if(!r.ok)throw Error(typeof x.detail==='string'?x.detail:JSON.stringify(x.detail));latest=x;$('result').hidden=false;$('label').textContent=x.predicted_class;$('confidence').textContent='confidence '+pct(x.confidence);$('review').innerHTML=x.review_required?'<p class="warning">ควรส่งผลนี้ให้ผู้เชี่ยวชาญตรวจทาน</p>':'';$('scores').innerHTML=Object.entries(x.scores).map(([k,v])=>`<div class="score"><span>${k}</span><div class="bar"><i style="width:${v*100}%"></i></div><b>${pct(v)}</b></div>`).join('');$('meta').textContent=`${x.model_version} · preprocessing ${x.preprocessing_version} · ${x.processing_ms} ms`;$('confirmed').innerHTML=Object.keys(x.scores).map(k=>`<option ${k===x.predicted_class?'selected':''}>${k}</option>`).join('')}catch(e){error(e.message)}finally{$('predict').disabled=false;$('predict').textContent='วิเคราะห์ภาพ'}};

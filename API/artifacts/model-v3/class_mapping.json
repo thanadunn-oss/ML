@@ -1,0 +1,24 @@
+{
+  "label_schema_version": "ham10000-v1",
+  "dataset": "HAM10000",
+  "classes": [
+    "nevus",
+    "melanoma",
+    "keratosis",
+    "bcc",
+    "akiec",
+    "dermatofibroma",
+    "vascular"
+  ],
+  "dx_to_class": {
+    "nv": "nevus",
+    "mel": "melanoma",
+    "bkl": "keratosis",
+    "bcc": "bcc",
+    "akiec": "akiec",
+    "df": "dermatofibroma",
+    "vasc": "vascular"
+  },
+  "split_seed": 42,
+  "split_method": "grouped by lesion_id, stratified by dx (numpy, seed 42), ~71/14/14"
+}
